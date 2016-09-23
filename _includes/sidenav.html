@@ -7,10 +7,22 @@
         <a {% if page.title == 'Introduction' %} class="usa-current"{% endif %} href='{{ site.baseurl }}/'>Introduction</a>
       </li>
 
-      {% for topic in site.topics %}
-      <li>
-        <a {% if page.title == topic.title %}class="usa-current"{% endif %} href="{{topic.permalink}}">{{ topic.title }}</a>
-      </li>
+      {% for draft in site.drafts %}
+        {% if draft.is_section_index == "yes" %}
+        <li>
+          <a {% if page.title == draft.title %}class="usa-current"{% endif %} href="{{draft.permalink}}">{{ draft.title }}</a>
+          {% if page.title == draft.title %}
+            <ul class="usa-sidenav-sub_list">
+  <!--          {% for section in page.sections %}
+              <li><a href="#{{ section.id }}">{{section.text}}</a></li>
+            {% endfor %}-->
+            {% for section in page.sections %}
+              <li><a href="{{ section.id }}">{{section.text}}</a></li>
+            {% endfor %}
+            </ul>
+          {% endif %}
+        </li>
+        {% endif %}
       {% endfor %}
 
 <!-- 
