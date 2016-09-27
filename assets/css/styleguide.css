@@ -1740,7 +1740,7 @@ p a,
   background-image: none; }
 
 .usa-disclaimer {
-  background-color: #f1f1f1;
+  background-color: #ffffff;
   font-size: 1.3rem;
   padding-bottom: .5rem;
   padding-top: .5rem; }
@@ -2211,7 +2211,7 @@ fieldset {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: #ffffff;
+  background-color: #112e51;
   border-bottom: 1px solid #aeb0b5;
   width: 100%;
   z-index: 1; }
@@ -2235,9 +2235,9 @@ fieldset {
           text-align: left;
           width: auto; } }
       .usa-site-header .usa-site-navbar .logo a {
-        color: #5b616b; }
+        color: #ffffff; }
         .usa-site-header .usa-site-navbar .logo a:hover {
-          color: #323a45;
+          color: #ffffff;
           text-decoration: none; }
     .usa-site-header .usa-site-navbar h1 {
       margin: 0;
@@ -2260,6 +2260,20 @@ fieldset {
         font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; }
         .usa-site-header .usa-site-navbar .usa-button-list li:last-child .usa-button {
           margin-right: 0; }
+  .usa-site-header .usa-site-navbar-secondary {
+    background: #fff;
+    padding: .5rem 0;
+   }
+    .usa-site-navbar-secondary ul li {
+      display: inline; 
+      margin-left: 3rem;
+    }
+    .usa-site-navbar-secondary ul li a {
+      text-transform: uppercase;
+      font-color: usa-color-gray-dark;
+      font-size: 1rem;
+    }
+  }
   .usa-site-header .disclaimer {
     padding: .5rem 2rem;
     color: white;
@@ -2350,7 +2364,7 @@ fieldset {
 
 .sidenav {
   position: fixed;
-  top: 124px;
+  top: 12.5rem;
   bottom: 0;
   left: 0;
   width: 250px;
@@ -2362,7 +2376,9 @@ fieldset {
   .lt-ie9 .sidenav {
     width: 25%; }
   .sidenav .usa-sidenav-sub_list {
-    display: none; }
+    /*display: none; 
+    padding-left: 2rem; */
+  }
   @media screen and (min-width: 850px) {
     .sidenav {
       display: block; } }
@@ -2383,7 +2399,7 @@ fieldset {
 
 .main-content {
   position: absolute;
-  top: 4rem;
+  top: 6rem;
   right: 0;
   bottom: 0;
   padding-top: 1em;
@@ -2392,7 +2408,7 @@ fieldset {
   z-index: -1; }
   @media screen and (min-width: 600px) {
     .main-content {
-      top: 124px; } }
+      top: 12.5rem; } }
   .lt-ie9 .main-content {
     width: 75%; }
   @media screen and (min-width: 850px) {

@@ -1,21 +1,37 @@
 # Site settings
-title: Your site's title
-email: your-email@domain.com
+title: Office of the Federal Chief Information Officer
+#email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+#
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://policy.cio.gov" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 # Build settings
 markdown: kramdown
 
 # Put the information about your site's GitHub repository if it is public
-repo_url: https://github.com/xxxxx/xxxxx
+repo_url: https://github.com/ombegov/policy-v2
 
 collections: 
   topics:
     output: true
+  about:
+    output: true
+    navbar-link-text: about ofcio
+    permalink: /:path/
+    url: /
+  drafts:
+    output: true
+    navbar-link-text: draft policies
+    permalink: /drafts/:path/
+    url: /drafts/
+  finalized:
+    output: true
+    permalink: /finalized/:path/
+    navbar-link-text: finalized policies
+  resources:
+    output: false
+    navbar-link-text: resources for agencies
+    
