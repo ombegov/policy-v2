@@ -17,8 +17,21 @@ repo_url: https://github.com/ombegov/policy-v2
 collections: 
   topics:
     output: true
+  about:
+    output: true
+    navbar-link-text: about ofcio
+    permalink: /:path/
+    url: /
   drafts:
     output: true
+    navbar-link-text: draft policies
     permalink: /drafts/:path/
+    url: /drafts/
   finalized:
     output: true
+    permalink: /finalized/:path/
+    navbar-link-text: finalized policies
+  resources:
+    output: false
+    navbar-link-text: resources for agencies
+    

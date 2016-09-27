@@ -1,5 +1,5 @@
 ---
-permalink: /third-topic/
+permalink: /finalized/topic-2/topic-three/
 id: 3
 layout: default
 title: The third topic

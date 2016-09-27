@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Implementation Guide
-permalink: fitara/implementation/
+permalink: drafts/fitara/implementation/
 description: "FITARA Implementation Guidance"
 ---
 
