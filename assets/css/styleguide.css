@@ -662,7 +662,7 @@ button,
   appearance: none;
   background-color: #0071bc;
   border: 0;
-  border-radius: 0.3rem;
+  border-radius: 0rem;
   color: #ffffff;
   cursor: pointer;
   display: inline-block;
@@ -1034,6 +1034,9 @@ button,
   [type="image"].usa-button-big {
     font-size: 1.9rem;
     padding: 1.5rem 3rem; }
+
+
+	
 
 [type="submit"]:disabled,
 .usa-button-disabled {
@@ -2161,7 +2164,7 @@ fieldset {
     display: block;
     font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
     line-height: 1;
-    padding: 1rem 1rem 1rem 3.8rem; }
+    padding: 1rem 1rem 1rem 1.8rem; }
     .usa-sidenav-list a:hover {
       background-color: #f1f1f1;
       color: #0071bc;
@@ -2172,7 +2175,7 @@ fieldset {
     .usa-sidenav-list a.usa-current {
 		background-color:#323a45;
 		color:#ffffff;
-      padding: 1rem 1rem 1rem 3.8rem;}
+      padding: 1rem 1rem 1rem 1.8rem;}
 
 .usa-sidenav-sub_list {
   margin: 0;
