@@ -1,16 +1,41 @@
 ## About This Project
 
-This is a template website built to provide a baseline for documentation content such as "how-to" guides, technical manuals, and the like. It is built to conform to the [U.S. Web Design Standards](https://standards.usa.gov).
+This is the alpha version of a site that will provide a home for policy and other materials developed by the Office of the Federal Chief Information Officer, which is part of the U.S. Office of Management and Budget, within the Executive Office of the President. It is built to conform to the [U.S. Web Design Standards](https://standards.usa.gov).
 
-This project is help teams needing to make a documentation site get up and running faster. It provides a site that looks like this:
+The intention is to consolidate a number of similar sites that currently exist on subdomains of cio.gov. Sites that _may_ be consolidated into this site over time include:
 
-![image](https://cloud.githubusercontent.com/assets/1237498/15230863/df1aa2d0-1865-11e6-947c-ecde1fb3b7f9.png)
+* playbook
+* project-open-data
+* management
+* management2
+* management-stage
+* policy
+* policies
+* mobile
+* mobile-policy
+* cyberacquisitions
+* datacenters
+* software
+* sourcecode
+* project-open-source
+* agile
+* techfarhub
+* itmf
+* a130
 
-## Using the Template
+Generally the purpose of these sites has been one of three things:
+* to solicit public feedback on a draft policy
+* to present a user friendly version of a finalized policy
+* to provide implementation guidance and other materials related to a policy to help with implementation
 
-The site is built using [Jekyll](https://github.com/jekyll/jekyll "Link to More Information about Jekyll"), a Ruby library for creating generating static sites. You will need Ruby to use this project.
+The goal of this site will be to provide some support for each of those use cases in the context of a clear information architecture.
+
+> :see_no_evil: This site is currently in alpha.
+
 
 ### Installation
+
+The site is built using [Jekyll](https://github.com/jekyll/jekyll "Link to More Information about Jekyll"), a Ruby library for creating generating static sites. You will need Ruby to use this project.
 
 [to do write installation guide]
   - Install ruby
