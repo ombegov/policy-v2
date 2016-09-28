@@ -9,7 +9,7 @@
 
       {% for draft in site.drafts %}
         {% if draft.is_section_index == "yes" %}
-        <li>
+        <li {% if page.title == draft.title %} class="usa-current-section"{% endif %}>
           <a {% if page.title == draft.title %}class="usa-current"{% endif %} href="{{draft.permalink}}">{{ draft.title }}</a>
           {% if page.title == draft.title %}
             <ul class="usa-sidenav-sub_list">
