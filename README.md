@@ -1,8 +1,10 @@
+> :see_no_evil: This site is currently in alpha.
+
 ## About This Project
 
-This is the alpha version of a site that will provide a home for policy and other materials developed by the Office of the Federal Chief Information Officer, which is part of the U.S. Office of Management and Budget, within the Executive Office of the President. It is built to conform to the [U.S. Web Design Standards](https://standards.usa.gov).
+This site will provide a home for policy and other materials developed by the Office of the Federal Chief Information Officer, which is part of the U.S. Office of Management and Budget, within the Executive Office of the President. It is built to conform to the [U.S. Web Design Standards](https://standards.usa.gov).
 
-The intention is to consolidate a number of similar sites that currently exist on subdomains of cio.gov. Sites that _may_ be consolidated into this site over time include:
+The intention is to consolidate a number of similar sites that currently exist on subdomains of cio.gov. Subdomains of cio.gov that _may_ be consolidated into this site over time include:
 
 * playbook
 * project-open-data
@@ -29,8 +31,6 @@ Generally the purpose of these sites has been one of three things:
 * to provide implementation guidance and other materials related to a policy to help with implementation
 
 The goal of this site will be to provide some support for each of those use cases in the context of a clear information architecture.
-
-> :see_no_evil: This site is currently in alpha.
 
 
 ### Installation
