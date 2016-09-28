@@ -17,7 +17,7 @@
               {% if page.title == doc.title %}
                 <ul class="usa-sidenav-sub_list">
                 {% for section in page.sections %}
-                  <li><a href="{{ section.id }}">{{section.text}}</a></li>
+                  <li class="usa-current-section"><a href="{{ section.id }}">{{section.text}}</a></li>
                 {% endfor %}
                 </ul>
               {% endif %}
