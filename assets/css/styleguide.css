@@ -1035,7 +1035,28 @@ button,
     font-size: 1.9rem;
     padding: 1.5rem 3rem; }
 
+	button.usa-button-green,
+	[type="button"].usa-button-green,
+	[type="submit"].usa-button-green,
+	[type="reset"].usa-button-green,
+	[type="image"].usa-button-green
+	{
+		background-color: #47a463;
+	}
 
+	button.usa-button-blue,
+	[type="button"].usa-button-blue,
+	[type="submit"].usa-button-blue,
+	[type="reset"].usa-button-blue,
+	[type="image"].usa-button-blue
+	{
+		background-color: #00a6d2;
+	}
+
+	.usa-button-fullwidth {
+		display: block;
+		width: 100%;
+	}
 	
 
 [type="submit"]:disabled,
