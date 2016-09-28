@@ -1,9 +1,15 @@
 ---
-permalink: /first-topic/
+permalink: /finalized/topic-one/
 id: 1
 layout: default
 title: First topic
 lead: This content is about the important topic which is summarized in this lead
+is_section_index: "yes"
+sections:
+  - text: "topic 2" 
+    id: "topic-two" 
+  - text: "topic 3"
+    id: "topic-three"
 ---
 
 <p>Some content about this site.</p>

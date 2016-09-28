@@ -29,6 +29,15 @@
           </li>
       </ul>
     </nav>
+    <nav class="usa-site-navbar-secondary">
+      <ul class="usa-unstyled-list">
+        {% for collection in site.collections %}
+          {% if collection.navbar-link-text %}
+          <li><a href="{{ collection.url }}/index">{{collection.navbar-link-text}}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>  
 </header>
 
 <div class="overlay"></div>

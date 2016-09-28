@@ -1,5 +1,5 @@
 ---
-permalink: /topic-two/
+permalink: /finalized/topic-one/topic-two/
 id: 2
 layout: default
 title: Topic 2
