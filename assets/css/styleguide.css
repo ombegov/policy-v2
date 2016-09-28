@@ -1566,7 +1566,8 @@ dfn {
   font-style: normal; }
 
 .usa-content p {
-  max-width: 53rem; }
+  margin-left:.5em;
+}
 
 .usa-content-list {
   max-width: 53rem; }
