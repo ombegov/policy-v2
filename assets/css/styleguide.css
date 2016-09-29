@@ -662,7 +662,7 @@ button,
   appearance: none;
   background-color: #0071bc;
   border: 0;
-  border-radius: 0.3rem;
+  border-radius: 0rem;
   color: #ffffff;
   cursor: pointer;
   display: inline-block;
@@ -1034,6 +1034,30 @@ button,
   [type="image"].usa-button-big {
     font-size: 1.9rem;
     padding: 1.5rem 3rem; }
+
+	button.usa-button-green,
+	[type="button"].usa-button-green,
+	[type="submit"].usa-button-green,
+	[type="reset"].usa-button-green,
+	[type="image"].usa-button-green
+	{
+		background-color: #47a463;
+	}
+
+	button.usa-button-blue,
+	[type="button"].usa-button-blue,
+	[type="submit"].usa-button-blue,
+	[type="reset"].usa-button-blue,
+	[type="image"].usa-button-blue
+	{
+		background-color: #00a6d2;
+	}
+
+	.usa-button-fullwidth {
+		display: block;
+		width: 100%;
+	}
+	
 
 [type="submit"]:disabled,
 .usa-button-disabled {
@@ -1507,11 +1531,11 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Merriweather", "Georgia", "Cambria", "Times New Roman", "Times", serif;
   line-height: 1.3;
   margin-bottom: .5em;
-  margin-top: 1.5em; }
+  margin-top: 1em; }
 
 h1 {
   font-size: 4rem;
-  font-weight: 700; }
+  font-weight: 300; }
 
 h2 {
   font-size: 3rem;
@@ -1542,7 +1566,8 @@ dfn {
   font-style: normal; }
 
 .usa-content p {
-  max-width: 53rem; }
+  margin-left:.5em;
+}
 
 .usa-content-list {
   max-width: 53rem; }
@@ -1555,7 +1580,9 @@ p a,
   font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; }
 
 .usa-serif p, .usa-serif a, .usa-serif li, .usa-serif span {
-  font-family: "Merriweather", "Georgia", "Cambria", "Times New Roman", "Times", serif; }
+  font-family: "Merriweather", "Georgia", "Cambria", "Times New Roman", "Times", serif; 
+  font-weight:300;
+}
 
 .usa-sans a {
   border-bottom: none;
@@ -2133,11 +2160,12 @@ fieldset {
 .usa-sidenav-list {
   display: block;
   list-style-type: none;
-  margin: 0;
+  margin: 0 ;
   padding: 0; }
   .usa-sidenav-list li {
     display: list-item;
-    margin: 0; }
+    margin: 0;
+}
     .usa-sidenav-list li:before {
       display: none; }
     .usa-sidenav-list li:after {
@@ -2145,6 +2173,11 @@ fieldset {
   .usa-sidenav-list li {
     border-top: 1px solid #5b616b;
     font-size: 1.7rem; }
+
+    .usa-sidenav-list .usa-current-section{
+      background-color:#e2f3f8;
+    }
+
     .usa-sidenav-list li:first-child {
       border-top: none; }
   .usa-sidenav-list a {
@@ -2162,11 +2195,9 @@ fieldset {
       position: relative;
       z-index: 1; }
     .usa-sidenav-list a.usa-current {
-      color: #0071bc;
-      font-weight: 700; }
-    .usa-sidenav-list a.usa-current {
-      border-left: 4px solid #0071bc;
-      padding-left: 1.4rem; }
+		background-color:#323a45;
+		color:#ffffff;
+      padding: 1rem 1rem 1rem 1.8rem;}
 
 .usa-sidenav-sub_list {
   margin: 0;
@@ -2369,10 +2400,12 @@ fieldset {
   left: 0;
   width: 250px;
   border-right: 1px solid #aeb0b5;
-  padding: 5rem 3rem 3rem 3rem;
+  padding: 5rem 0rem 3rem 0rem;
   overflow: auto;
   display: none;
-  z-index: -1; }
+  z-index: -1; 
+}
+
   .lt-ie9 .sidenav {
     width: 25%; }
   .sidenav .usa-sidenav-sub_list {
