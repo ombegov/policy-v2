@@ -30,15 +30,25 @@
 			</div><!--/usa-width-two-thirds -->
 
 			<div class="usa-width-one-third">
+
 				<div class="usa-grid">
 					<div class="usa-width-one-whole">
-						<button class="usa-button-gray usa-button-fullwidth">Download</button>
+						<a href="{{page.repo}}/archive/gh-pages.zip" class="btn usa-button-fullwidth usa-button usa-button-gray">
+							<span>Download</span>
+							<div class="icon"><i class="fa fa-cloud-download"></i></div>
+						</a>
 					</div><!--/usa-width-one-whole -->
 					<div class="usa-width-one-whole">
-						<button class="usa-button-green usa-button-fullwidth">Discuss</button>
+						<a href="{{page.repo}}/issues" class="btn usa-button usa-button-green usa-button-fullwidth ">
+							<span>Discuss</span>
+							<div class="icon"><i class="fa fa-comments-o"></i></div>
+						</a>
 					</div><!--/usa-width-one-whole -->
 					<div class="usa-width-one-whole">
-						<button class="usa-button-blue usa-button-fullwidth">Contact</button>
+						<a href="mailto:{{page.mailto}}" class="btn usa-button-fullwidth usa-button usa-button-blue">
+							<span>Contact</span>
+							<div class="icon"><i class="fa fa-envelope"></i></div>
+						</a>
 					</div><!--/usa-width-one-whole -->
 				</div><!--/usa-grid -->
 			</div><!--/usa-width-one-third -->
