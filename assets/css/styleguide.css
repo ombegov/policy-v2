@@ -1035,22 +1035,43 @@ button,
     font-size: 1.9rem;
     padding: 1.5rem 3rem; }
 
-	button.usa-button-green,
-	[type="button"].usa-button-green,
-	[type="submit"].usa-button-green,
-	[type="reset"].usa-button-green,
-	[type="image"].usa-button-green
+	button.usa-button-greens,
+	.usa-button-greens,
+	[type="button"].usa-button-greens,
+	[type="submit"].usa-button-greens,
+	[type="reset"].usa-button-greens,
+	[type="image"].usa-button-greens
 	{
 		background-color: #47a463;
+		-webkit-transition-duration: .25s; /* Safari */
+		    transition-duration: .25s;
+			transition-timing-function: ease-out;
+	}
+	.usa-button-greens:hover {
+		background-color: #ffffff;
+		color: #47a463;
+		border-bottom: .5px solid #95bfa2;
+		border-top: .5px solid #95bfa2;
 	}
 
 	button.usa-button-blue,
+	.usa-button-blue,
 	[type="button"].usa-button-blue,
 	[type="submit"].usa-button-blue,
 	[type="reset"].usa-button-blue,
 	[type="image"].usa-button-blue
 	{
 		background-color: #00a6d2;
+		-webkit-transition-duration: .25s; /* Safari */
+		transition-duration: .25s;
+		transition-timing-function: ease-out;
+	}
+
+	.usa-button-blue:hover {
+		background-color: #ffffff;
+		color: #00a6d2;
+		border-bottom: .5px solid #00a6d2;
+		border-top: .5px solid #00a6d2;
 	}
 
 	.usa-button-fullwidth {
@@ -1058,6 +1079,7 @@ button,
 		width: 100%;
 	}
 	
+	a.test { background-color: #47a463;}
 
 [type="submit"]:disabled,
 .usa-button-disabled {
