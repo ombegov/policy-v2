@@ -1035,43 +1035,18 @@ button,
     font-size: 1.9rem;
     padding: 1.5rem 3rem; }
 
-	button.usa-button-greens,
-	.usa-button-greens,
-	[type="button"].usa-button-greens,
-	[type="submit"].usa-button-greens,
-	[type="reset"].usa-button-greens,
-	[type="image"].usa-button-greens
+	button.usa-button-green,
+	.usa-button.usa-button-green
 	{
 		background-color: #47a463;
-		-webkit-transition-duration: .25s; /* Safari */
-		    transition-duration: .25s;
-			transition-timing-function: ease-out;
 	}
-	.usa-button-greens:hover {
-		background-color: #ffffff;
-		color: #47a463;
-		border-bottom: .5px solid #95bfa2;
-		border-top: .5px solid #95bfa2;
-	}
+
 
 	button.usa-button-blue,
-	.usa-button-blue,
-	[type="button"].usa-button-blue,
-	[type="submit"].usa-button-blue,
-	[type="reset"].usa-button-blue,
-	[type="image"].usa-button-blue
+	.usa-button.usa-button-blue
 	{
 		background-color: #00a6d2;
-		-webkit-transition-duration: .25s; /* Safari */
-		transition-duration: .25s;
-		transition-timing-function: ease-out;
-	}
 
-	.usa-button-blue:hover {
-		background-color: #ffffff;
-		color: #00a6d2;
-		border-bottom: .5px solid #00a6d2;
-		border-top: .5px solid #00a6d2;
 	}
 
 	.usa-button-fullwidth {
@@ -1079,7 +1054,64 @@ button,
 		width: 100%;
 	}
 	
-	a.test { background-color: #47a463;}
+
+	.btn {
+	  position: relative;
+	}
+
+	.btn {
+	  display: inline-block;
+	  overflow: hidden;
+	  padding: 14px 60px 14px 16px;
+	  position: relative;
+	  text-decoration: none;
+	  line-height: 1;
+	}
+
+	.btn span {
+	  padding: 0;
+	  position: relative;
+	  right: 10px;
+	  transition: right 300ms ease;
+	}
+
+	.btn .icon {
+	  border-left: 1px solid rgba(255, 255, 255, 0.3);
+	  bottom: 0px;
+	  display: inline-block;
+	  line-height: 42px;
+	  position: absolute;
+	  right: 0;
+	  text-align: center;
+	  top: 0px;
+	  transition: all 300ms ease;
+	  width: 58px;
+	}
+
+
+	.btn:after {
+	  content: '';
+	  position: absolute;
+	  top: 0;
+	  bottom: 0;
+	  right: 0;
+	  left: 0;
+	  background-color: #fff;
+	  opacity: 0;
+	  transition: opacity 300ms ease;
+	}
+
+	.btn:hover span {
+	  right: 150%;
+	}
+
+	.btn:hover .icon {
+	  border-left: 0;
+	  font-size: 2.2em;
+	  width: 100%;
+	}
+
+	
 
 [type="submit"]:disabled,
 .usa-button-disabled {
