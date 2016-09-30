@@ -1,6 +1,6 @@
 ---
 id: 2
-permalink: /drafts/index/
+permalink: /drafts/
 layout: default
 title: Improving Cybersecurity Protections in Federal Acquisitions
 lead: Public Feedback Period Now Closed
