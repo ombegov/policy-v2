@@ -33,5 +33,5 @@ collections:
     navbar-link-text: finalized policies
   resources:
     output: false
-    navbar-link-text: resources for agencies
+    navbar-link-text: agency resources
     
