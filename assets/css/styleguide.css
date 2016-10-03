@@ -119,7 +119,7 @@ dfn {
  */
 h1 {
   font-size: 2em;
-  margin: 0.67em 0; }
+  margin: 0em 0; }
 
 /**
  * Address styling not present in IE 8/9.
@@ -1040,13 +1040,21 @@ button,
 	{
 		background-color: #47a463;
 	}
-
+	
+	button.usa-button-green:hover,
+	.usa-button.usa-button-green:hover{
+		background-color:#2e8541;
+	}
 
 	button.usa-button-blue,
 	.usa-button.usa-button-blue
 	{
 		background-color: #00a6d2;
-
+	}
+	
+	button.usa-button-blue:hover,
+	.usa-button.usa-button-blue:hover{
+		background-color:#0090b2;
 	}
 
 	.usa-button-fullwidth {
@@ -1062,31 +1070,48 @@ button,
 	.btn {
 	  display: inline-block;
 	  overflow: hidden;
-	  padding: 14px 60px 14px 16px;
+	  padding: 1rem 1rem 1rem 1rem;
 	  position: relative;
 	  text-decoration: none;
 	  line-height: 1;
+		font-size:1.25rem;
+		text-align:left;
+	}
+	
+	
+	@media screen and (min-width: 1050px) {
+		.btn {
+			font-size:1.75rem;
+		}
 	}
 
 	.btn span {
 	  padding: 0;
-	  position: relative;
-	  right: 10px;
-	  transition: right 300ms ease;
+		text-align:left;
 	}
 
 	.btn .icon {
-	  border-left: 1px solid rgba(255, 255, 255, 0.3);
-	  bottom: 0px;
-	  display: inline-block;
-	  line-height: 42px;
+		float: right;
+		display: none;
 	  position: absolute;
 	  right: 0;
-	  text-align: center;
-	  top: 0px;
-	  transition: all 300ms ease;
-	  width: 58px;
 	}
+
+	/*** - Desktop < 850px */
+	@media screen and (min-width: 960px) {
+		.btn .icon {
+		  border-left: 1px solid rgba(255, 255, 255, 0.3);
+		  bottom: 0px;
+		  display: inline-block;
+		  line-height: 4rem;
+		  text-align: center;
+		  top: 0px;
+		  transition: all 300ms ease;
+		  width: 25%;
+		}
+	}
+
+
 
 
 	.btn:after {
@@ -1100,17 +1125,6 @@ button,
 	  opacity: 0;
 	  transition: opacity 300ms ease;
 	}
-
-	.btn:hover span {
-	  right: 150%;
-	}
-
-	.btn:hover .icon {
-	  border-left: 0;
-	  font-size: 2.2em;
-	  width: 100%;
-	}
-
 	
 
 [type="submit"]:disabled,
@@ -1583,9 +1597,10 @@ a {
 h1, h2, h3, h4, h5, h6 {
   clear: both;
   font-family: "Merriweather", "Georgia", "Cambria", "Times New Roman", "Times", serif;
-  line-height: 1.3;
+  /*line-height: 1.3;*/
   margin-bottom: .5em;
-  margin-top: 1em; }
+  /*margin-top: 1em;*/
+}
 
 h1 {
   font-size: 4rem;
@@ -2372,7 +2387,7 @@ fieldset {
 		float: left;
 		text-align: left;
 		padding-left: 3rem;
-		width: 70%;
+		width: 80%;
 	}
 
 	/*** - Larger Screens > 850 */
@@ -2380,7 +2395,7 @@ fieldset {
 		.usa-site-header .usa-site-navbar .logo {
 			padding-left: 3rem;
 			text-align: left;
-			width: 65%;
+			width: 80%;
 		}
 	}
 /**-- END HEADER TEXT CONTAINER *****************************************************/
@@ -2401,20 +2416,24 @@ fieldset {
 		display: block;
 	}
 
-	@media screen and (min-width: 640px) {
+	@media screen and (min-width: 675px) {
 		.usa-site-header .usa-site-navbar h1 {
-			margin: .75rem 0 .75rem 0;
+			margin: .65rem 0 .65rem 0;
+			font-size: 2.2rem;
 		}
 	}
 
 	/*** - Desktop < 850px */
-	@media screen and (min-width: 850px) {
+	@media screen and (min-width: 960px) {
 		.usa-site-header .usa-site-navbar h1 {
 			margin: .5rem 0 .5rem 0;
 			display: block;
-			font-size: 3.5rem;
+			font-size: 3.0rem;
 		}
 	}
+	
+	
+	
 /**-- END H1 - HEADER TEXT *******************************************************/
 
 
@@ -2454,7 +2473,7 @@ fieldset {
 	@media screen and (min-width: 850px) {
 		.usa-site-header .usa-site-navbar .usa-button-list {
 			display: block;
-			padding: .75rem 3rem 0 0;
+			padding: .75rem 1rem 0 0;
 			margin:0;
 		}
 	}
@@ -2699,8 +2718,7 @@ fieldset {
   display: block; }
 
 .main-content {
-  position: absolute;
-  top: 6rem;
+  position: relative;
   right: 0;
   bottom: 0;
   padding-top: 1em;
@@ -2709,7 +2727,10 @@ fieldset {
   z-index: -1; }
   @media screen and (min-width: 600px) {
     .main-content {
-      top: 12.5rem; } }
+			position: absolute;
+			top: 12.5rem; 
+		} 
+	}
   .lt-ie9 .main-content {
     width: 75%; }
   @media screen and (min-width: 850px) {
