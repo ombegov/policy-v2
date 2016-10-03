@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQ
-permalink: drafts/fitara/faq/
+permalink: /fitara/faq/
 description: "FAQs on FITARA implementation"
 ---
 

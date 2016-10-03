@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Join the Community
-permalink: /drafts/fitara/community/
+permalink: /fitara/community/
 description: "Add text"
 ---
 

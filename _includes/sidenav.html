@@ -2,146 +2,32 @@
 
 <aside class="sidenav" id="menu-content">
   <nav>
+    {% assign currentCollection = site.collections | where: "label", page.collection | first %}
+    
     <ul class="usa-sidenav-list">
-<!--      <li>
-        <a {% if page.title == 'Introduction' %} class="usa-current"{% endif %} href='{{ site.baseurl }}/'>Introduction</a>
-      </li>
--->
-
-      {% for collection in site.collections %}
-        {% if collection.label == page.collection %}
-          {% for doc in collection.docs %}
-            {% if doc.is_section_index == "yes" && page.title == doc.title %}
-            <li>
-              <a {% if page.title == doc.title %}class="usa-current"{% endif %} href="{{site.baseurl}}{{doc.permalink}}">{{ doc.title }}</a>
-              {% if page.title == doc.title %}
-                <ul class="usa-sidenav-sub_list">
-                {% for section in page.sections %}
-                  <li class="usa-current-section"><a href="{{site.baseurl}}{{doc.permalink}}/{{ section.id }}">{{section.text}}</a></li>
+      <!--  iterate over collections and filter by status (draft, finalized, etc) -->
+      <li>
+        <a href="{{ site.baseurl }}/">Home</a>
+      </li>  
+      {% assign sorted_collections = (site.collections | sort: "title" ) %}
+      {% for collection in sorted_collections %}
+        {% if collection.status == currentCollection.status %}
+          <li>
+            {% if currentCollection.label == collection.label %}
+              <a class="usa-current" href="{{ site.baseurl }}{{ collection.url }}">{{ collection.title }}</a>  
+              <ul class="usa-sidenav-sub_list">
+                {% for section in collection.docs %}
+                  <li class="usa-current-section"><a href="{{ site.baseurl }}{{ section.permalink }}">{{ section.title }}</a>
+                  </li>
                 {% endfor %}
-                </ul>
-              {% endif %}
-            </li>
+              </ul>
+            {% else %}
+              <a href="{{ site.baseurl }}{{ collection.url }}">{{ collection.title }}</a>  
             {% endif %}
-          {% endfor %}
+          </li>
         {% endif %}
       {% endfor %}
-      
-<!-- 
-      <li>
-        <a {% if current[1] == 'getting-started' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/getting-started/">Getting started</a>
-      </li>
-      <li>
-        <a {% if current[1] == 'visual-style' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/visual-style/">Visual style</a>
-        <ul class="usa-sidenav-sub_list visual-style-sublist">
-          <li>
-            <a href="{{ site.baseurl }}/visual-style/#typography">Typography</a>
-            <ul class="usa-sidenav-sub_list">
-              <li>
-                <a href="{{ site.baseurl }}/visual-style/#typefaces">Typefaces</a>
-              </li>
-              <li>
-                <a href="{{ site.baseurl }}/visual-style/#pairings">Pairings and styles</a>
-              </li>
-              <li>
-                <a href="{{ site.baseurl }}/visual-style/#typesetting">Typesetting</a>
-              </li>
-              <li>
-                <a href="{{ site.baseurl }}/visual-style/#links">Links</a>
-              </li>
-              <li>
-                <a href="{{ site.baseurl }}/visual-style/#lists">Lists</a>
-              </li>
-            </ul>
-          </li>
-          <li>
-            <a href="{{ site.baseurl }}/visual-style/#colors">Colors</a>
-            <ul class="usa-sidenav-sub_list">
-              <li>
-                <a href="{{ site.baseurl }}/visual-style/#palette">Palette</a>
-              </li>
-              <li>
-                <a href="{{ site.baseurl }}/visual-style/#text-accessibility">Text accessibility</a>
-              </li>
-            </ul>
-          </li>
-        </ul>
-      </li> 
-      <li>
-        <a {% if current[1] == 'grids' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/grids/">Grid</a>
-      </li>
-      <li>
-        <a {% if current[1] == 'buttons' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/buttons/">Buttons</a>
-      </li>
-      <li>
-        <a {% if current[1] == 'labels' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/labels/">Labels</a>
-      </li>
-      <li>
-        <a {% if current[1] == 'tables' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/tables/">Tables</a>
-      </li>
-      <li>
-        <a {% if current[1] == 'alerts' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/alerts/">Alerts</a>
-      </li>
-      <li>
-        <a {% if current[1] == 'accordions' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/accordions/">Accordions</a>
-      </li>
-      <li>
-        <a {% if current[1] == 'form-controls' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/form-controls/">Form controls</a>
-        <ul class="usa-sidenav-sub_list form-controls-sublist">
-          <li>
-            <a href="{{ site.baseurl }}/form-controls/#text-inputs">Text inputs and area</a>
-          </li>
-          <li>
-            <a href="{{ site.baseurl }}/form-controls/#dropdown">Dropdown</a>
-          </li>
-          <li>
-            <a href="{{ site.baseurl }}/form-controls/#checkboxes">Checkboxes</a>
-          </li>
-          <li>
-            <a href="{{ site.baseurl }}/form-controls/#radiobuttons">Radio buttons</a>
-          </li>
-          <li>
-            <a href="{{ site.baseurl }}/form-controls/#date-input">Date input</a>
-          </li>
-        </ul>
-      </li>
-      <li>
-        <a {% if current[1] == 'form-templates' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/form-templates/">Form templates</a>
-        <ul class="usa-sidenav-sub_list form-templates-sublist">
-          <li>
-            <a href="{{ site.baseurl }}/form-templates/#name-form">Name form</a>
-          </li>
-          <li>
-            <a href="{{ site.baseurl }}/form-templates/#address-form">Address form</a>
-          </li>
-          <li>
-            <a href="{{ site.baseurl }}/form-templates/#login-form">Sign-in form</a>
-          </li>
-          <li>
-            <a href="{{ site.baseurl }}/form-templates/#password-reset-form">Password reset form</a>
-          </li>
-        </ul>
-      </li>
-      <li>
-        <a {% if current[1] == 'search-bar' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/search-bar/">Search bar</a>
-      </li>
-      <li>
-        <a {% if current[1] == 'sidenav' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/sidenav/">Side navigation</a>
-      </li>
-      <li>
-        <a {% if current[1] == 'footers' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/footers/">Footers</a>
-        <ul class="usa-sidenav-sub_list footers-sublist">
-          <li>
-            <a href="{{ site.baseurl }}/footers/#big-footer">Big footer</a>
-          </li>
-          <li>
-            <a href="{{ site.baseurl }}/footers/#medium-footer">Medium footer</a>
-          </li>
-          <li>
-            <a href="{{ site.baseurl }}/footers/#slim-footer">Slim footer</a>
-          </li>
-        </ul>
-      </li> -->
+
     </ul>
   </nav>
 </aside>

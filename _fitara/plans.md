@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Agency FITARA Implementation Plans
-permalink: fitara/plans/
+permalink: /fitara/plans/
 description: "Agency Implementation Plans"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Policy Resources
-permalink: fitara/policy/
+permalink: /fitara/policy/
 description: "Add text"
 ---
 
