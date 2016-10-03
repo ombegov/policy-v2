@@ -15,23 +15,23 @@ markdown: kramdown
 repo_url: https://github.com/ombegov/policy-v2
 
 collections: 
-  topics:
-    output: true
   about:
     output: true
-    navbar-link-text: about ofcio
     permalink: /:path/
     url: /
+    navbar-link-text: about ofcio
   drafts:
     output: true
-    navbar-link-text: draft policies
     permalink: /drafts/:path/
     url: /drafts/
+    navbar-link-text: draft policies
   finalized:
     output: true
     permalink: /finalized/:path/
+    url: /finalized/
     navbar-link-text: finalized policies
   resources:
-    output: false
+    output: true
+    permalink: /resources/:path/
+    url: /resources/
     navbar-link-text: agency resources
-    
