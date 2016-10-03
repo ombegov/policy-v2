@@ -34,4 +34,4 @@ collections:
     output: true
     permalink: /resources/:path/
     url: /resources/
-    navbar-link-text: resources for agencies
+    navbar-link-text: agency resources
