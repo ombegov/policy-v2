@@ -15,23 +15,39 @@ markdown: kramdown
 repo_url: https://github.com/ombegov/policy-v2
 
 collections: 
-  topics:
+  overview:
     output: true
-  about:
-    output: true
-    navbar-link-text: about ofcio
     permalink: /:path/
     url: /
-  drafts:
+    status: home 
+    title: Home
+  drafts_overview:
     output: true
-    navbar-link-text: draft policies
     permalink: /drafts/:path/
     url: /drafts/
-  finalized:
+    status: draft
+    title: Draft Policies
+  finalized_overview:
     output: true
-    permalink: /finalized/:path/
-    navbar-link-text: finalized policies
-  resources:
-    output: false
-    navbar-link-text: resources for agencies
-    
+    permalink: /finalized/:path
+    url: /finalized/
+    status: finalized
+    title: Finalized Policies
+  resources_overview:
+    output: true
+    permalink: /resources/:path/
+    url: /resources/
+    status: resource
+    title: Agency Resources
+  fitara:
+    output: true
+    permalink: /fitara/:path/
+    url: /fitara/
+    status: draft
+    title: Management and Oversight of Federal Information Technology
+  cyber-acquisitions:
+    output: true
+    permalink: /cybersecurity-protections-in-federal-acquisitions/:path/
+    url: /cybersecurity-protections-in-federal-acquisitions/
+    status: draft
+    title: Improving Cybersecurity Protections in Federal Acquisitions

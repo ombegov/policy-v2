@@ -20,22 +20,18 @@
       </div>
       <ul class="usa-button-list usa-unstyled-list">
         <li>
-          <a class="usa-button" href="#">Discuss</a>
-        </li>
-        <li>
           <a class="usa-button usa-button-outline-inverse" href="{{ site.repos[0].url }}">
-            View on GitHub
+            View the code.
           </a>
           </li>
       </ul>
     </nav>
     <nav class="usa-site-navbar-secondary">
       <ul class="usa-unstyled-list">
-        {% for collection in site.collections %}
-          {% if collection.navbar-link-text %}
-          <li><a href="{{ collection.url }}/index">{{collection.navbar-link-text}}</a></li>
-          {% endif %}
-        {% endfor %}
+          <li><a href="{{site.baseurl}}/">Home</a></li>
+          <li><a href="{{site.baseurl}}/drafts/">Draft Policies</a></li>
+          <li><a href="{{site.baseurl}}/finalized/">Finalized Policies</a></li>
+          <li><a href="{{site.baseurl}}/resources/">Resources for Agencies</a></li>
       </ul>
     </nav>  
 </header>

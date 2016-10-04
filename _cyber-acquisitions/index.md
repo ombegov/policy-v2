@@ -1,12 +1,14 @@
 ---
-id: 2
-permalink: /drafts/index/
+id: 1
 layout: default
 title: Improving Cybersecurity Protections in Federal Acquisitions
+permalink: /cybersecurity-protections-in-federal-acquisitions/
 lead: Public Feedback Period Now Closed
-is_section_index: "no"
-
+is_section_index: "yes"
+repo: https://github.com/WhiteHouse/source-code-policy
+mailto: info@ocfio.gov
 ---
+
 
 The public feedback period is now closed. OMB is currently reviewing comments received and incorporating public feedback, as appropriate, to develop final guidance.
 
