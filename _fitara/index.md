@@ -1,14 +1,9 @@
 ---
 layout: default
-title: Management and Oversight of Federal Information Technology
-permalink: /drafts/fitara/
+title: Introduction
+permalink: /fitara/
 description: FITARA Implementation 
 is_section_index: "yes"
-sections:
-  - text: "Community" 
-    id: "community" 
-  - text: "FAQ"
-    id: "faq"
 
 ---
 
