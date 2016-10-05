@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Welcome 
-permalink: /_policy_schema/
+permalink: /policy_schema/
 description: "Welcome"
 ---
 
