@@ -5,7 +5,7 @@ permalink: /policy_schema/
 description: Related Projects
 ---
 
-## Related Projects
+
 Here you will find a list of projects that we have used to shape our Policy Schema. If you have any suggestions, feel free to comment on this page. Our office is always looking for more information to refine the Policy Schema.
 
 ### [NARA Standard] (http://www.archives.gov/preservation/technical/guidelines.html)
