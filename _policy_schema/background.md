@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Background on Schema
-permalink: /_policy_schema/background/
+permalink: /policy_schema/background/
 description: "background"
 ---
 
