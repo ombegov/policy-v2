@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Example of Schema in XML
-permalink: /_policy_schema//
+permalink: /policy_schema/
 description: Example of Schema in XML
 ---
 In this section you will find a example of the Policy Schema in XML format.  XML offers the best utilization for providing structure to policy documents.  It is structured in a way that makes it easy to consume large documents.
