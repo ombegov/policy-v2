@@ -51,7 +51,7 @@ collections:
     url: /cybersecurity-protections-in-federal-acquisitions/
     status: draft
     title: Improving Cybersecurity Protections in Federal Acquisitions
-  Policy_Schema:
+  policy_schema:
     output: true
     permalink: /policy_schema/:path/
     url: /policy-schema/
