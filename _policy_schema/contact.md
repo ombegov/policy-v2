@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact Information
-permalink: /_policy_schema/contact/
+permalink: /policy_schema/contact/
 description: Contact Information
 ---
 
