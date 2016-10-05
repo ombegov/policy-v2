@@ -18,7 +18,15 @@
 		<div class="usa-grid">
 
 			<div class="usa-width-two-thirds"> 
+				
+					 {% assign pageCollection = site.collections | where: "label", page.collection | first %}
+					 <!--{{ pageCollection | inspect }} -->
+		
+				
 			    <h1 id="{{ page.title | slugify }}">
+						
+					
+					
 					{{ page.title }}
 				</h1>
 			    <p class="usa-font-lead">
@@ -39,11 +47,17 @@
 						</a>
 					</div><!--/usa-width-one-whole -->
 					<div class="usa-width-one-whole">
-						<a href="{{page.repo}}/issues" class="btn usa-button usa-button-green usa-button-fullwidth ">
+						{% if pageCollection.githublabel %}
+						<a href="{{page.repo}}/labels/{{pageCollection.githublabel}}" class="btn usa-button usa-button-green usa-button-fullwidth ">
+						{% else %}
+						<a href="{{page.repo}}" class="btn usa-button usa-button-green usa-button-fullwidth ">
+						{% endif %}
 							<span>Discuss</span>
 							<div class="icon"><i class="fa fa-comments-o"></i></div>
 						</a>
 					</div><!--/usa-width-one-whole -->
+					
+					
 					<div class="usa-width-one-whole">
 						<a href="mailto:{{page.mailto}}" class="btn usa-button-fullwidth usa-button usa-button-blue">
 							<span>Contact</span>
