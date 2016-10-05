@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Governance
-permalink: /_policy_schema/governance/
+permalink: /policy_schema/governance/
 description: 
 ---
-## Governance
+
 In this section you will find information on how we plan on maturing the Policy Schema model over time.  The OFCIO recognizes the need to update the model on a regular basis.  As the Policy Schema becomes more widely used, the need to add attributes will be phased in.  
 ### Timeline
 On a yearly basis we will refine the schema to ensure it stays relevant to government practitioners. The OFCIO will work with experts in the academic, private, and public realm. We want to develop a schema that can be used throughout the government and adopted by anyone seeking to clarify complex policy.
