@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Related Projects
-permalink: /_policy_schema//
+permalink: /policy_schema/
 description: Related Projects
 ---
 
