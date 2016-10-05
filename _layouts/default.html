@@ -15,6 +15,10 @@
     <div class="main-content" id="main-content">
 
       <div class="styleguide-content usa-content">
+				
+				
+{% include cta-top.html %}
+				
 		<div class="usa-grid">
 
 			<div class="usa-width-two-thirds"> 
@@ -25,8 +29,6 @@
 				
 			    <h1 id="{{ page.title | slugify }}">
 						
-					
-					
 					{{ page.title }}
 				</h1>
 			    <p class="usa-font-lead">
@@ -56,8 +58,6 @@
 							<div class="icon"><i class="fa fa-comments-o"></i></div>
 						</a>
 					</div><!--/usa-width-one-whole -->
-					
-					
 					<div class="usa-width-one-whole">
 						<a href="mailto:{{page.mailto}}" class="btn usa-button-fullwidth usa-button usa-button-blue">
 							<span>Contact</span>
