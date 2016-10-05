@@ -4,7 +4,7 @@ title: Welcome
 permalink: /_policy_schema/
 description: "Welcome"
 ---
-## Welcome
+
 Hello, and welcome to the Policy Schema Website. On this site you will find information on the Federal Chief Information Officer’s efforts to build a data schema for organizing public policy.  We are calling this the “Policy Schema” and will use it to organize IT Policy both in the drafting process and when presenting information about our policies upon publication.  As the Policy Schema is developed, we invite you to comment on the model and provide us feedback.  For more information on the Policy Schema please visit our background page here. 
 We have organized the content of this site to facilitate ongoing discussions.  Below is a brief description of the content that you will find in each section.
 * Background on Schema
