@@ -21,33 +21,39 @@ collections:
     url: /
     status: home 
     title: Home
+    githublabel: Home
   drafts_overview:
     output: true
     permalink: /drafts/:path/
     url: /drafts/
     status: draft
     title: Draft Policies
+    githublabel: Draft Policies
   finalized_overview:
     output: true
     permalink: /finalized/:path
     url: /finalized/
     status: finalized
     title: Finalized Policies
+    githublabel: Finalized Policies
   resources_overview:
     output: true
     permalink: /resources/:path/
     url: /resources/
     status: resource
     title: Agency Resources
+    githublabel: Agency Resources
   fitara:
     output: true
     permalink: /fitara/:path/
     url: /fitara/
     status: draft
     title: Management and Oversight of Federal Information Technology
+    githublabel: fitara
   cyber-acquisitions:
     output: true
     permalink: /cybersecurity-protections-in-federal-acquisitions/:path/
     url: /cybersecurity-protections-in-federal-acquisitions/
-    status: draft
+    status: drafty
     title: Improving Cybersecurity Protections in Federal Acquisitions
+    githublabel: Cybersecurity
