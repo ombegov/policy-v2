@@ -7,30 +7,28 @@
   </head>
 
   <body class="{{ page.title | slugify }}">
-
+		
     {% include navbar.html %}
 
     {% include sidenav.html %}
 
     <div class="main-content" id="main-content">
-
       <div class="styleguide-content usa-content">
 				
 				
-{% include cta-top.html %}
+
 				
 		<div class="usa-grid">
 
 			<div class="usa-width-two-thirds"> 
-				
 					 {% assign pageCollection = site.collections | where: "label", page.collection | first %}
-					 <!--{{ pageCollection | inspect }} -->
-		
-				
+					 <!--{{ page | inspect }} -->
 			    <h1 id="{{ page.title | slugify }}">
-						
 					{{ page.title }}
 				</h1>
+
+				{% include cta-top.html %}
+
 			    <p class="usa-font-lead">
 					{{ page.lead }}
 				</p><!--/usa-font-lead -->
@@ -39,7 +37,7 @@
 				</div><!--/usa-serif -->
 			</div><!--/usa-width-two-thirds -->
 
-			<div class="usa-width-one-third">
+			<div class="usa-width-one-third desktop-only">
 
 				<div class="usa-grid">
 					<div class="usa-width-one-whole">

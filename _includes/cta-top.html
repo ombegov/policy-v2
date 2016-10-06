@@ -1,0 +1,29 @@
+
+
+
+
+<div class="usa-site-navbar-secondary mobile-only">
+      <ul class="usa-unstyled-list">
+          <li>
+          	
+						<a href="{{page.repo}}/archive/gh-pages.zip" >
+							<i class="fa fa-cloud-download"></i>&nbsp;<span>Download</span>
+						</a>
+						
+          </li>
+          <li>
+						{% if pageCollection.githublabel %}
+						<a href="{{page.repo}}/labels/{{pageCollection.githublabel}}" >
+						{% else %}
+						<a href="{{page.repo}}">
+						{% endif %}
+							<i class="fa fa-comments-o"></i>&nbsp;<span>Discuss</span>
+						</a>
+          </li>
+          <li>
+						<a href="mailto:{{page.mailto}}">
+							<span>Contact</span>&nbsp;<i class="fa fa-envelope"></i>
+						</a>
+					</li>
+      </ul>
+    </div>
