@@ -1,11 +1,8 @@
 ---
-layout: page
-title: Agency FITARA Implementation Plans
-permalink: /fitara/plans/
-description: "Agency Implementation Plans"
+layout: default
+title: Public Agency FITARA Implementation Plans
+permalink: /fitara-resources/plans/
 ---
-
-# Public FITARA Implementation Plans
 
 * [Department of Agriculture](http://www.usda.gov/documents/federal-info-tech-acquisition-reform-act.pdf)	 	 	 	 	 	 	 
 * [Department of Commerce](https://www.commerce.gov/sites/commerce.gov/files/fitara_doc_common_baseline_self_assessment_and_plan_12-18-15.docx)	 	 	 	
