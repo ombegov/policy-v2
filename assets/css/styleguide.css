@@ -2285,9 +2285,16 @@ fieldset {
       position: relative;
       z-index: 1; }
     .usa-sidenav-list a.usa-current {
+		background-color:#1f5594;
+		color:#ffffff;
+      padding: 1rem 1rem 1rem 1.8rem;
+    }
+    
+    .usa-sidenav-list a.usa-current-main {
 		background-color:#323a45;
 		color:#ffffff;
-      padding: 1rem 1rem 1rem 1.8rem;}
+      padding: 1rem 1rem 1rem 1.8rem;
+    }
 
 .usa-sidenav-sub_list {
   margin: 0;
