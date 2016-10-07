@@ -1,3 +1,10 @@
+---
+layout: default
+title: Policy Schema 
+permalink: /policy_schema/schema/
+description: Latest version of the Policy Schema 
+---
+
 ## Here you wil find the latest version of  the policy Schema 
 
 | OMB Data Element   | Data Type                                                                                                                                                                                                                                                                      | Optional? | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |   |
