@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: default
 title: Policy Resources
-permalink: /fitara/policy/
-description: "Add text"
+permalink: /fitara-resources/policy/
 ---
 
-# Templates, resources and guidance to help agencies implement FITARA:
+Templates, resources and guidance to help agencies implement FITARA
 
 ## Guidance 
 * [OMB Memorandum M-15-14: Management and Oversight of Federal Information Technology](/implementation/#OMB-Memorandum-M-15-14) [[Download PDF]](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf)

@@ -20,7 +20,7 @@ collections:
     permalink: /:path/
     url: /
     status: home 
-    title: Home
+    title: Welcome
     githublabel: Home
   drafts_overview:
     output: true
@@ -47,13 +47,20 @@ collections:
     output: true
     permalink: /fitara/:path/
     url: /fitara/
-    status: draft
-    title: Management and Oversight of Federal Information Technology
+    status: finalized
+    title: "M-15-14: Management and Oversight of Federal Information Technology"
+    githublabel: fitara
+  fitara-resources:
+    output: true
+    permalink: /fitara-resources/:path/
+    url: /fitara-resources/
+    status: resource
+    title: FITARA resources
     githublabel: fitara
   cyber-acquisitions:
     output: true
     permalink: /cybersecurity-protections-in-federal-acquisitions/:path/
     url: /cybersecurity-protections-in-federal-acquisitions/
-    status: drafty
+    status: draft
     title: Improving Cybersecurity Protections in Federal Acquisitions
     githublabel: Cybersecurity

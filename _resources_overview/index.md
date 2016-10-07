@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Overview
+title: Resources for Agencies
 permalink: /resources/
 ---
 
-# Agency Resources
+Agencies can use the resources provided here to help understand what is required by current technology policy and ease compliance. 
