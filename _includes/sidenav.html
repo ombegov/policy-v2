@@ -8,13 +8,13 @@
 
       {% if currentCollection.label == null %}
         <li>
-          <a class="usa-current" href="{{ site.baseurl }}">Home</a>  
+          <a class="usa-current-main" href="{{ site.baseurl }}">Home</a>  
           <a href="{{ site.baseurl }}/drafts/">Draft Policies</a> 
           <a href="{{ site.baseurl }}/finalized/">Finalized Policies</a>  
           <a href="{{ site.baseurl }}/resources/">Resources for Agencies</a> 
         </li>
       {% else %}
-          <a class="usa-current" href="{{ site.baseurl }}">Home</a>  
+          <a class="usa-current-main" href="{{ site.baseurl }}">Home</a>  
         </li>
       {% endif %}
       <!--  iterate over collections and filter by status (draft, finalized, etc) -->  
