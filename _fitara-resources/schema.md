@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FITARA Common Baseline Publishing Schema 
-permalink: /fitara/schema/
+permalink: /fitara-resources/schema/
 filename: schema.md
 ---
 
