@@ -2285,9 +2285,16 @@ fieldset {
       position: relative;
       z-index: 1; }
     .usa-sidenav-list a.usa-current {
+		background-color:#1f5594;
+		color:#ffffff;
+      padding: 1rem 1rem 1rem 1.8rem;
+    }
+    
+    .usa-sidenav-list a.usa-current-main {
 		background-color:#323a45;
 		color:#ffffff;
-      padding: 1rem 1rem 1rem 1.8rem;}
+      padding: 1rem 1rem 1rem 1.8rem;
+    }
 
 .usa-sidenav-sub_list {
   margin: 0;
@@ -2703,7 +2710,7 @@ fieldset {
 
 .sidenav {
   position: fixed;
-  top: 12.5rem;
+  top: 9.5rem;
   bottom: 0;
   left: 0;
   width: 250px;
@@ -2742,14 +2749,15 @@ fieldset {
   position: relative;
   right: 0;
   bottom: 0;
-  padding-top: 1em;
+  padding-top: .5em;
   padding-bottom: 0;
   width: 100%;
+  top: 3.5rem; 
 }
   @media screen and (min-width: 600px) {
     .main-content {
 			position: absolute;
-			top: 12.5rem; 
+			top: 14.5rem; 
 		} 
 	}
   .lt-ie9 .main-content {

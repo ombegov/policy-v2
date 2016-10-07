@@ -43,13 +43,20 @@ collections:
     status: resource
     title: Agency Resources
     githublabel: Agency Resources
-  fitara:
+  m-15-14-fitara:
     output: true
     permalink: /fitara/:path/
     url: /fitara/
     status: finalized
     title: "M-15-14: Management and Oversight of Federal Information Technology"
     githublabel: fitara
+  m-16-21-source-code:
+    output: true
+    permalink: /source-code/:path/
+    url: /source-code/
+    status: finalized
+    title: "M-16-21: Federal Source Code Policy"
+    githublabel: source-code
   fitara-resources:
     output: true
     permalink: /fitara-resources/:path/
@@ -63,4 +70,4 @@ collections:
     url: /cybersecurity-protections-in-federal-acquisitions/
     status: draft
     title: Improving Cybersecurity Protections in Federal Acquisitions
-    githublabel: Cybersecurity
+    githublabel: cyber-acquisitions

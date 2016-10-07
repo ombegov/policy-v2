@@ -1,12 +1,7 @@
 ---
-id: 1
 layout: default
 title: Improving Cybersecurity Protections in Federal Acquisitions
 permalink: /cybersecurity-protections-in-federal-acquisitions/
-lead: Public Feedback Period Now Closed
-is_section_index: "yes"
-repo: https://github.com/WhiteHouse/source-code-policy
-mailto: info@ocfio.gov
 ---
 
 
