@@ -1,11 +1,8 @@
 ---
 layout: default
 title: Join the Community
-permalink: /fitara/community/
-description: "Add text"
+permalink: /fitara-resources/community/
 ---
-
-# FITARA Community Resources and Support
 
 ## Sign up for the FITARA Listserv
 Anyone with a .gov or .mil email address can join by emailing [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov), the message should have no subject and the body should say "subscribe FITARA".

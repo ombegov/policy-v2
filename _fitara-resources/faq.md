@@ -1,11 +1,9 @@
 ---
 layout: default
-title: FAQ
-permalink: /fitara/faq/
+title: Frequently asked questions
+permalink: /fitara-resources/faq/
 description: "FAQs on FITARA implementation"
 ---
-
-# Frequently Asked Questions 
 
 ## Sections
 [Overall Guidance](#Overall-Guidance)  
