@@ -2765,7 +2765,14 @@ fieldset {
   max-width: 1040px;
   padding-right: 2em;
   padding-left: 2em;
-  position: relative; }
+  position: relative; 
+  
+  min-height: 70%;
+  min-height: -webkit-calc(100% - 186px);
+  min-height: -moz-calc(100% - 186px);
+  min-height: calc(100% - 186px);
+  
+}
   .styleguide-content > h1 {
     margin-top: 3.4rem; }
     .styleguide-content > h1:not(:first-child) {
