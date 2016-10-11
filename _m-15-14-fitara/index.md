@@ -1,11 +1,9 @@
 ---
-layout: page
-title: Implementation Guide
-permalink: /fitara/implementation/
-description: "FITARA Implementation Guidance"
+layout: default
+title: Management and Oversight of Federal Information Technology
+permalink: /fitara/
 ---
 
-# Management and Oversight of Federal Information Technology
 Office of Management and Budget (OMB) M-15-14
 
 _A New Foundation for Technology Management – June 10, 2015_ 

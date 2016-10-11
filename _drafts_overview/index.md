@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Overview
+title: Draft Federal Technology Policies
 permalink: /drafts/
 ---
 
-# About Draft Policies
+Here you can browse draft Federal technology policy and lend your thoughts about how it can be improved as it moves toward finalization.

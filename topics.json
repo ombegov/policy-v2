@@ -1,4 +1,0 @@
----
----
-
-{{ site.topics | map:"to_liquid" | jsonify }}

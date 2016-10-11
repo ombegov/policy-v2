@@ -1,0 +1,21 @@
+<div class="usa-site-navbar-secondary mobile-only">
+      <ul class="usa-unstyled-list">
+          <li>
+          	
+						<a href="{{site.repo_url}}/archive/gh-pages.zip" >
+							<i class="fa fa-cloud-download"></i>&nbsp;<span>Download</span>
+						</a>
+						
+          </li>
+          <li>
+ 				{% assign pageCollection = site.collections | where: "label", page.collection | first %}
+				{% if pageCollection.githublabel %}
+					<a href="{{site.repo_url}}/labels/{{pageCollection.githublabel}}" >
+				{% else %}
+					<a href="{{site.repo_url}}/issues">
+				{% endif %}
+				<i class="fa fa-comments-o"></i>&nbsp;<span>Discuss</span>
+				</a>
+          </li>
+      </ul>
+    </div>

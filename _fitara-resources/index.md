@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction
-permalink: /fitara/
+permalink: /fitara-resources/
 description: FITARA Implementation 
 is_section_index: "yes"
 
