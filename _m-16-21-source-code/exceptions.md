@@ -1,5 +1,6 @@
 ---
 layout: default
+display_order: 7
 title: Exceptions to Government Code Reuse
 permalink: /source-code/exceptions/
 description: 

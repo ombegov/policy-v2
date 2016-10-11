@@ -25,11 +25,10 @@
             {% if currentCollection.label == collection.label %}
               <a class="usa-current" href="{{ site.baseurl }}{{ collection.url }}">{{ collection.title }}</a>  
               <ul class="usa-sidenav-sub_list">
-                {% for section in collection.docs %}
-                  {% if section.permalink != collection.url %}
+                {% assign currentSections = collection.docs | sort: "display_order" %}
+                {% for section in currentSections %}
                     <li class="usa-current-section"><a href="{{ site.baseurl }}{{ section.permalink }}">{{ section.title }}</a>
                     </li>
-                  {% endif %}
                 {% endfor %}
               </ul>
             {% else %}

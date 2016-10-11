@@ -1,7 +1,8 @@
 ---
 layout: default
+display_order: 1
 title: Welcome 
-permalink: /policy_schema/
+permalink: /policy-schema/
 description: "Welcome"
 ---
 

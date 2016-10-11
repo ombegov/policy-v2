@@ -1,7 +1,8 @@
 ---
 layout: default
+display_order: 3
 title: Policy Schema 
-permalink: /policy_schema/schema/
+permalink: /policy-schema/schema/
 description: Latest version of the Policy Schema 
 ---
 

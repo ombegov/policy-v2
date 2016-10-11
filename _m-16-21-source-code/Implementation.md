@@ -1,5 +1,6 @@
 ---
 layout: default
+display_order: 8
 title: Implementation
 permalink: /source-code/implementation/
 description: Implementation

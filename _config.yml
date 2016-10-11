@@ -71,9 +71,4 @@ collections:
     status: draft
     title: Improving Cybersecurity Protections in Federal Acquisitions
     githublabel: cyber-acquisitions
-  policy_schema:
-    output: true
-    permalink: /policy_schema/:path/
-    url: /policy-schema/
-    status: draft
-    title: Policy Schema 
+    

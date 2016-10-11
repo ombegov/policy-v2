@@ -1,5 +1,6 @@
 ---
 layout: default
+display_order: 4
 title: Three-Step Software Solutions Analysis
 permalink: /source-code/three-step-software-solutions-analysis/
 description: 

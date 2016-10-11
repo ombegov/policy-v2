@@ -1,7 +1,8 @@
 ---
 layout: default
+display_order: 5
 title: Governance
-permalink: /policy_schema/governance/
+permalink: /policy-schema/governance/
 description: 
 ---
 

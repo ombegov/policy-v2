@@ -1,5 +1,6 @@
 ---
 layout: default
+display_order: 4
 title: Join the Community
 permalink: /fitara-resources/community/
 ---

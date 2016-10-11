@@ -1,5 +1,6 @@
 ---
 layout: default
+display_order: 3
 title: Policy Resources
 permalink: /fitara-resources/policy/
 ---

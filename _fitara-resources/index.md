@@ -1,5 +1,6 @@
 ---
 layout: default
+display_order: 1
 title: Introduction
 permalink: /fitara-resources/
 description: FITARA Implementation 

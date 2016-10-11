@@ -1,5 +1,6 @@
 ---
 layout: default
+display_order: 5
 title: Public Agency FITARA Implementation Plans
 permalink: /fitara-resources/plans/
 ---
