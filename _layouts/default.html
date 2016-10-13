@@ -38,16 +38,18 @@
 
 			<div class="usa-width-one-third desktop-only">
 
-				<div class="usa-grid">
+				<div class="usa-grid"> 
 					<div class="usa-width-one-whole">
-						<a href="{{ site.repo_url }}/archive/gh-pages.zip" class="btn usa-button-fullwidth usa-button usa-button-gray">
-							<span>Download</span>
-							<div class="icon"><i class="fa fa-cloud-download"></i></div>
-						</a>
+						{% if pageCollection.download-link %}
+							<a href="{{ pageCollection.download-link }}" class="btn usa-button-fullwidth usa-button usa-button-gray">
+								<span>Download</span>
+								<div class="icon"><i class="fa fa-cloud-download"></i></div>
+							</a>
+						{% endif %}
 					</div><!--/usa-width-one-whole -->
 					<div class="usa-width-one-whole">
-						{% if pageCollection.githublabel %}
-							<a href="{{ site.repo_url }}/labels/{{ pageCollection.githublabel }}" class="btn usa-button usa-button-green usa-button-fullwidth ">
+						{% if pageCollection.github-label %}
+							<a href="{{ site.repo_url }}/labels/{{ pageCollection.github-label }}" class="btn usa-button usa-button-green usa-button-fullwidth ">
 						{% else %}
 							<a href="{{ site.repo_url }}" class="btn usa-button usa-button-green usa-button-fullwidth ">
 						{% endif %}

@@ -6,17 +6,17 @@
     
     <ul class="usa-sidenav-list">
 
-      {% if currentCollection.label == null %}
+      
         <li>
-          <a class="usa-current-main" href="{{ site.baseurl }}">Home</a>  
-          <a href="{{ site.baseurl }}/drafts/">Draft Policies</a> 
-          <a href="{{ site.baseurl }}/finalized/">Finalized Policies</a>  
-          <a href="{{ site.baseurl }}/resources/">Resources for Agencies</a> 
+          <a class="usa-current-main" href="{{ site.baseurl }}/">Home</a>  
+          {% if currentCollection.label == null %}
+            <ul class="usa-sidenav-sub_list">
+              <li><a href="{{ site.baseurl }}/drafts/">Draft Policies</a></li>
+              <li><a href="{{ site.baseurl }}/finalized/">Finalized Policies</a></li>
+              <li><a href="{{ site.baseurl }}/resources/">Resources for Agencies</a></li>
+            </ul>
+          {% endif %}
         </li>
-      {% else %}
-          <a class="usa-current-main" href="{{ site.baseurl }}">Home</a>  
-        </li>
-      {% endif %}
       <!--  iterate over collections and filter by status (draft, finalized, etc) -->  
       {% assign sorted_collections = (site.collections | sort: "title" ) %}
       {% for collection in sorted_collections %}
@@ -27,8 +27,10 @@
               <ul class="usa-sidenav-sub_list">
                 {% assign currentSections = collection.docs | sort: "display_order" %}
                 {% for section in currentSections %}
-                    <li class="usa-current-section"><a href="{{ site.baseurl }}{{ section.permalink }}">{{ section.title }}</a>
-                    </li>
+                    {% if section.permalink != collection.url %}
+                      <li class="usa-current-section"><a href="{{ site.baseurl }}{{ section.permalink }}">{{ section.title }}</a>
+                      </li>
+                    {% endif %}
                 {% endfor %}
               </ul>
             {% else %}

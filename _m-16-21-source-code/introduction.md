@@ -1,14 +1,13 @@
 ---
 layout: default
 display_order: 1
-title: Introduction
+title: M-16-21 - MEMORANDUM FOR THE HEADS OF DEPARTMENTS AND AGENCIES
 permalink: /source-code/
 description: 
 redirect_from:
   - /AppendixB/
 ---
 
-## M-16-21<br/>MEMORANDUM FOR THE HEADS OF DEPARTMENTS AND AGENCIES
 <h3> FROM: <br/>Tony Scott<br/>United States Chief Information Officer<br/><br/>Anne E. Rung<br/>United States Chief Acquisition Officer</h3>
 <h3> SUBJECT: <br/>Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software</h3>
 
