@@ -1,5 +1,6 @@
 ---
 layout: default
+display_order: 9
 title: Appendix A - Definitions
 permalink: /appendix-a/
 description: "Appendix A: Definitions"

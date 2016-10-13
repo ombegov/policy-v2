@@ -1,5 +1,6 @@
 ---
 layout: default
+display_order: 3
 title: Scope and Applicability
 permalink: /source-code/scope/
 description: 

@@ -1,5 +1,6 @@
 ---
 layout: default
+display_order: 5
 title: Government-wide Code Reuse
 permalink: /source-code/reuse/
 description: 

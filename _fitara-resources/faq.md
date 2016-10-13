@@ -1,5 +1,6 @@
 ---
 layout: default
+display_order: 4
 title: Frequently asked questions
 permalink: /fitara-resources/faq/
 description: "FAQs on FITARA implementation"

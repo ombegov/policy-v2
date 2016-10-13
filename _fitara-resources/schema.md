@@ -1,5 +1,6 @@
 ---
 layout: default
+display_order: 2
 title: FITARA Common Baseline Publishing Schema 
 permalink: /fitara-resources/schema/
 filename: schema.md

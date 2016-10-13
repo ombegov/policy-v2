@@ -1,5 +1,6 @@
 ---
 layout: default
+display_order: 6
 title: Open Source Software
 permalink: /source-code/oss/
 description: 

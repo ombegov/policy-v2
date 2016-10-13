@@ -1,6 +1,6 @@
 # Site settings
 title: Office of the Federal Chief Information Officer
-#email: your-email@domain.com
+email: ofcio@omb.eop.gov
 description: > # this means to ignore newlines until "baseurl:"
 #
 baseurl: "/policy-v2" # the subpath of your site, e.g. /blog
@@ -21,53 +21,56 @@ collections:
     url: /
     status: home 
     title: Welcome
-    githublabel: Home
+    github-label: home
   drafts_overview:
     output: true
     permalink: /drafts/:path/
     url: /drafts/
     status: draft
     title: Draft Policies
-    githublabel: Draft Policies
+    github-label: draft policies
   finalized_overview:
     output: true
     permalink: /finalized/:path
     url: /finalized/
     status: finalized
     title: Finalized Policies
-    githublabel: Finalized Policies
+    github-label: finalized policies
   resources_overview:
     output: true
     permalink: /resources/:path/
     url: /resources/
     status: resource
     title: Agency Resources
-    githublabel: Agency Resources
+    github-label: agency resources
   m-15-14-fitara:
     output: true
     permalink: /fitara/:path/
     url: /fitara/
     status: finalized
     title: "M-15-14: Management and Oversight of Federal Information Technology"
-    githublabel: fitara
+    github-label: fitara
+    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf
   m-16-21-source-code:
     output: true
     permalink: /source-code/:path/
     url: /source-code/
     status: finalized
     title: "M-16-21: Federal Source Code Policy"
-    githublabel: source-code
+    github-label: source-code
+    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf
   fitara-resources:
     output: true
     permalink: /fitara-resources/:path/
     url: /fitara-resources/
     status: resource
     title: FITARA resources
-    githublabel: fitara
-  cyber-acquisitions:
+    github-label: fitara
+  draft-cyber-acquisitions:
     output: true
     permalink: /cybersecurity-protections-in-federal-acquisitions/:path/
     url: /cybersecurity-protections-in-federal-acquisitions/
     status: draft
     title: Improving Cybersecurity Protections in Federal Acquisitions
-    githublabel: cyber-acquisitions
+    github-label: cyber-acquisitions
+    
