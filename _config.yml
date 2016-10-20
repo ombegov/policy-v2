@@ -59,6 +59,14 @@ collections:
     title: "M-16-21: Federal Source Code Policy"
     github-label: source-code
     download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf
+  m-13-13-open-data:
+    output: true
+    permalink: /open-data/:path/
+    url: /open-data/
+    status: finalized
+    title: "M-13-13: Open Data Policy—Managing Information as an Asset"
+    github-lavel: open-data
+    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf  
   fitara-resources:
     output: true
     permalink: /fitara-resources/:path/
