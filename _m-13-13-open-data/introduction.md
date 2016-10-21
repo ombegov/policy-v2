@@ -6,7 +6,7 @@ permalink: /open-data/
 description:
 ---
 
-<h3> From: </h3> <br/>
+<h3> From: </h3>
 
 * **Sylvia M. Burwell**<br />Director
 * **Steven VanRoekel**<br />Federal Chief Information Officer
