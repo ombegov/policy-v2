@@ -1,4 +1,4 @@
-> :see_no_evil: This site is currently in alpha.
+> :see_no_evil: This site is currently in beta.
 
 ## About This Project
 
