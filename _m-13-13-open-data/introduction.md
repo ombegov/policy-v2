@@ -6,7 +6,7 @@ permalink: /open-data/
 description:
 ---
 
-**From:**
+<h3> From: <br/>
 
 * **Sylvia M. Burwell**<br />Director
 * **Steven VanRoekel**<br />Federal Chief Information Officer
@@ -14,10 +14,7 @@ description:
 * **Dominic J. Mancini**<br />Deputy Administrator, Office of Information and Regulatory Affairs
 {: #from}
 
-**Subject:**{: .from} Open Data Policy&#8212;Managing Information as an Asset
-
-* Table of Contents
-{:toc}
+**Subject:** Open Data Policy&#8212;Managing Information as an Asset
 
 Information is a valuable national resource and a strategic asset to the Federal Government, its partners, and the public. In order to ensure that the Federal Government is taking full advantage of its information resources, executive departments and agencies (hereafter referred to as "agencies") must manage information as an asset throughout its life cycle to promote openness and interoperability, and properly safeguard systems and information. Managing government information as an asset will increase operational efficiencies, reduce costs, improve services, support mission needs, safeguard personal information, and increase public access to valuable government information.
 
@@ -27,11 +24,11 @@ Pursuant to the Executive Order of May 9, 2013, *Making Open and Machine Readabl
 
 Specifically, this Memorandum requires agencies to collect or create information in a way that supports downstream information processing and dissemination activities. This includes using machine-readable and open formats, data standards, and [common core and extensible metadata](/schema/) for all new information creation and collection efforts. It also includes agencies ensuring information stewardship through the use of open licenses and review of information for privacy, confidentiality, security, or other restrictions to release. Additionally, it involves agencies building or modernizing information systems in a way that maximizes interoperability and information accessibility, maintains internal and external data asset inventories, enhances information safeguards, and clarifies information management responsibilities.
 
-The Federal Government has already made significant progress in improving its management of information resources to increase interoperability and openness. The President's Memorandum on *Transparency and Open Government* [^1] instructed agencies to take specific actions to implement the principles of transparency, participation, and collaboration, and the Office of Management and Budget's (OMB) *Open Government Directive* [^2] required agencies to expand access to information by making it available online in open formats. OMB has also developed policies to help agencies incorporate sound information practices, including OMB Circular A-130 [^3] and OMB Memorandum M-06-02. [^4] In addition, the Federal Government launched [Data.gov](http://www.data.gov), an online platform designed to increase access to Federal datasets. The publication of thousands of data assets through [Data.gov](http://www.data.gov) has enabled the development of numerous products and services that benefit the public.
+The Federal Government has already made significant progress in improving its management of information resources to increase interoperability and openness. The President's Memorandum on *Transparency and Open Government* <sup id="fnr1"><a href="#fn1">1</a></sup> instructed agencies to take specific actions to implement the principles of transparency, participation, and collaboration, and the Office of Management and Budget's (OMB) *Open Government Directive* <sup id="fnr2"><a href="#fn2">2</a></sup> required agencies to expand access to information by making it available online in open formats. OMB has also developed policies to help agencies incorporate sound information practices, including OMB Circular A-130 <sup id="fnr3"><a href="#fn3">3</a></sup> and OMB Memorandum M-06-02. <sup id="fnr4"><a href="#fn4">4</a></sup> In addition, the Federal Government launched [Data.gov](http://www.data.gov), an online platform designed to increase access to Federal datasets. The publication of thousands of data assets through [Data.gov](http://www.data.gov) has enabled the development of numerous products and services that benefit the public.
 
-To help build on these efforts, the President issued a Memorandum on May 23, 2012 entitled *Building a 21st Century Digital Government* [^5] that charged the Federal Chief Information Officer (CIO) with developing and implementing a comprehensive government-wide strategy to deliver better digital services to the American people. The resulting *Digital Government Strategy* [^6] outlined an information-centric approach to transform how the Federal Government builds and delivers digital services, and required OMB to develop guidance to increase the interoperability and openness of government information.
+To help build on these efforts, the President issued a Memorandum on May 23, 2012 entitled *Building a 21st Century Digital Government* <sup id="fnr5"><a href="#fn5">5</a></sup> that charged the Federal Chief Information Officer (CIO) with developing and implementing a comprehensive government-wide strategy to deliver better digital services to the American people. The resulting *Digital Government Strategy* <sup id="fnr6"><a href="#fn6">6</a></sup> outlined an information-centric approach to transform how the Federal Government builds and delivers digital services, and required OMB to develop guidance to increase the interoperability and openness of government information.
 
-This Memorandum is designed to be consistent with existing requirements in the Paperwork Reduction Act, [^7] the E-Government Act of 2002, [^8] the Privacy Act of 1974, [^9] the Federal Information Security Management Act of 2002 (FISMA), [^10] the Confidential Information Protection and Statistical Efficiency Act of 2002 (CIPSEA), [^11] the Freedom of Information Act, [^12] the Information Quality Act, [^13] the Federal Records Act, [^14] and existing OMB and Office of Science and Technology Policy (OSTP) guidance.
+This Memorandum is designed to be consistent with existing requirements in the Paperwork Reduction Act, <sup id="fnr7"><a href="#fn7">7</a></sup> the E-Government Act of 2002, <sup id="fnr8"><a href="#fn8">8</a></sup> the Privacy Act of 1974, <sup id="fnr9"><a href="#fn9">9</a></sup> the Federal Information Security Management Act of 2002 (FISMA), <sup id="fnr10"><a href="#fn10">10</a></sup> the Confidential Information Protection and Statistical Efficiency Act of 2002 (CIPSEA), <sup id="fnr11"><a href="#fn11">11</a></sup> the Freedom of Information Act, <sup id="fnr12"><a href="#fn12">12</a></sup> the Information Quality Act, <sup id="fnr13"><a href="#fn13">13</a></sup> the Federal Records Act, <sup id="fnr14"><a href="#fn14">14</a></sup> and existing OMB and Office of Science and Technology Policy (OSTP) guidance.
 
 If agencies have any questions regarding this Memorandum, please direct them to OMB at [datause@omb.eop.gov](mailto:datause@omb.eop.gov).
 
@@ -41,11 +38,11 @@ This attachment provides definitions and implementation guidance for M-13-13, *O
 
 ### I. Definitions
 
-**Data:** For the purposes of this Memorandum, the term "data" refers to all structured information, unless otherwise noted. [^15]
+**Data:** For the purposes of this Memorandum, the term "data" refers to all structured information, unless otherwise noted. <sup id="fnr15"><a href="#fn15">15</a></sup>
 
 **Dataset:** For the purposes of this Memorandum, the term "dataset" refers to a collection of data presented in tabular or non-tabular form.
 
-**Fair Information Practice Principles**: The term "Fair Information Practice Principles" refers to the eight widely accepted principles for identifying and mitigating privacy impacts in information systems, programs and processes, delineated in the National Strategy for Trusted Identities in Cyberspace. [^16]
+**Fair Information Practice Principles**: The term "Fair Information Practice Principles" refers to the eight widely accepted principles for identifying and mitigating privacy impacts in information systems, programs and processes, delineated in the National Strategy for Trusted Identities in Cyberspace. <sup id="fnr16"><a href="#fn16">16</a></sup>
 
 **Government information:** As defined in OMB Circular A-130, "government information" means information created, collected, processed, disseminated, or disposed of, by or for the Federal Government.
 
@@ -53,7 +50,7 @@ This attachment provides definitions and implementation guidance for M-13-13, *O
 
 **Information life cycle:** As defined in OMB Circular A-130, the term "information life cycle" means the stages through which information passes, typically characterized as creation or collection, processing, dissemination, use, storage, and disposition.
 
-**Personally identifiable information:** As defined in OMB Memorandum M-10-23, [^17] "personally identifiable information" (PII) refers to information that can be used to distinguish or trace an individual's identity, either alone or when combined with other personal or identifying information that is linked or linkable to a specific individual. The definition of PII is not anchored to any single category of information or technology. Rather, it requires a case-by-case assessment of the specific risk that an individual can be identified. In performing this assessment, it is important for an agency to recognize that non-PII can become PII whenever additional information is made publicly available (in any medium and from any source) that, when combined with other available information, could be used to identify an individual.
+**Personally identifiable information:** As defined in OMB Memorandum M-10-23, <sup id="fnr17"><a href="#fn17">17</a></sup> "personally identifiable information" (PII) refers to information that can be used to distinguish or trace an individual's identity, either alone or when combined with other personal or identifying information that is linked or linkable to a specific individual. The definition of PII is not anchored to any single category of information or technology. Rather, it requires a case-by-case assessment of the specific risk that an individual can be identified. In performing this assessment, it is important for an agency to recognize that non-PII can become PII whenever additional information is made publicly available (in any medium and from any source) that, when combined with other available information, could be used to identify an individual.
 
 **Mosaic Effect**: The Mosaic Effect occurs when the information in an individual dataset, in isolation, may not pose a risk of identifying an individual (or threatening some other important interest such as security), but when combined with other available information, could pose such risk. Before disclosing potential PII or other potentially sensitive information, agencies must consider other publicly available data &#8211; in any medium and from any source &#8211; to determine whether some combination of existing data and the data intended to be publicly released could allow for the identification of an individual or pose another security concern.
 
@@ -73,5 +70,25 @@ This attachment provides definitions and implementation guidance for M-13-13, *O
 
 * *Managed Post-Release.* A point of contact must be designated to assist with data use and to respond to complaints about adherence to these open data requirements.
 
-* *Project Open Data:* "Project Open Data," a new OMB and OSTP resource, is an online repository of tools, best practices, and schema to help agencies adopt the framework presented in this guidance. Project Open Data can be accessed at [project-open-data.cio.gov](/). [^18] Project Open Data will evolve over time as a community resource to facilitate adoption of open data practices. The repository includes definitions, code, checklists, case studies, and more, and enables collaboration across the Federal Government, in partnership with public developers, as applicable. Agencies can visit Project Open Data for a more comprehensive glossary of terms related to open data.
+* *Project Open Data:* "Project Open Data," a new OMB and OSTP resource, is an online repository of tools, best practices, and schema to help agencies adopt the framework presented in this guidance. Project Open Data can be accessed at [project-open-data.cio.gov](/). <sup id="fnr18"><a href="#fn18">18</a></sup> Project Open Data will evolve over time as a community resource to facilitate adoption of open data practices. The repository includes definitions, code, checklists, case studies, and more, and enables collaboration across the Federal Government, in partnership with public developers, as applicable. Agencies can visit Project Open Data for a more comprehensive glossary of terms related to open data.
 
+### Footnotes
+<ul style="list-style-type:none">
+<li id="fn1"><sup>1</sup> President Barack Obama, Memorandum on Transparency and Open Government (Jan. 21, 2009), *available at* <a>http://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment</a>. <a href="#fnr1">&#8617;</a> </li>
+<li id="fn1"><sup>2</sup>OMB Memorandum M-10-06, *Open Government Directive* (Dec. 8, 2009), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-06.pdf</a><a href="#fnr2">&#8617;</a></li>
+<li id="fn1"><sup>3</sup>OMB Circular A-130, *available at* <a>http://www.whitehouse.gov/omb/Circulars_a130_a130trans4/</a><a href="#fnr3">&#8617;</a></li>
+<li id="fn1"><sup>4</sup>OMB Memorandum M-06-02, *Improving Public Access to and Dissemination of Government Information and Using the Federal Enterprise Architecture Data Reference Model* (Dec. 16, 2005), *available at*<a href="#fnr4">&#8617;</a></li> <a>http://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2006/m06-02.pdf</a> **
+<li id="fn1"><sup>5</sup>President Barack Obama, Memorandum on Building a 21st Century Digital Government (May 23, 2012), *available at* <a>http://www.whitehouse.gov/sites/default/files/uploads/2012digital_mem_rel.pdf</a><a href="#fnr5">&#8617;</a></li>
+<li id="fn1"><sup>6</sup>Office of Management and Budget, *Digital Government: Building a 21<sup>st</sup> Century Platform to Better Serve the American People* (May 23, 2012), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf</a><a href="#fnr6">&#8617;</a></li>
+<li id="fn1"><sup>7</sup>44 U.S.C. § 3501 *et seq.*<a href="#fnr7">&#8617;</a></li>
+<li id="fn1"><sup>8</sup>Pub. L. No. 107-347, 116 Stat. 2899 (2002) (codified as 44 U.S.C. § 3501 note).<a href="#fnr8">&#8617;</a></li>
+<li id="fn1"><sup>9</sup>5 U.S.C. § 552a.<a href="#fnr9">&#8617;</a></li>
+<li id="fn1"><sup>10</sup>44 U.S.C. § 3541, *et seq*.<a href="#fnr10">&#8617;</a></li>
+<li id="fn1"><sup>11</sup>Section 503(a), Pub. L. No. 107-347, 116 Stat. 2899 (2002) (codified as 44 U.S.C. § 3501 note); *see also* Implementation Guidance for Title V of the E-Government Act, Confidential Information Protection and Statistical Efficiency Act of 2002 (CIPSEA), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/assets/omb/fedreg/2007/061507_cipsea_guidance.pdf</a><a href="#fnr11">&#8617;</a></li>
+<li id="fn1"><sup>12</sup>5 USC 552(a)(2).<a href="#fnr12">&#8617;</a></li>
+<li id="fn1"><sup>13</sup>Pub. L. No. 106-554 (2000) (codified at 44 U.S.C. § 3504(d)(1) and 3516). *See also* OMB Memorandum M-12-18, *Managing Government Records Directive* (Aug. 24, 2012), *available at* <a href="#fnr13">&#8617;</a></li> <a>http://www.whitehouse.gov/sites/default/files/omb/memoranda/2012/m-12-18.pdf</a>.
+<li id="fn1"><sup>14</sup>44 U.S.C. Chapters 21, 22, 29, 31, and 33. *See also* 36 CFR Subchapter B &#8211; Records Management.<a href="#fnr14">&#8617;</a></li>
+<li id="fn1"><sup>15</sup>*Structured* information is to be contrasted with *unstructured* information (commonly referred to as "content") such as press releases and fact sheets. As described in the *Digital Government Strategy*, content may be converted to a structured format and treated as data. For example, a web-based fact sheet may be broken into the following component data pieces: the title, body text, images, and related links.<a href="#fnr15">&#8617;</a></li>
+<li id="fn1"><sup>16</sup>The White House, *National Strategy for Trusted Identities in Cyberspace* (April 2011), *available at* <a>http://www.whitehouse.gov/sites/default/files/rss_viewer/NSTICstrategy_041511.pdf</a><a href="#fnr16">&#8617;</a></li>
+<li id="fn1"><sup>17</sup>OMB Memorandum M-10-23, *Guidance for Agency Use of Third-Party Websites and Applications* (June 25, 2010), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-23.pdf</a><a href="#fnr17">&#8617;</a></li>
+<li id="fn1"><sup>18</sup>Links to the best practices developed in Project Open Data referenced in this memorandum can be found through the directory on this main page.<a href="#fnr18">&#8617;</a></li>
