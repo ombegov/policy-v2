@@ -7,11 +7,9 @@ description: "Introduction"
 ---
 
 ### M-16-NN - MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES
-
 ## FROM: 
 ## Shaun Donovan, Director, Office of Management and Budget
 ## Tony Scott, Federal Chief Information Officer
-
 ### SUBJECT:	Information Technology Modernization Initiative
 
 ### Purpose
