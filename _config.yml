@@ -81,4 +81,10 @@ collections:
     status: draft
     title: Improving Cybersecurity Protections in Federal Acquisitions
     github-label: cyber-acquisitions
-    
+  draft-it-modernization:
+    output: true
+    permalink: /it-modernization/:path/
+    url: /it-modernization/
+    status: draft
+    title: IT Modernization
+    github-label: it-modernization
