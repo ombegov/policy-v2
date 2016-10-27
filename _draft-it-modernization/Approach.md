@@ -12,6 +12,8 @@ In order to improve the cybersecurity and efficiency of Federal IT systems, agen
 
 Moving the Federal Government to modern infrastructure and cloud-based solutions is a fundamental necessity to building a digital government that is responsive to citizen needs and secure by design.  Doing so will enhance agencies’ ability to protect sensitive data, reduce costs, and deliver world-class services to the public. 
 
+#### *Footnotes*
+
 <a name="myfootnote2">2</a>: The President's Budget for Fiscal Year 2017, Office of Management and Budget, https://www.whitehouse.gov/omb/budget. 
 
 <a name="myfootnote3">3</a>:  44 U.S.C.§ 3506(b)(2) requires agencies to “develop and maintain a strategic information resources management plan” in accordance with OMB guidance. Annual Enterprise Roadmaps are required by OMB Memorandum, Increasing Shared Approaches to Information Technology Services, May 2, 2012, https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/sharedapproachmemo_0502.pdf
