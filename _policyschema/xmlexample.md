@@ -1,6 +1,6 @@
 ---
 layout: default
-display_order: 4
+display_order: 5
 title: Example of Schema in XML
 permalink: /policyschema/xmlexample
 description: 
