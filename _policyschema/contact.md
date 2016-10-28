@@ -1,6 +1,6 @@
 ---
 layout: default
-display_order: 6
+display_order: 7
 title: Contact Information 
 permalink: /policyschema/
 description: 
