@@ -1,4 +1,10 @@
-
+---
+layout: default
+display_order: 2
+title: Background on the Policy Schema 
+permalink: /policyschema/background_on_schema/
+description: 
+---
 The OFCIO is developing a “Policy Schema” to organize public policy based on the principles of a database schema. 
 Database schemas are traditionally used to represents logical views of information within databases. These database schemas define how data is organized and enable its efficient retrieval. They also provide constraints, defining what types of data are included, and how data is named. The OFCIO’s Policy Schema will serve an analogous purpose. 
 
