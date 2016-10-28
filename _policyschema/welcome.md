@@ -1,4 +1,10 @@
-# Welcome
+---
+layout: default
+display_order: 1
+title: Welcome
+permalink: /policyschema/
+description: 
+---
 ## Federal Chief Information Officer’s Policy Schema Website
 
 The Office of the Federal Chief Information Officer is working to create a model to organize and structure policy based on the principles of a database schema. We are calling this model the “Policy Schema.” 
