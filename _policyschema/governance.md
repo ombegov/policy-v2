@@ -2,7 +2,7 @@
 layout: default
 display_order: 3
 title: Governance of the Policy Schema 
-permalink: /open-data//
+permalink: /policyschema/governance/
 description: 
 ---
 This section provides information about how we will mature the Policy Schema model over time.  The OFCIO recognizes the need to update the model on a regular basis.  As the Policy Schema becomes more widely used, additional data attributes will be added.  
