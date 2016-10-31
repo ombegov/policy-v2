@@ -88,7 +88,7 @@ collections:
     status: draft
     title: IT Modernization
     github-label: it-modernization
-  Policy Schema :
+  policyschema:
     output: true
     permalink: /policyschema/:path/
     url: /policyschema/
