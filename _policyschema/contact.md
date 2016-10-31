@@ -2,7 +2,7 @@
 layout: default
 display_order: 7
 title: Contact Information 
-permalink: /policyschema/
+permalink: /policyschema/contact/ 
 description: 
 ---
 ## Contacts Us!
