@@ -2,7 +2,7 @@
 layout: default
 display_order: 5 
 title: Schema Glossary
-permalink: /policyschema/glossary
+permalink: /policy-schema/glossary
 description: 
 ---
 ## Here you will find the latest version of  the Policy Schema 
