@@ -44,4 +44,4 @@ In addition to the sections referenced above, updates to the Frequently Asked Qu
 
 ### Footnotes
 <a name="myfootnote1">1</a>: Executive Order 13719, Establishment of the Federal Privacy Council (February 9, 2016)
-https://www.whitehouse.gov/the-press-office/2016/02/09/executive-order-estabLishment-federa1-privacy-council
+https://www.whitehouse.gov/the-press-office/2016/02/09/executive-order-establishment-federal-privacy-council
