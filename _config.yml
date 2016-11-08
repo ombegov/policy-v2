@@ -88,3 +88,11 @@ collections:
     status: draft
     title: IT Modernization
     github-label: it-modernization
+  m-15-14-fitara:
+    output: true
+    permalink: /fisma-guidance-17/:path/
+    url: /fisma-guidance-17/
+    status: finalized
+    title: "M-17-05: 2017 FISMA Guidance"
+    github-label: fisma-2017-guidance
+    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2017/m-17-05.pdf
