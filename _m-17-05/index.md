@@ -8,13 +8,13 @@ description: "Introduction"
 
 November 4, 2016
 
-# M-17-05  EXECUTIVE DEPARTMENTS AND AGENCIES
+# M-17-05  
+
+## MEMORANDUM FOR HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES
 
 ## FROM: Shaun Donovan- Director 
 
-
 # SUBJECT:	Fiscal Year 2016 - 2017 Guidance on Federal Information Security and Privacy Management Requirements
-
 
 ## Purpose
 
@@ -44,4 +44,4 @@ In addition to the sections referenced above, updates to the Frequently Asked Qu
 
 ### Footnotes
 <a name="myfootnote1">1</a>: Executive Order 13719, Establishment of the Federal Privacy Council (February 9, 2016)
-https ://www. wh itehouse.gov/the-press-office/2016/02/09/ executi ve-order -estab Lishment-federa 1-privacy-council
+https ://www.whitehouse.gov/the-press-office/2016/02/09/executive-order-estabLishment-federa1-privacy-council
