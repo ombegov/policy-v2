@@ -1,4 +1,3 @@
-
 ---
 layout: default
 display_order: 2
@@ -40,8 +39,4 @@ Agencies' management of their public websites and digital services must continue
 relevant Federal laws and policies.
 
 #### Footnotes:
-<a name="myfootnote1">4</a>:(Digital services include the delivery of digital information (i.e., data 
-
-or content) and transactional services (e.g., online forms, benefits applications) across a variety of 
-
-platforms, devices, and delivery mechanisms (e.g., websites, mobile applications, and social media).
+<a name="myfootnote1">4</a>:(Digital services include the delivery of digital information (i.e., data or content) and transactional services (e.g., online forms, benefits applications) across a variety of platforms, devices, and delivery mechanisms (e.g., websites, mobile applications, and social media).
