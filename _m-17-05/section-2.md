@@ -2,7 +2,7 @@
 layout: default
 display_order: 3
 title: Section II:Updated Major Incident Definition and DHS US-CERT Incident Notification  Guidelines
-permalink: /fisma-guidance-17/section-2/
+permalink: /m-17-05/section-2/
 description: "Section 2"
 --- 
 
@@ -22,13 +22,13 @@ FISMA 2014 authorizes OMB to define the term "major incident" and further direct
 * Cross-Sector Dependency; and
 * Potential Impact.
 
-Appropriate analysis of the incident will include the agency CIO, the Chieflnformation Security Officer (CISO), mission or system owners, and if the occurrence is a breach, the SAOP.  The definition above leverages the NCISS and therefore creates uniformity in terminology and criteria utilized by agencies and the US-CERT incident responders.
+Appropriate analysis of the incident will include the agency CIO, the Chief lnformation Security Officer (CISO), mission or system owners, and if the occurrence is a breach, the SAOP.  The definition above leverages the NCISS and therefore creates uniformity in terminology and criteria utilized by agencies and the US-CERT incident responders.
 
 Other than breaches (which are addressed separately), if the incident meets the definition of a "major incident," it is also a "significant cyber incident" for purposes of PPD-41. <sup>[12](#myfootnote1)</sup>  Thus, a "major incident" as defined above will also trigger the coordination mechanisms outlined in PPD-41, including a Cyber Unified Coordination Group (CUCG).
 
 ### A Breach that Constitutes a Major Incident
 
-A breach constitutes a "major incident" when it involves PII that, if exfiltrated, modified,  deleted, or otherwise compromised, is likely to result in demonstrable harm to the national security interests, foreign relations, or economy of the United States, or to the public confidence, civil liberties, or public health and safety of the American people. <sup>[13](#myfootnote1)</sup>   An unauthorized modification of, <sup>[14](#myfootnote1)</sup>  unauthorized deletion of, <sup>[15](#myfootnote1)</sup> unauthorized  exfiltration of, <sup>[17](#myfootnote1)</sup> or unauthorized access to <sup>[17](#myfootnote1)</sup> 100,000 or more individuals'  PII constitutes a "major incident." <sup>[18](#myfootnote1)</sup> 
+A breach constitutes a "major incident" when it involves PII that, if exfiltration, modified,  deleted, or otherwise compromised, is likely to result in demonstrable harm to the national security interests, foreign relations, or economy of the United States, or to the public confidence, civil liberties, or public health and safety of the American people. <sup>[13](#myfootnote1)</sup>   An unauthorized modification of, <sup>[14](#myfootnote1)</sup>  unauthorized deletion of, <sup>[15](#myfootnote1)</sup> unauthorized  exfiltration of, <sup>[17](#myfootnote1)</sup> or unauthorized access to <sup>[17](#myfootnote1)</sup> 100,000 or more individuals'  PII constitutes a "major incident." <sup>[18](#myfootnote1)</sup> 
 
 
 ### Congressional Reporting
@@ -57,7 +57,7 @@ Additional Guidance and Processes for Reporting Major Incidents:
 * Although agencies may consult with DHS US-CERT on whether an incident is
 considered a "major incident," it is ultimately the responsibility of the impacted agency to make this determination.
 * Agencies should report to DHS US-CERT within one (1) hour of determining an incident to be "major," or should update US-CERT within one (1) hour of determining that an already-reported incident has been determined to be major.
-* Ifthe agency determines a major incident has occurred, DHS is then required to notify OMB within one (1) hour of being so alerted.
+* If the agency determines a major incident has occurred, DHS is then required to notify OMB within one (1) hour of being so alerted.
 
 ## Updated Reporting Requirements for Agencies  and US-CERT
 
@@ -73,9 +73,9 @@ Agencies and US-CERT will also now participate in a formal data validation proce
 OMB will provide a high-level summary of agency incident data in the Annual FISMA Report to Congress in accordance with 44 U.S.C. § 3553.
 
 
-### Footnotes
+##### Footnotes
 
-<a name="myfootnote1">7</a>: An "incident" is defined under FISMA 2014 as "an occurrence that -,- (A) actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information or an information system; or (B) constitutes a violation or imminent threat of violation of law, security policies, security procedures, or acceptable
+<a name="myfootnote1">7</a>: An "incident" is defined under FISMA 2014 as "an occurrence that -(A) actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information or an information system; or (B) constitutes a violation or imminent threat of violation of law, security policies, security procedures, or acceptable
 use policies." 44 U.S.C. § 3552(b)(2).
 
 <a name="myfootnote1">8</a>:  See 44 U.S.C. § 3554(b)(7).
@@ -86,7 +86,7 @@ use policies." 44 U.S.C. § 3552(b)(2).
 
 <a name="myfootnote1">11</a>: https://www.us-cert.gov/NCCIC-Cyber-lncident-Scoring-System.
 
-<a name="myfootnote1">12</a>: https ://www .wh.ite h ouse.gov/th e-pres s-office/20 1 6/07126/pr esidential-polcy-di recti ve-un i ted-state s-cyber­ incident.
+<a name="myfootnote1">12</a>: https://www.whitehouse.gov/the-press-office/2016/07126/presidential-polcy-directive-united-states-cyberincident 
 
 <a name="myfootnote1">13</a>: The analysis for reporting a major breach to Congress is distinct and separate from the assessment of the potential
 risk of harm to individuals resulting from a suspected or confirmed breach. When assessing the potential risk of harm to individuals, agencies should refer to OMB's guidance on preparing for and responding to a breach of PII. 
@@ -97,7 +97,7 @@ risk of harm to individuals resulting from a suspected or confirmed breach. When
 
 <a name="myfootnote1">16</a>: Unauthorized exfiltration is defined as the act or process of obtaining, without authorization or in excess of authorized access, information from an information system without modifying or deleting it.
 
-<a name="myfootnote1">17</a>:  Unauthorized access is defined as the act or process oflogical or physical access without permission to a Federal agency information, information system, application, or other resource.
+<a name="myfootnote1">17</a>:  Unauthorized access is defined as the act or process of logical or physical access without permission to a Federal agency information, information system, application, or other resource.
 
 <a name="myfootnote1">18</a>:  Only when a breach of PU that constitutes a "major incident" is the result of a cyber incident will it meet the definition of a "significant cyber incident" and trigger the coordination mechanisms outlined in PPD-41
 
