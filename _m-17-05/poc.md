@@ -1,8 +1,8 @@
 ---
 layout: default
 display_order: 4
-title: POC
-permalink: /fisma-guidance-17/poc/
+title: Point of Contact 
+permalink: /m-17-05//poc/
 description: "Section 1"
 --- 
 
