@@ -12,3 +12,4 @@ The Policy Schema is the backbone of two projects we're using to improve IT poli
 As the Policy Schema continues to be developed, we invite you to provide feedback and comments on the model. How can we maximize the utility of the schema and make sure it stays flexible and valuable over time?  We need your help making this open standard as intuitive and as useful as possible. 
 
 To contribute, please [open an issue](https://github.com/ombegov/policy-v2/labels/policy-schema) or [create a pull request](https://github.com/ombegov/policy-v2/pulls).
+
