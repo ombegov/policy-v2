@@ -88,3 +88,10 @@ collections:
     status: draft
     title: IT Modernization
     github-label: it-modernization
+  policy-schema:
+    output: true
+    permalink: /policy-schema/:path/
+    url: /policy-schema/
+    status: resource
+    title: Policy Schema 
+    github-label: policy-schema 
