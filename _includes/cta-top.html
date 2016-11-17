@@ -1,13 +1,6 @@
 {% assign pageCollection = site.collections | where: "label", page.collection | first %}
-<div class="usa-site-navbar-secondary mobile-only">
+<div class="usa-site-navbar-secondary">
     <ul class="usa-unstyled-list">
-        <li>
-          	{% if pageCollection.download-url %}
-				<a href="{{ pageCollection.download-url }}" >
-					<i class="fa fa-cloud-download"></i>&nbsp;<span>Download</span>
-				</a>
-			{% endif %}		
-        </li>
         <li>
 			{% if pageCollection.github-label %}
 				<a href="{{site.repo_url}}/labels/{{pageCollection.github-label}}" >
@@ -16,6 +9,13 @@
 			{% endif %}
 				<i class="fa fa-comments-o"></i>&nbsp;<span>Discuss</span>
 			</a>
+        </li>
+        <li>
+          	{% if pageCollection.download-link %}
+				<a href="{{ pageCollection.download-link }}" >
+					<i class="fa fa-cloud-download"></i>&nbsp;<span>Download</span>
+				</a>
+			{% endif %}		
         </li>
     </ul>
 </div>
