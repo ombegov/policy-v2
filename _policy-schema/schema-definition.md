@@ -8,7 +8,7 @@ description:
 
 The Policy Schema is currently in alpha. We are putting it through its paces by using it to analyze current policy and are making regular updates as needed. Read on for a definition of the elements it currently includes as well as an example XML document. 
 
-## Elements
+## Schema Elements
 
 
 | OMB Data Element   | Data Type                                                                                                                                                                                                                                                                      | Optional? | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
@@ -51,6 +51,7 @@ The Policy Schema is currently in alpha. We are putting it through its paces by 
 
 
 ## Example XML
+The Policy Schema is expressed as XML. Here's an example of what it looks like with some policy content included.
 
 ~~~
 
