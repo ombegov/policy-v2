@@ -65,8 +65,16 @@ collections:
     url: /open-data/
     status: finalized
     title: "M-13-13: Open Data Policy—Managing Information as an Asset"
-    github-lavel: open-data
-    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf  
+    github-label: open-data
+    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf 
+  m-17-06-web-policy:
+    output: true
+    permalink: /m-17-06-web-policy/:path/
+    url: /m-17-06-web-policy/
+    status: finalized
+    title: "M-17-06: Policies for Federal Agency Public Websites and Digital Services"
+    github-label: web-policy
+    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf
   fitara-resources:
     output: true
     permalink: /fitara-resources/:path/
