@@ -3,8 +3,8 @@ title: Office of the Federal Chief Information Officer
 email: ofcio@omb.eop.gov
 description: > # this means to ignore newlines until "baseurl:"
 #
-baseurl: "https://policy.cio.gov" # the subpath of your site, e.g. /blog
-url: "https://policy.cio.gov" # the base hostname & protocol for your site
+#baseurl: "https://policy.cio.gov" # the subpath of your site, e.g. /blog
+#url: "https://policy.cio.gov" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -65,16 +65,8 @@ collections:
     url: /open-data/
     status: finalized
     title: "M-13-13: Open Data Policy—Managing Information as an Asset"
-    github-label: open-data
-    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf 
-  m-17-06-web-policy:
-    output: true
-    permalink: /m-17-06-web-policy/:path/
-    url: /m-17-06-web-policy/
-    status: finalized
-    title: "M-17-06: Policies for Federal Agency Public Websites and Digital Services"
-    github-label: web-policy
-    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf
+    github-lavel: open-data
+    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf  
   fitara-resources:
     output: true
     permalink: /fitara-resources/:path/
@@ -103,4 +95,12 @@ collections:
     url: /policy-schema/
     status: resource
     title: Policy Schema 
-    github-label: policy-schema 
+    github-label: policy-schema
+  m-17-06-web-policy:
+    output: true
+    permalink: /web-policy/:path/
+    url: /web-policy/
+    status: finalized
+    title: "M-17-06 Policies for Federal Agency Public Websites and Digital Services"
+    github-label: _m-17-06-web-policy
+    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf

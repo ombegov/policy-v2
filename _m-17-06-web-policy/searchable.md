@@ -2,7 +2,7 @@
 layout: default
 display_order: 5
 title: 3. Make Information Searchable and Discoverable
-permalink: /webpolicy/searchable/
+permalink: /web-policy/searchable/
 description:
 ---
 Search functions are now a universal and expected website feature the public commonly uses to find information. Furthermore, search engine optimization is critical to reaching users who primarily rely on commercial search engines to find information. 

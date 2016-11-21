@@ -2,7 +2,7 @@
 layout: default
 display_order: 17 
 title: 16. Ensure Access to Mandatory Content
-permalink: /webpolicy/content/
+permalink: /web-policy/content/
 description:
 ---
 Laws, regulations, or other policies will occasionally mandate that agencies place certain links on their website. Agencies must respect and adhere to these statutory or executive-level mandates and incorporate these requirements in a manner that does not reduce the usability or performance of the agency’s website and digital services.
@@ -24,9 +24,14 @@ D.	a page about the agency with descriptions of the agency organization structur
 
 For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy. 
 
-#### Footnotes
+***
+#### *Footnotes*
 <a name="myfootnote12">35</a>: This refers to the webpage about the agency which is usually referred to as “About”, “About Us”, “About Agency,” or a similar variant.
+
 <a name="myfootnote12">36</a>: 44 U.S.C. § 3506(i)
+
 <a name="myfootnote12">37</a>: The agency’s Plain Writing Page should also continue to be accessible from their Open Government Page per OMB Memorandum, M-11-15, Final Guidance on Implementing the Plain Writing Act of 2010.
+
 <a name="myfootnote12">38</a>: 5 U.S.C. § 2301 note 
+
 <a name="myfootnote12">39</a>: This refers to OMB’s Guidelines for Ensuring and Maximizing the Quality, Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies at http://www.whitehouse.gov/omb/assets/omb/fedreg/reproducible2.pdf, and OMB’s Information Quality Guidelines for Peer Review at https://www.whitehouse.gov/sites/default/files/omb/assets/omb/memoranda/fy2005/m05-03.pdf. 

@@ -2,7 +2,7 @@
 layout: default
 display_order: 12
 title: 11. Ensure Information Quality and Accuracy	
-permalink: /webpolicy/accuracy/
+permalink: /web-policy/accuracy/
 description:
 ---
 
@@ -37,11 +37,12 @@ E. Agencies must clearly identify external links from their websites, and to the
 
 2. Agencies should choose the best approach to identify external links to users in a way that minimizes the impact on the usability of their websites and digital services.
 
-F. Agencies must post information quality guidelines, information quality correction requests, agency’s formal response(s), and any communications regarding the appeals on their website. Agencies must also establish a process for updating their information quality web pages on a regular basis. <sup>[27](#myfootnote27)</sup> 
+F.   Agencies must post information quality guidelines, information quality correction requests, agency’s formal response(s), and any communications regarding the appeals on their website. Agencies must also establish a process for updating their information quality web pages on a regular basis. <sup>[27](#myfootnote27)</sup> 
 
-
-Footnotes:
+***
+### *Footnotes*:
 
 <a name="myfootnote12">27</a>: http://www.whitehouse.gov/omb/assets/omb/fedreg/reproducible2.pdf
+
 <a name="myfootnote12">28</a>:29 U.S.C. § 794d 
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 display_order: 1
-title: "M-17-04 -  Policies for Federal Agency Public Websites and Digital Services"
-permalink: /m-17-06-web-policy/
+title: "M-17-06 - Policies for Federal Agency Public Websites and Digital Services"
+permalink: /web-policy/
 ---
 
 
@@ -22,6 +22,8 @@ For questions on this memorandum, please contact: infopolicy-oira@omb.eop.gov.
 
 #### *Footnotes*
 <a name="myfootnote1">1</a>:https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf
+
 <a name="myfootnote1">2</a>: https://playbook.cio.gov/
+
 <a name="myfootnote1">3</a>:https://www.whitehouse.gov/sites/default/files/omb/memoranda/2011/m11-24.pdf; 
 http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-06.pdf
