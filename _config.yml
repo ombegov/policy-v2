@@ -96,3 +96,11 @@ collections:
     status: draft
     title: IT Modernization
     github-label: it-modernization
+    download-link: https://github.com/ombegov/policy-v2/raw/gh-pages/assets/PDF/ITMF_Draft.pdf
+  policy-schema:
+    output: true
+    permalink: /policy-schema/:path/
+    url: /policy-schema/
+    status: resource
+    title: Policy Schema 
+    github-label: policy-schema 
