@@ -2,7 +2,7 @@
 layout: default
 display_order: 3
 title: Section II:Updated Major Incident Definition and DHS US-CERT Incident Notification  Guidelines
-permalink: /m-17-05/section-2/
+permalink: /fisma-guidance-2017/section-2/
 description: "Section 2"
 --- 
 

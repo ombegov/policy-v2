@@ -2,7 +2,7 @@
 layout: default
 display_order: 1
 title: Fiscal Year 2016 - 2017 Guidance on Federal Information Security and Privacy Management Requirements
-permalink: /m-17-05/
+permalink: /fisma-guidance-2017/
 description: "Introduction"
 ---
 

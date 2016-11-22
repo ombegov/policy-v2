@@ -2,7 +2,7 @@
 layout: default
 display_order: 2
 title: Section I:Information Security and Privacy Program Oversight and Reporting Requirements
-permalink: /m-17-05/section-1/
+permalink: /fisma-guidance-2017/section-1/
 description: "Section 1"
 ---
 

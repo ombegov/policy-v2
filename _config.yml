@@ -67,6 +67,14 @@ collections:
     title: "M-13-13: Open Data Policy—Managing Information as an Asset"
     github-lavel: open-data
     download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf  
+  m-17-05-fisma-guidance-2017:
+    output: true
+    permalink: /fisma-guidance-2017/:path/
+    url: /fisma-guidance-2017/
+    status: finalized
+    title: "M-17-05: Fiscal Year 2016-2017 Guidance on Federal Information Security and Privacy Management Requirements"
+    github-label: fisma-guidance-2017
+    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2017/m-17-05.pdf
   fitara-resources:
     output: true
     permalink: /fitara-resources/:path/
@@ -88,11 +96,3 @@ collections:
     status: draft
     title: IT Modernization
     github-label: it-modernization
-  m-15-14-fitara:
-    output: true
-    permalink: /fisma-guidance-17/:path/
-    url: /fisma-guidance-17/
-    status: finalized
-    title: "M-17-05: 2017 FISMA Guidance"
-    github-label: fisma-2017-guidance
-    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2017/m-17-05.pdf
