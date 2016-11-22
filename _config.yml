@@ -101,6 +101,6 @@ collections:
     permalink: /web-policy/:path/
     url: /web-policy/
     status: finalized
-    title: "M-17-06 Policies for Federal Agency Public Websites and Digital Services"
+    title: "M-17-06: Policies for Federal Agency Public Websites and Digital Services"
     github-label: _m-17-06-web-policy
     download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf
