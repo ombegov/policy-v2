@@ -22,5 +22,5 @@ The requirements laid out in this section serve as the minimum criteria for cont
 All requests for new domains and renewals must be submitted by the Federal Agency CIO or equivalent using the process found on [http://www.dotgov.gov.](http://www.dotgov.gov) 
 
 *** 
-#### Footnotes
+#### ***Footnotes***
 <a name="myfootnote12">23</a>: This includes Fed.us sites which have already been grandfathered in. There will be no new registrations to Fed.us as it is transitioning to .gov.
