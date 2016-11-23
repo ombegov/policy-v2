@@ -9,10 +9,13 @@ Laws, regulations, or other policies will occasionally mandate that agencies pla
 
 At a minimum, agencies must post links to the following information on the agency’s principal website and on any known sub-agency or other major entry points to their site:
 
-A.	USA.gov;
-B.	the website’s privacy policy;
-C.	the agency’s Freedom of Information Act webpage;
-D.	a page about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information.<sup>[35](#myfootnote14)</sup>  
+**A.**	USA.gov;
+
+**B.**	the website’s privacy policy;
+
+**C.**	the agency’s Freedom of Information Act webpage;
+
+**D.**	a page about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information.<sup>[35](#myfootnote14)</sup>  
 
 1.	the agency’s strategic plan and annual performance plans;
 2.	the agency’s Privacy Program Page;
@@ -34,4 +37,4 @@ For other required links, Federal agencies should determine the best location on
 
 <a name="myfootnote12">38</a>: 5 U.S.C. § 2301 note 
 
-<a name="myfootnote12">39</a>: This refers to OMB’s Guidelines for Ensuring and Maximizing the Quality, Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies at http://www.whitehouse.gov/omb/assets/omb/fedreg/reproducible2.pdf, and OMB’s Information Quality Guidelines for Peer Review at https://www.whitehouse.gov/sites/default/files/omb/assets/omb/memoranda/fy2005/m05-03.pdf. 
+<a name="myfootnote12">39</a>: This refers to OMB’s Guidelines for Ensuring and Maximizing the Quality, Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies at [http://www.whitehouse.gov/omb/assets/omb/fedreg/reproducible2.pdf](http://www.whitehouse.gov/omb/assets/omb/fedreg/reproducible2.pdf), and OMB’s Information Quality Guidelines for Peer Review at [https://www.whitehouse.gov/sites/default/files/omb/assets/omb/memoranda/fy2005/m05-03.pdf.](https://www.whitehouse.gov/sites/default/files/omb/assets/omb/memoranda/fy2005/m05-03.pdf) 
