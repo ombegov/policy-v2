@@ -8,7 +8,7 @@ permalink: /web-policy/
 
 
 <h3> FROM: <br/>Shaun Donovan <br/>Director, Office of Management and Budget<br/><br/>Howard Shelanski<br/>Administrator, Office of Information and Regulatory Affairs</h3>
-<h3> SUBJECT: <br/>olicies for Federal Agency Public Websites and Digital Services</h3>
+<h3> SUBJECT: <br/>Policies for Federal Agency Public Websites and Digital Services</h3>
 
 November 4, 2016
 		
