@@ -38,7 +38,7 @@ In cases where members of the public are allowed to post or contribute their own
 **F.** Agencies must post information quality guidelines, information quality correction requests, agency’s formal response(s), and any communications regarding the appeals on their website. Agencies must also establish a process for updating their information quality web pages on a regular basis. <sup>[27](#myfootnote27)</sup> 
 
 ***
-### *Footnotes*:
+#### *Footnotes*:
 
 <a name="myfootnote12">26</a>: [http://www.whitehouse.gov/omb/assets/omb/fedreg/reproducible2.pdf](http://www.whitehouse.gov/omb/assets/omb/fedreg/reproducible2.pdf)
 
