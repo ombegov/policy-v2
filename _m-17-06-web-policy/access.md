@@ -12,5 +12,6 @@ Government information and services should be readily available to the public re
 **B**.	When determining how to optimize legacy websites and digital services for mobile and other devices, agencies must use customer feedback and analytics to prioritize modernization of the sites and services that are most frequently accessed by users. 
 
 ***
+
 #### *Footnotes*
 <a name="myfootnote1">13</a>: Responsive design usually refers to website design that automatically adjusts navigation and content presentation to best fit the device (e.g., mobile phone or desktop monitor) on which the content is viewed.
