@@ -17,6 +17,7 @@ Consistent with [OMB Memorandum M-13-13, Open Data Policy—Managing Information
 **D**.	**Agencies must provide their existing and new web APIs and relevant open source documentation at www.[agency].gov/developer.** 
 
 ***
+
 #### *Footnotes*
 <a name="myfootnote1">10</a>: [http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
 
