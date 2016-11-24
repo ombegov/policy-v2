@@ -11,5 +11,6 @@ The public expects Federal Government websites to be secure and their interactio
 Federal agencies are already required to deploy HTTPS on their domains following the guidelines in OMB Memorandum M-15-13 and must make all existing websites and services accessible through a secure connection by December 31, 2016. Newly developed websites and services at all Federal agency domains or subdomains must adhere to this policy upon launch. The use of HTTPS is encouraged on Federal intranets.
 
 ***
+
 #### *Footnotes* 
 <a name="myfootnote22">22</a>:  [https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-13.pdf](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-13.pdf)
