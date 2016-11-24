@@ -12,6 +12,7 @@ A strong governance structure will help agencies develop coherent priorities, se
   **B**. Each agency must publicly post its governance plan on its Digital Strategy page at www.[agency].gov/digitalstrategy/ and update this page to reflect the current status of the agency’s digital governance structure. <sup>[6](#myfootnote6)</sup> 
 
 ***
+
 #### *Footnotes*
 <a name="myfootnote5">5</a>: [http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf; requirement 4.2.); requirement 4.2. 
 
