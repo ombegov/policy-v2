@@ -1,6 +1,6 @@
 ---
 layout: default
-display_order: 8
+display_order: 9
 title: 7. Implement Information Security and Privacy Controls 
 permalink: /web-policy/information-security/
 description:
