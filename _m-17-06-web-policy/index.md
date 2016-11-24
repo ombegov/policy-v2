@@ -20,6 +20,8 @@ This Memorandum rescinds and replaces OMB Memorandum M-05-04, Policies for Feder
 
 For questions on this memorandum, please contact: [infopolicy-oira@omb.eop.gov.](mailto:infopolicy-oira@omb.eop.gov) 
 
+***
+
 #### *Footnotes*
 <a name="myfootnote1">1</a>:[https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf)
 
