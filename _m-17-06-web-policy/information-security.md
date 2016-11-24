@@ -15,6 +15,7 @@ FISMA and OMB Circular A-130 require each Federal Agency to develop, document, a
 **B**.	All agency domains must be in compliance with [OMB Memorandum M-08-23, Securing the Federal Government’s Domain Name System Infrastructure,](https://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2008/m08-23.pdf) and any future updates to identity, credentialing, and access management policy. <sup>[21](#myfootnote14)</sup> 
 
 *** 
+
 #### *Footnotes* 
 <a name="myfootnote1">19</a>:44 U.S.C. § 3554(b) 
 
