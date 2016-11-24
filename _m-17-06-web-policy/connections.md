@@ -1,6 +1,6 @@
 ---
 layout: default
-display_order: 9
+display_order: 10
 title: 8. Use Secure Connections (HTTPS)
 permalink: /web-policy/connections/
 description:
