@@ -14,6 +14,7 @@ Section 508 of the Rehabilitation Act was enacted to eliminate barriers in infor
 **C**.	Agencies must develop accessibility statements for their website and appoint a Section 508 Coordinator as required by [OMB Memorandum, Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act.](https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf)  <sup>[32](#myfootnote12)</sup> 
 
 ***
+
 #### *Footnotes*
 <a name="myfootnote12">28</a>: 29 U.S.C. § 794d 
 
