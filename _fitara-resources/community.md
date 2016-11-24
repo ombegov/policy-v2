@@ -13,6 +13,38 @@ Monthly (previously biweekly) Implementation support meetings are held every fou
 
 ## FITARA Meeting Agendas
 
+**October 26, 2016**
+* Updates
+* Treasury’s FITARA Strategy & Progress
+* Discussion of Working Group Ideas on FITARA Performance Metrics
+* Open Discussion
+
+**September 28, 2016**
+* Updates
+* IT Workforce Insights
+* IT Workforce Workshop: challenges and solutions
+* Open Discussion
+
+**August 24, 2016**
+* Updates
+* August IDC – FITARA milestones due
+* FITARA toolkit
+* CPIC Transformation (See attached powerpoint)
+
+**June and July cancelled**
+
+**May 25, 2016**
+
+* Welcome & Announcements
+   * FITARA and statistical agency guidance posted on management.cio.gov<https://management.cio.gov/> (attachment K)
+* April 30th Overview  – OMB and GSA
+  * Outstanding Items
+  * Status and Workbook Walk-through
+  * Common Themes
+* Updated Management.cio.gov – OMB
+  * Example Policies and Resources from Agencies
+* Questions and Open Discussion
+
 **April 27, 2016**
 
 * Welcome 

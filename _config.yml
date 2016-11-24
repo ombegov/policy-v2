@@ -64,7 +64,7 @@ collections:
     permalink: /open-data/:path/
     url: /open-data/
     status: finalized
-    title: "M-13-13: Open Data Policy—Managing Information as an Asset"
+    title: "M-13-13: Open Data Policy— Managing Information as an Asset"
     github-lavel: open-data
     download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf  
   m-17-05-fisma-guidance-2017:
@@ -96,3 +96,19 @@ collections:
     status: draft
     title: IT Modernization
     github-label: it-modernization
+    download-link: https://github.com/ombegov/policy-v2/raw/gh-pages/assets/PDF/ITMF_Draft.pdf
+  policy-schema:
+    output: true
+    permalink: /policy-schema/:path/
+    url: /policy-schema/
+    status: resource
+    title: Policy Schema 
+    github-label: policy-schema
+  m-17-06-web-policy:
+    output: true
+    permalink: /web-policy/:path/
+    url: /web-policy/
+    status: finalized
+    title: "M-17-06: Policies for Federal Agency Public Websites and Digital Services"
+    github-label: _m-17-06-web-policy
+    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf
