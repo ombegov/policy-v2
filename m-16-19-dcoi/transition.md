@@ -26,8 +26,10 @@ Cloud environments are scalable and allow agencies to provision resources as req
 ### *Footnotes*
 <a name="myfootnote1">9</a> The General Services Administration (GSA) Office of Government-wide Policy (OGP) will coordinate with OMB to define thresholds for what constitutes “significant” expansion within 60 days of publication of this memorandum.
  Data centers certified by GSA OGP as Inter
- <a name=>10</a>Data centers certified by GSA OGP as Inter-agency Shared Service Provider data centers are excluded from this development freeze.
- This requirement does not apply to GSA OGP designated inter-agency shared services data centers.
+
+<a>10</a>Data centers certified by GSA OGP as Inter-agency Shared Service Provider data centers are excluded from this development freeze.
+
+This requirement does not apply to GSA OGP designated inter-agency shared services data centers.
   Federal Cloud Computing Strategy, February 8, 2011, https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/federal-cloud-computing-strategy.pdf.
   Ibid.
   See FY2015 NDAA Sec. 834(3)(c).
