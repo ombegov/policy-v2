@@ -3,8 +3,8 @@ title: Office of the Federal Chief Information Officer
 email: ofcio@omb.eop.gov
 description: > # this means to ignore newlines until "baseurl:"
 #
-baseurl: "https://policy.cio.gov" # the subpath of your site, e.g. /blog
-url: "https://policy.cio.gov" # the base hostname & protocol for your site
+#baseurl: "https://policy.cio.gov" # the subpath of your site, e.g. /blog
+#url: "https://policy.cio.gov" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -67,6 +67,14 @@ collections:
     title: "M-13-13: Open Data Policy— Managing Information as an Asset"
     github-lavel: open-data
     download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf  
+  m-17-05-fisma-guidance-2017:
+    output: true
+    permalink: /fisma-guidance-2017/:path/
+    url: /fisma-guidance-2017/
+    status: finalized
+    title: "M-17-05: Fiscal Year 2016-2017 Guidance on Federal Information Security and Privacy Management Requirements"
+    github-label: fisma-guidance-2017
+    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2017/m-17-05.pdf
   fitara-resources:
     output: true
     permalink: /fitara-resources/:path/
