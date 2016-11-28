@@ -11,7 +11,7 @@ Beginning 180 days after issuance of this memorandum, agencies may not budget an
 
 ## Consolidation and Closure of Existing Data Centers
 
-As previously required by the FDCCI, agencies shall continue to principally reduce application, system, and database inventories to essential enterprise levels by increasing the use of virtualization to enable pooling of storage, network and computer resources, and dynamic allocation on-demand.  Thereafter, agencies shall evaluate options for the consolidation and closure of existing data centers,<sup>[11]<sup> by (in order of priority):
+As previously required by the FDCCI, agencies shall continue to principally reduce application, system, and database inventories to essential enterprise levels by increasing the use of virtualization to enable pooling of storage, network and computer resources, and dynamic allocation on-demand.  Thereafter, agencies shall evaluate options for the consolidation and closure of existing data centers,<sup>[11]</sup> by (in order of priority):
 
 1.	Transitioning to provisioned services, including configurable and flexible technology such as Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) to the furthest extent practicable, consistent with the Cloud First policy.<sup>[12]<sup>
 2.	Migrating to inter-agency shared services or co-location data centers.
