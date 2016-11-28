@@ -28,5 +28,7 @@ This memorandum defines a framework for achieving the data center consolidation 
 
 ### *Footnotes*
 <a name="myfootnote1">1</a> The FDCCI was first established by OMB “Memo for CIOs: Federal Data Center Consolidation Initiative,” issued on February 26, 2010, and modified by subsequent memoranda.
+
 <a name="myfootnote1">2</a> Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for Fiscal Year 2015, Pub. L. No. 113-291.
+
 <a name="myfootnote1">3</a> This office was established in accordance with Section 101 of the E-government Act of 2002, codified at 44 U.S.C. § 3602, and is headed by the Federal government Chief Information Officer.  This office will also be referred to as OMB’s Office of the Federal Chief Information Officer (OFCIO).  
