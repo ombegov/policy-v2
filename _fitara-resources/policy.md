@@ -54,11 +54,18 @@ Resources to support agencies in developing and maintaining a skilled IT workfor
   * [IT Program Management Competencies - 2011](https://www.chcoc.gov/content/competency-model-it-program-management)
 
 * Flexible Hiring 
+ 
   * [Smarter IT Delivery Schedule A Hiring Authority](https://www.chcoc.gov/content/smarter-it-delivery-schedule-hiring-authority) 
   
   * [Direct Hire Fact Sheet](/assets/docs/Direct_Hire_Fact_Sheet%20(2).pdf)
   
   * [Flexible Hiring Authority Fact Sheet](/assets/docs/Fact_Sheet-Hiring_Flexibilities%20(2).pdf)
+
+* Compensation Flexibilities
+
+  * [Compensation Flexibilities to Recruit and Retain Cybersecurity Professionals](https://www.opm.gov/policy-data-oversight/pay-leave/reference-materials/handbooks/compensation-flexibilities-to-recruit-and-retain-cybersecurity-professionals.pdf) - provides information for human resources specialists and hiring managers on existing pay and leave flexibilities in a helpful checklist format and contains examples of combining flexibilities to maximize their effectiveness. 
+ 
+  * [Federal Employee Compensation Package: It's More than Just Salary](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/federal-employee-compensation-package/) - provides information for prospective employees on compensation and benefit packages available with Federal employment and may be used in agency cybersecurity and other employee recruitment activities. 
 
 ## Community Resources 
 * [FITARA Listserv Archive](http://listserv.gsa.gov/cgi-bin/wa.exe?A0=FITARA)
@@ -68,6 +75,5 @@ Resources to support agencies in developing and maintaining a skilled IT workfor
 ## Other Related Resources
 
 * [Electronic Stewardship Guidance](https://www.fedcenter.gov/programs/electronics/)
-
 
 
