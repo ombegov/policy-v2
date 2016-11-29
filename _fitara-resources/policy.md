@@ -63,9 +63,9 @@ Resources to support agencies in developing and maintaining a skilled IT workfor
 
 * Compensation Flexibilities
 
- * [Compensation Flexibilities to Recruit and Retain Cybersecurity Professionals](https://www.opm.gov/policy-data-oversight/pay-leave/reference-materials/handbooks/compensation-flexibilities-to-recruit-and-retain-cybersecurity-professionals.pdf) - provides information for human resources specialists and hiring managers on existing pay and leave flexibilities in a helpful checklist format and contains examples of combining flexibilities to maximize their effectiveness. 
+  * [Compensation Flexibilities to Recruit and Retain Cybersecurity Professionals](https://www.opm.gov/policy-data-oversight/pay-leave/reference-materials/handbooks/compensation-flexibilities-to-recruit-and-retain-cybersecurity-professionals.pdf) - provides information for human resources specialists and hiring managers on existing pay and leave flexibilities in a helpful checklist format and contains examples of combining flexibilities to maximize their effectiveness. 
  
- * [Federal Employee Compensation Package: It's More than Just Salary](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/federal-employee-compensation-package/) - provides information for prospective employees on compensation and benefit packages available with Federal employment and may be used in agency cybersecurity and other employee recruitment activities. 
+  * [Federal Employee Compensation Package: It's More than Just Salary](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/federal-employee-compensation-package/) - provides information for prospective employees on compensation and benefit packages available with Federal employment and may be used in agency cybersecurity and other employee recruitment activities. 
 
 ## Community Resources 
 * [FITARA Listserv Archive](http://listserv.gsa.gov/cgi-bin/wa.exe?A0=FITARA)
