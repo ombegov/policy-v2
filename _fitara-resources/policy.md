@@ -38,11 +38,7 @@ Templates, resources and guidance to help agencies implement FITARA
 ## IT Workforce Resources 
 Resources to support agencies in developing and maintaining a skilled IT workforce (see section P in the [Common Baseline](/implementation/#Attachment-A)).
 
-
 * IT Competency Models, Certifications and Guides
- * [Compensation Flexibilities to Recruit and Retain Cybersecurity Professionals](https://www.opm.gov/policy-data-oversight/pay-leave/reference-materials/handbooks/compensation-flexibilities-to-recruit-and-retain-cybersecurity-professionals.pdf) - provides information for human resources specialists and hiring managers on existing pay and leave flexibilities in a helpful checklist format and contains examples of combining flexibilities to maximize their effectiveness. 
- 
- * [Federal Employee Compensation Package: It's More than Just Salary](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/federal-employee-compensation-package/) - provides information for prospective employees on compensation and benefit packages available with Federal employment and may be used in agency cybersecurity and other employee recruitment activities. 
   * [Federal Acquisition Certification for Program and Project Managers](https://www.fai.gov/drupal/certification/fac-ppm-certification-requirements)
   
   * [FAC-P/PM – Information Technology (IT) Core-Plus Competency Model](https://www.fai.gov/drupal/sites/default/files/FAC-PPM-IT%20Comp%20Final%20v24_26Sep13.pdf)
@@ -58,6 +54,9 @@ Resources to support agencies in developing and maintaining a skilled IT workfor
   * [IT Program Management Competencies - 2011](https://www.chcoc.gov/content/competency-model-it-program-management)
 
 * Flexible Hiring 
+  * [Compensation Flexibilities to Recruit and Retain Cybersecurity Professionals](https://www.opm.gov/policy-data-oversight/pay-leave/reference-materials/handbooks/compensation-flexibilities-to-recruit-and-retain-cybersecurity-professionals.pdf) - provides information for human resources specialists and hiring managers on existing pay and leave flexibilities in a helpful checklist format and contains examples of combining flexibilities to maximize their effectiveness. 
+ 
+ * [Federal Employee Compensation Package: It's More than Just Salary](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/federal-employee-compensation-package/) - provides information for prospective employees on compensation and benefit packages available with Federal employment and may be used in agency cybersecurity and other employee recruitment activities. 
   * [Smarter IT Delivery Schedule A Hiring Authority](https://www.chcoc.gov/content/smarter-it-delivery-schedule-hiring-authority) 
   
   * [Direct Hire Fact Sheet](/assets/docs/Direct_Hire_Fact_Sheet%20(2).pdf)
