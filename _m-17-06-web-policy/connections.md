@@ -12,4 +12,5 @@ Federal agencies are already required to deploy HTTPS on their domains following
 
 ***
 #### *Footnotes* 
+
 <a name="myfootnote22">22</a>:  [https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-13.pdf](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-13.pdf)

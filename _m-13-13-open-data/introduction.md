@@ -5,16 +5,17 @@ title: M-13-13 — MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIE
 permalink: /open-data/
 description:
 ---
+#### May 13, 2013
 
-<h3> From: </h3>
+### M-13-13
 
-* **Sylvia M. Burwell**<br />Director
-* **Steven VanRoekel**<br />Federal Chief Information Officer
-* **Todd Park**<br />U.S. Chief Technology Officer
-* **Dominic J. Mancini**<br />Deputy Administrator, Office of Information and Regulatory Affairs
-{: #from}
+### From: Sylvia M. Burwell- Director
+### Steven VanRoeke- Federal Chief Information Officer
+### Todd Park- U.S. Chief Technology Officer
+### Dominic J. Mancini- Deputy Administrator, Office of Information and Regulatory Affairs
 
-**Subject:** Open Data Policy&#8212;Managing Information as an Asset
+
+##Subject:- Open Data Policy & #8212; Managing Information as an Asset
 
 Information is a valuable national resource and a strategic asset to the Federal Government, its partners, and the public. In order to ensure that the Federal Government is taking full advantage of its information resources, executive departments and agencies (hereafter referred to as "agencies") must manage information as an asset throughout its life cycle to promote openness and interoperability, and properly safeguard systems and information. Managing government information as an asset will increase operational efficiencies, reduce costs, improve services, support mission needs, safeguard personal information, and increase public access to valuable government information.
 
@@ -72,7 +73,10 @@ This attachment provides definitions and implementation guidance for M-13-13, *O
 
 * *Project Open Data:* "Project Open Data," a new OMB and OSTP resource, is an online repository of tools, best practices, and schema to help agencies adopt the framework presented in this guidance. Project Open Data can be accessed at [project-open-data.cio.gov](https://project-open-data.cio.gov/). <sup id="fnr18"><a href="#fn18">18</a></sup> Project Open Data will evolve over time as a community resource to facilitate adoption of open data practices. The repository includes definitions, code, checklists, case studies, and more, and enables collaboration across the Federal Government, in partnership with public developers, as applicable. Agencies can visit Project Open Data for a more comprehensive glossary of terms related to open data.
 
-### Footnotes
+
+***
+
+#### *Footnotes*
 <ul style="list-style-type:none">
 <li id="fn1"><sup>1</sup> President Barack Obama, Memorandum on Transparency and Open Government (Jan. 21, 2009), *available at* <a>http://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment</a>. <a href="#fnr1">&#8617;</a> </li>
 <li id="fn2"><sup>2</sup> OMB Memorandum M-10-06, *Open Government Directive* (Dec. 8, 2009), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-06.pdf</a> <a href="#fnr2">&#8617;</a></li>

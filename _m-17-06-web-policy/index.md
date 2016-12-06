@@ -5,12 +5,17 @@ title: "M-17-06 - Policies for Federal Agency Public Websites and Digital Servic
 permalink: /web-policy/
 ---
 
+### November 4, 2016
+
+### M-17-06
+
+### From Shaun Donovan- Director Office of Management and Budget
+
+### Howard Shelanski- Administrator, Office of Information and Regulatory Affairs
+
+### Subject- Policies for Federal Agency Public Websites and Digital Services
 
 
-<h3> FROM: <br/>Shaun Donovan <br/>Director, Office of Management and Budget<br/><br/>Howard Shelanski<br/>Administrator, Office of Information and Regulatory Affairs</h3>
-<h3> SUBJECT: <br/>Policies for Federal Agency Public Websites and Digital Services</h3>
-
-November 4, 2016
 		
 Federal Agency public websites and digital services are the primary means by which the public receives information from and interacts with the Federal Government. These websites and services help the public apply for benefits, search for jobs, comply with Federal rules, obtain authoritative information, and much more. Federal websites and digital services should always meet and maintain high standards of effectiveness and usability and provide quality information that is readily accessible to all. 
 
@@ -19,6 +24,8 @@ The May 23, 2012 [Digital Government Strategy](https://www.whitehouse.gov/sites/
 This Memorandum rescinds and replaces OMB Memorandum M-05-04, Policies for Federal Agency Public Websites.  
 
 For questions on this memorandum, please contact: [infopolicy-oira@omb.eop.gov.](mailto:infopolicy-oira@omb.eop.gov) 
+
+***
 
 #### *Footnotes*
 <a name="myfootnote1">1</a>:[https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf)

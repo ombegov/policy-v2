@@ -8,8 +8,12 @@ redirect_from:
   - /AppendixB/
 ---
 
-<h3> FROM: <br/>Tony Scott<br/>United States Chief Information Officer<br/><br/>Anne E. Rung<br/>United States Chief Acquisition Officer</h3>
-<h3> SUBJECT: <br/>Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software</h3>
+#### August 8, 2016
+
+### FROM: Tony Scott- United States Chief Information Officer<br/>
+### Anne E. Rung- United States Chief Acquisition Officer
+
+###SUBJECT: Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software
 
 <br/>
 The U.S. Government is committed to improving the way Federal agencies buy, build, and deliver information technology (IT) and software solutions to better support cost efficiency, mission effectiveness, and the consumer experience with Government programs. Each year, the Federal Government spends more than $6 billion on software through more than 42,000 transactions.<sup id="fnr1"><a href="#fn1">1</a></sup>  A significant proportion of software used by the Government is comprised of either preexisting Federal solutions or commercial solutions. These solutions include proprietary, open source, and mixed source<sup id="fnr2"><a href="#fn2">2</a></sup> code and often do not require additional custom code development.
@@ -33,8 +37,9 @@ Several Federal agencies and component organizations have also begun publishing 
 
 The Administration made a commitment, as part of its <em>Second Open Government National Action Plan</em>,<sup id="fnr17"><a href="#fn17">17</a></sup> to “develop an open source software policy that, together with the Digital Services Playbook, will support improved access to custom software code developed for the Federal government.”<sup id="fnr18"><a href="#fn18">18</a></sup>  This policy fulfills that commitment in an effort to improve U.S. Government software development and make the Government more open, transparent, and accessible to the public.
 
+***
 
-### Footnotes
+#### *Footnotes*
 
 <ul style="list-style-type:none">
 <li id="fn1"><sup>1</sup> <em>M-16-12: Improving the Acquisition and Management of Common Information Technology: Software Licensing.</em> Office of Mgmt. & Budget, Exec. Office of the President, June 2, 2016. <a href="https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m-16-12_1.pdf">https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m-16-12_1.pdf</a>.  <a href="#fnr1">&#8617;</a></li>

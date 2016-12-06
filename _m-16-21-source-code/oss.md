@@ -44,9 +44,9 @@ When agencies release custom-developed source code as OSS to the public, they sh
 	</li>	
 </ol>
 
+***
 
-
-### Footnotes
+#### *Footnotes*
 
 <ul style="list-style-type:none">
 

@@ -3,8 +3,13 @@ layout: default
 title: Management and Oversight of Federal Information Technology
 permalink: /fitara/
 ---
+#### June 10, 2015
 
-Office of Management and Budget (OMB) M-15-14
+### M-15-14
+
+### From: Shaun Donovan- Director 
+
+### SUBJECT: Management and Oversight of Federal Information Technology 
 
 _A New Foundation for Technology Management – June 10, 2015_ 
 

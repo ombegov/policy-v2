@@ -27,6 +27,7 @@ All public facing websites and digital services should be designed around user n
 **E**. OMB has issued additional guidance, [Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act](https://www.whitehouse.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf), and [Flexibilities under the Paperwork Reduction Act for Compliance with Information Collection Requirements](https://www.whitehouse.gov/sites/default/files/omb/inforeg/pra_flexibilities_memo_7_22_16_finalI.pdf), to clarify the PRA with respect to its existing flexibilities and various types of social media and collaborative technologies that can further help agencies get feedback from users. <sup>[9](#myfootnote9)</sup>    
 
 ***
+
 #### *Footnotes*
 
 <a name="myfootnote1">7</a>:[https://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf](https://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) 

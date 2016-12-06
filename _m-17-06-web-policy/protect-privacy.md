@@ -81,6 +81,7 @@ A Privacy Act statement is required by law whenever an agency asks individuals t
 A privacy notice must be provided, whenever feasible, where a Privacy Act statement is not required but members of the public could nonetheless provide PII to the agency using an online interface.  The privacy notice should include a brief description of the agency’s practices with respect to the PII that the agency is collecting, maintaining, using, or disseminating.
 
 ***
+
 #### ***Footnotes***
 <a name="myfootnote1">14</a>: Examples of privacy reports include, but are not limited to, annual matching activity reports submitted pursuant to the Privacy Act and reports submitted pursuant to Section 552 of the Consolidated Appropriations Act of 2005, Section 803 of the Implementing Recommendations of the 9/11 Commission Act of 2007, and the Federal Agency Data Mining Reporting Act of 2007.
 

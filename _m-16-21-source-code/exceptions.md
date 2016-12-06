@@ -22,7 +22,9 @@ Applicable exceptions are as follows:
 
 For excepted software, agencies must provide OMB a brief narrative justification for each exception, with redactions as appropriate.
 
-### Footnotes
+***
+
+#### *Footnotes*
 
 <ul style="list-style-type:none">
 

@@ -12,6 +12,7 @@ Agencies must remain up to date with major technical changes in internet protoco
   **B**. Agencies must also ensure that their procurements of networked information technology comply with Federal Acquisition Regulation (FAR) requirements <sup>[41](#myfootnote12)</sup> for use of the U.S. Government IPv6 Profile and Test Program for the completeness and quality of their IPv6 capabilities. <sup>[42](#myfootnote12)</sup>
 
 ***
+
 #### *Footnotes*
 <a name="myfootnote12">40</a>: [http://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/transition-to-ipv6.pdf;](http://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/transition-to-ipv6.pdf) [https://cio.gov/wp-content/uploads/downloads/2012/09/202_IPv6_Roadmap_FINAL_20120712.pdf;](https://cio.gov/wp-content/uploads/downloads/2012/09/2012_IPv6_Roadmap_FINAL_20120712.pdf) [http://csrc.nist.gov/publications/nistpubs/800-119/sp800-119.pdf](http://csrc.nist.gov/publications/nistpubs/800-119/sp800-119.pdf)
 

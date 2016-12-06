@@ -20,8 +20,9 @@ This policy will accomplish the following objectives:
 
 * Provide instructions and resources to facilitate implementation of this policy.
 
+***
 
-### Footnotes
+#### *Footnotes*
 
 <ul style="list-style-type:none">
 

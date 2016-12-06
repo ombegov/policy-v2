@@ -28,7 +28,9 @@ Securing adequate rights to enable Government-wide reuse of custom-developed cod
 
 Agencies may refer to Section 7 of this document for additional information regarding their individual responsibilities related to implementing this policy.
 
-### Footnotes
+***
+
+#### *Footnotes*
 
 <ul style="list-style-type:none">
 

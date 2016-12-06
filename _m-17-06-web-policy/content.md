@@ -28,6 +28,7 @@ At a minimum, agencies must post links to the following information on the agenc
 For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy. 
 
 ***
+
 #### *Footnotes*
 <a name="myfootnote12">35</a>: This refers to the webpage about the agency which is usually referred to as “About”, “About Us”, “About Agency,” or a similar variant.
 

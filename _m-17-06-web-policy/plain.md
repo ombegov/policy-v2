@@ -10,5 +10,6 @@ Web content is most effective when it is easy to understand, find, and use. The 
 As required by law and OMB guidance, agencies must ensure that web content is written in a manner suitable for the intended audience. The Federal Plain Language Guidelines and other resources maintained by the interagency Plain Language Action and Information Network (PLAIN) at [www.plainlanguage.gov](http://www.plainlanguage.gov/) can assist agencies in meeting the goals of the Plain Writing Act. 
 
 ***
+
 #### *Footnotes*
 <a name="myfootnote12">33</a>: 5 U.S.C. § 301 note 

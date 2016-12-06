@@ -96,7 +96,9 @@ As OMB has noted, "The individual's right to privacy must be protected in Federa
 
 Consistent with 44 U.S.C. 3506 (b)(2), agencies must develop and maintain an Information Resource Management (IRM) Strategic Plan. IRM Strategic Plans should align with the agency's Strategic Plan (as required by OMB Circular A-11), <sup id="fnr36"><a href="#fn36">36</a></sup> support the attainment of agency priority goals as mandated by the Government Performance and Results Modernization Act of 2010, <sup id="fnr37"><a href="#fn37">37</a></sup> provide a description of how IRM activities help accomplish agency missions, and ensure that IRM decisions are integrated with organizational planning, budget, procurement, financial management, human resources management, and program decisions. As part of the annual PortfolioStat process, <sup id="fnr38"><a href="#fn38">38</a></sup> agencies must update their IRM Strategic Plans to describe how they are meeting new and existing information life cycle management requirements. Specifically, agencies must describe how they have institutionalized and operationalized the interoperability and openness requirements in this Memorandum into their core processes across all applicable agency programs and stakeholders.
 
-### Footnotes
+***
+
+#### *Footnotes*
 <ul style="list-style-type:none">
 <li id="fn19"><sup>19</sup> The requirements of this subsection build upon existing requirements in OMB Statistical Policy Directives No. 1 and No. 2, *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/assets/omb/inforeg/directive1.pdf</a> and <a>http://www.whitehouse.gov/sites/default/files/omb/assets/omb/inforeg/directive2.pdf</a>. <a href="#fnr19">&#8617;</a> </li>
 <li id="fn20"><sup>20</sup> *See* OMB Circular A-119, *available at* <a>http://www.whitehouse.gov/omb/circulars_a119</a>, and OMB Memorandum M-12-08, *Principles for Federal Engagement in Standards Activities to Address National Priorities* (Jan 27, 2012), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/memoranda/2012/m-12-08.pdf</a> <a href="#fnr20">&#8617;</a> </li>
