@@ -6,6 +6,13 @@ permalink: /it-modernization/
 description: "Introduction"
 ---
 
+<div class="usa-alert usa-alert-warning">
+    <div class="usa-alert-body">
+      <h3 class="usa-alert-heading">Public Comment Closed</h3>
+      <p class="usa-alert-text">The public comment period for this policy has closed.  Thank you for your input.  The OFCIO is in the process of adjudicating feedback.</p>
+    </div>
+  </div>
+
 ### M-16-NN - MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES
 
 <h3> FROM:
@@ -17,6 +24,8 @@ Tony Scott, Federal Chief Information Officer
 <br/>
 SUBJECT:	Information Technology Modernization Initiative
 </h3>
+
+
 
 ### Purpose
 
