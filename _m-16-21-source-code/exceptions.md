@@ -1,12 +1,10 @@
 ---
 layout: default
 display_order: 7
-title: Exceptions to Government Code Reuse
+title: 6. Exceptions to Government Code Reuse
 permalink: /source-code/exceptions/
 description: 
 ---
-
-## 6.  Exceptions to Government Code Reuse
 
 The exceptions provided below may be applied, in specific instances, to exempt an agency from sharing custom-developed code with other Government agencies. These exceptions do not apply to the OSS pilot program.<sup id="fnr31"><a href="#fn31">31</a></sup> Any exceptions used must be approved and documented by the agency’s CIO for the purposes of ensuring effective oversight and management of information technology resources. 
 

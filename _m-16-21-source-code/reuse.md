@@ -1,13 +1,10 @@
 ---
 layout: default
 display_order: 5
-title: Government-wide Code Reuse
+title: 4. Government-wide Code Reuse
 permalink: /source-code/reuse/
 description: 
 ---
-
-## 4. Government-Wide Code Reuse
-
 
 Ensuring Government-wide reuse rights for custom code that is developed using Federal funds has numerous benefits for American taxpayers. To realize these benefits, agencies must comply with the following requirements:
 

@@ -39,7 +39,7 @@ In cases where members of the public are allowed to post or contribute their own
 
 ***
 
-#### *Footnotes*:
+#### *Footnotes*
 
 <a name="myfootnote12">26</a>: [http://www.whitehouse.gov/omb/assets/omb/fedreg/reproducible2.pdf](http://www.whitehouse.gov/omb/assets/omb/fedreg/reproducible2.pdf)
 

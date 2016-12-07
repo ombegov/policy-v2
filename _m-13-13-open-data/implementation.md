@@ -35,8 +35,10 @@ Progress on agency implementation of the actions required in this Memorandum wil
 
 Nothing in this Memorandum shall be construed to affect existing requirements for review and clearance of pre-decisional information by OMB relating to legislative, budgetary, administrative, and regulatory materials. Moreover, nothing in this Memorandum shall be construed to reduce the protection of information whose release would threaten national security, invade personal privacy, breach confidentiality or contractual terms, violate the Trade Secrets Act, <sup id="fnr40"><a href="#fn40">40</a></sup> violate other statutory confidentiality requirements, <sup id="fnr41"><a href="#fn41">41</a></sup> or damage other compelling interests. This Memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-### Footnotes
+***
+
+#### *Footnotes*
 <ul style="list-style-type:none">
-<li id="fn39"><sup>39</sup> OMB Memorandum M-05-08, *Designation of Senior Agency Officials for Privacy* (Feb. 11, 2005), *available at* <a>http://m.whitehouse.gov/sites/default/files/omb/assets/omb/memoranda/fy2005/m05-08.pdf</a> <a href="#fnr39">&#8617;</a> </li>
+<li id="fn39"><sup>39</sup> OMB Memorandum M-05-08, Designation of Senior Agency Officials for Privacy (Feb. 11, 2005), available at <a>http://m.whitehouse.gov/sites/default/files/omb/assets/omb/memoranda/fy2005/m05-08.pdf</a> <a href="#fnr39">&#8617;</a> </li>
 <li id="fn40"><sup>40</sup> 18 USC § 1905. <a href="#fnr40">&#8617;</a> </li>
-<li id="fn41"><sup>41</sup> *See* 13 U.S.C. §§ 8, 9 and 301(g) and 22 U.S.C. § 3104. <a href="#fnr41">&#8617;</a> </li> </ul>
+<li id="fn41"><sup>41</sup> See 13 U.S.C. §§ 8, 9 and 301(g) and 22 U.S.C. § 3104. <a href="#fnr41">&#8617;</a> </li> </ul>

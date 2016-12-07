@@ -1,12 +1,10 @@
 ---
 layout: default
 display_order: 2
-title: Objectives
+title: 1. Objectives
 permalink: /source-code/objectives/
 description: 
 ---
-
-## 1. Objectives
 
 This policy will accomplish the following objectives:
 
