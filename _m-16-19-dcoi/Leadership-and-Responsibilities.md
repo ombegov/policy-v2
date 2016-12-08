@@ -1,6 +1,6 @@
 ---
 layout: default
-display_order: 3
+display_order: 2
 title: Leadership and Responsibilities 
 permalink: /DCOI/leadership-responsibilities
 description: "Leadership and Responsibilities"
@@ -11,6 +11,7 @@ All data center infrastructure and services, including contracts for third-party
 
 ***
 
-### *Footnotes*
+#### *Footnotes*
 <a name="myfootnote1">7</a> Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for Fiscal Year 2015, Pub. L. No. 113-291.
+
 <a name="myfootnote1">8</a> OMB Memorandum M-15-14, “Management and Oversight of Federal Information Technology,” June 10, 2015, [https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf.](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf)

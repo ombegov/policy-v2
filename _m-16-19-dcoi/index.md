@@ -1,8 +1,8 @@
 ---
 layout: default
-display_order: 1
+display_order:
 title: M-16-19
-permalink: /DCOI/
+permalink: /dcoi/
 description: "Index"
 --- 
 

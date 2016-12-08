@@ -1,6 +1,6 @@
 ---
 layout: default
-display_order: 2
+display_order: 1
 title: Policy
 permalink: /DCOI/policy/
 description: "Policy"
@@ -11,11 +11,11 @@ As of August 1, 2016, the FDCCI is superseded by the Data Center Optimization In
 
 The DCOI, as described in this memorandum, requires agencies to develop and report on data center strategies to consolidate inefficient infrastructure, optimize existing facilities, improve security posture, achieve cost savings, and transition to more efficient infrastructure, such as cloud services and inter-agency shared services.<sup>[4](#myfootnote1)</sup>
 
-The requirements in this memorandum apply to all CFO Act agencies<sup>[5](#myfootnote1)</sup>, including the Department of Defense.<sup>[6](#myfootnote1)</sup>
+The requirements in this memorandum apply to all CFO Act agencies,<sup>[5](#myfootnote1)</sup> including the Department of Defense.<sup>[6](#myfootnote1)</sup>
  
  ***
  
-###*Footnotes*
+#### *Footnotes*
 
 <a name="myfootnote1">4</a> Federal Information Technology Shared Services Strategy, May 2, 2012, [https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/shared_services_strategy.pdf.](https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/shared_services_strategy.pdf.)
 

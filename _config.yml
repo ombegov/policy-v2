@@ -114,10 +114,9 @@ collections:
     download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf
   m-16-19-dcoi:
     output: true
-    permalink: /DCOI/:path/
-    url: /DCOI/
+    permalink: /dcoi/:path/
+    url: /dcoi/
     status: finalized
-    title: "M-16-19:"
-	github-label: _m-16-19-dcoi
-    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_19_1.pdf
-	
+    title: "M-16-19 Data Center Optimization Initiative (DCOI)"
+    github-lavel: _m-16-19-dcoi
+    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf  
