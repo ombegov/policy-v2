@@ -112,3 +112,12 @@ collections:
     title: "M-17-06: Policies for Federal Agency Public Websites and Digital Services"
     github-label: _m-17-06-web-policy
     download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf
+  m-16-19-dcoi:
+    output: true
+    permalink: /DCOI/:path/
+    url: /DCOI/
+    status: finalized
+    title: "M-16-19:"
+	github-label: _m-16-19-dcoi
+    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_19_1.pdf
+	
