@@ -23,7 +23,7 @@ In general, mark the policy if there is anything out of placeA  That way the ana
  
  b.	There will be a lot of repeated data, but that can be fixed later
 
-3.	In the spreadsheet create “Tags” for types of requirements (see https://policy.cio.gov/taxonomies/ for the categories that were used in this project)
+3.	In the spreadsheet create “Tags” for types of requirements (see [https://policy.cio.gov/taxonomies/](https://policy.cio.gov/taxonomies/) for the categories that were used in this project)
 
 4.	Change the formatting in both documents.
 
@@ -41,7 +41,7 @@ In general, mark the policy if there is anything out of placeA  That way the ana
  
     i.	We are going to moving toward using the URL of the posted policy as the unique identifier.  The URL will also be used in the requirement numbers
   
-  b.	Look for key words that indicate that there is a requirement (see https://policy.cio.gov/taxonomies/)
+  b.	Look for key words that indicate that there is a requirement (see [https://policy.cio.gov/taxonomies/](https://policy.cio.gov/taxonomies/))
   
   c.	Include the meta data for each requirement 
   
