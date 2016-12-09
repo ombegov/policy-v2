@@ -5,7 +5,7 @@ title: 12. Ensure Accessibility for Individuals with Disabilities
 permalink: /web-policy/accessibility/
 description:
 ---
-Section 508 of the Rehabilitation Act was enacted to eliminate barriers in information technology, open new opportunities for people with disabilities, and encourage development of technologies that will help achieve these goals. <sup>[28](#myfootnote14)</sup>  The law applies to all Federal departments and agencies when they develop, procure, maintain, or use electronic and information technology. <sup>[29](#myfootnote14)</sup>  Under Section 508, departments and agencies must ensure that employees and members of the public with disabilities have access to information and data that is comparable to access available to others unless an undue burden would be imposed on the department or agency. 
+Section 508 of the Rehabilitation Act was enacted to eliminate barriers in information technology, open new opportunities for people with disabilities, and encourage development of technologies that will help achieve these goals. <sup>[28](#myfootnote14)</sup>  The law applies to all Federal departments and agencies when they develop, procure, maintain, or use electronic and information technology<sup>[29](#myfootnote14)</sup>.   Under Section 508, departments and agencies must ensure that employees and members of the public with disabilities have access to information and data that is comparable to access available to others unless an undue burden would be imposed on the department or agency. 
  
 **A**.	Agencies must comply with Section 508 and with the Electronic and Information Technology (EIT) Accessibility Standards.<sup>[30](#myfootnote14)</sup>  Additionally agencies must also adhere to their own Section 508 regulations and policies. Section 508 does not limit rights, remedies, or procedures otherwise available under other Federal laws, including Sections 501, 503, and 504 of the Rehabilitation Act and the Americans with Disabilities Act. <sup>[31](#myfootnote12)</sup> 
 
@@ -18,7 +18,7 @@ Section 508 of the Rehabilitation Act was enacted to eliminate barriers in infor
 #### *Footnotes*
 <a name="myfootnote12">28</a>: 29 U.S.C. § 794d 
 
-<a name="myfootnote12">29</a>: Section 508 does not apply to national security systems, as that term is defined in section 11103(a) of title 40. 29 U.S.C. § 794d(a)(5).
+<a name="myfootnote12">29</a>: The term information technology includes computers, ancillary equipment, software, firmware and similar procedures, services (including support services), and related resources. 
 
 <a name="myfootnote12">30</a>: 36 CFR Part 1194
 
