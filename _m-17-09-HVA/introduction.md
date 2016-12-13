@@ -1,6 +1,6 @@
 ---
 layout: default
-display_order: 
+display_order: 2
 title: Introduction
 permalink: /introduction/
 description: "Introduction"
