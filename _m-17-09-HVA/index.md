@@ -1,3 +1,11 @@
+---
+layout: default
+display_order: 1
+title: Management of Federal High Value Assets 
+permalink: /hva/
+description: "Introduction"
+---
+
 
 ### December 9, 2016 
 ### M-17-09
