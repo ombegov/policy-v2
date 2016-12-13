@@ -5,16 +5,17 @@ title: M-13-13 — MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIE
 permalink: /open-data/
 description:
 ---
+#### May 13, 2013
 
-<h3> From: </h3>
+### M-13-13
 
-* **Sylvia M. Burwell**<br />Director
-* **Steven VanRoekel**<br />Federal Chief Information Officer
-* **Todd Park**<br />U.S. Chief Technology Officer
-* **Dominic J. Mancini**<br />Deputy Administrator, Office of Information and Regulatory Affairs
-{: #from}
+### From: Sylvia M. Burwell- Director
+### Steven VanRoeke- Federal Chief Information Officer
+### Todd Park- U.S. Chief Technology Officer
+### Dominic J. Mancini- Deputy Administrator, Office of Information and Regulatory Affairs
 
-**Subject:** Open Data Policy&#8212;Managing Information as an Asset
+
+## Subject: Open Data Policy - Managing Information as an Asset
 
 Information is a valuable national resource and a strategic asset to the Federal Government, its partners, and the public. In order to ensure that the Federal Government is taking full advantage of its information resources, executive departments and agencies (hereafter referred to as "agencies") must manage information as an asset throughout its life cycle to promote openness and interoperability, and properly safeguard systems and information. Managing government information as an asset will increase operational efficiencies, reduce costs, improve services, support mission needs, safeguard personal information, and increase public access to valuable government information.
 
@@ -72,23 +73,26 @@ This attachment provides definitions and implementation guidance for M-13-13, *O
 
 * *Project Open Data:* "Project Open Data," a new OMB and OSTP resource, is an online repository of tools, best practices, and schema to help agencies adopt the framework presented in this guidance. Project Open Data can be accessed at [project-open-data.cio.gov](https://project-open-data.cio.gov/). <sup id="fnr18"><a href="#fn18">18</a></sup> Project Open Data will evolve over time as a community resource to facilitate adoption of open data practices. The repository includes definitions, code, checklists, case studies, and more, and enables collaboration across the Federal Government, in partnership with public developers, as applicable. Agencies can visit Project Open Data for a more comprehensive glossary of terms related to open data.
 
-### Footnotes
+
+***
+
+#### *Footnotes*
 <ul style="list-style-type:none">
-<li id="fn1"><sup>1</sup> President Barack Obama, Memorandum on Transparency and Open Government (Jan. 21, 2009), *available at* <a>http://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment</a>. <a href="#fnr1">&#8617;</a> </li>
-<li id="fn2"><sup>2</sup> OMB Memorandum M-10-06, *Open Government Directive* (Dec. 8, 2009), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-06.pdf</a> <a href="#fnr2">&#8617;</a></li>
-<li id="fn3"><sup>3</sup> OMB Circular A-130, *available at* <a>http://www.whitehouse.gov/omb/Circulars_a130_a130trans4/</a> <a href="#fnr3">&#8617;</a></li>
-<li id="fn4"><sup>4</sup> OMB Memorandum M-06-02, *Improving Public Access to and Dissemination of Government Information and Using the Federal Enterprise Architecture Data Reference Model* (Dec. 16, 2005), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2006/m06-02.pdf</a> ** <a href="#fnr4">&#8617;</a></li>
-<li id="fn5"><sup>5</sup> President Barack Obama, Memorandum on Building a 21st Century Digital Government (May 23, 2012), *available at* <a>http://www.whitehouse.gov/sites/default/files/uploads/2012digital_mem_rel.pdf</a> <a href="#fnr5">&#8617;</a></li>
-<li id="fn6"><sup>6</sup> Office of Management and Budget, *Digital Government: Building a 21<sup>st</sup> Century Platform to Better Serve the American People* (May 23, 2012), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf</a> <a href="#fnr6">&#8617;</a></li>
-<li id="fn7"><sup>7</sup> 44 U.S.C. § 3501 *et seq.* <a href="#fnr7">&#8617;</a></li>
+<li id="fn1"><sup>1</sup> President Barack Obama, Memorandum on Transparency and Open Government (Jan. 21, 2009), available at <a>http://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment</a>. <a href="#fnr1">&#8617;</a> </li>
+<li id="fn2"><sup>2</sup> OMB Memorandum M-10-06, Open Government Directive (Dec. 8, 2009), available at <a>http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-06.pdf</a> <a href="#fnr2">&#8617;</a></li>
+<li id="fn3"><sup>3</sup> OMB Circular A-130, available at <a>http://www.whitehouse.gov/omb/Circulars_a130_a130trans4/</a> <a href="#fnr3">&#8617;</a></li>
+<li id="fn4"><sup>4</sup> OMB Memorandum M-06-02, Improving Public Access to and Dissemination of Government Information and Using the Federal Enterprise Architecture Data Reference Model (Dec. 16, 2005), available at <a>http://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2006/m06-02.pdf</a> <a href="#fnr4">&#8617;</a></li>
+<li id="fn5"><sup>5</sup> President Barack Obama, Memorandum on Building a 21st Century Digital Government (May 23, 2012), available at <a>http://www.whitehouse.gov/sites/default/files/uploads/2012digital_mem_rel.pdf</a> <a href="#fnr5">&#8617;</a></li>
+<li id="fn6"><sup>6</sup> Office of Management and Budget, Digital Government: Building a 21st Century Platform to Better Serve the American People (May 23, 2012), available at <a>http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf</a> <a href="#fnr6">&#8617;</a></li>
+<li id="fn7"><sup>7</sup> 44 U.S.C. § 3501 et seq. <a href="#fnr7">&#8617;</a></li>
 <li id="fn8"><sup>8</sup> Pub. L. No. 107-347, 116 Stat. 2899 (2002) (codified as 44 U.S.C. § 3501 note). <a href="#fnr8">&#8617;</a></li>
 <li id="fn9"><sup>9</sup> 5 U.S.C. § 552a. <a href="#fnr9">&#8617;</a></li>
-<li id="fn10"><sup>10</sup> 44 U.S.C. § 3541, *et seq*. <a href="#fnr10">&#8617;</a></li>
-<li id="fn11"><sup>11</sup> Section 503(a), Pub. L. No. 107-347, 116 Stat. 2899 (2002) (codified as 44 U.S.C. § 3501 note); *see also* Implementation Guidance for Title V of the E-Government Act, Confidential Information Protection and Statistical Efficiency Act of 2002 (CIPSEA), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/assets/omb/fedreg/2007/061507_cipsea_guidance.pdf</a> <a href="#fnr11">&#8617;</a></li>
+<li id="fn10"><sup>10</sup> 44 U.S.C. § 3541, et seq. <a href="#fnr10">&#8617;</a></li>
+<li id="fn11"><sup>11</sup> Section 503(a), Pub. L. No. 107-347, 116 Stat. 2899 (2002) (codified as 44 U.S.C. § 3501 note); see also Implementation Guidance for Title V of the E-Government Act, Confidential Information Protection and Statistical Efficiency Act of 2002 (CIPSEA), available at <a>http://www.whitehouse.gov/sites/default/files/omb/assets/omb/fedreg/2007/061507_cipsea_guidance.pdf</a> <a href="#fnr11">&#8617;</a></li>
 <li id="fn12"><sup>12</sup> 5 USC 552(a)(2). <a href="#fnr12">&#8617;</a></li>
-<li id="fn13"><sup>13</sup> Pub. L. No. 106-554 (2000) (codified at 44 U.S.C. § 3504(d)(1) and 3516). *See also* OMB Memorandum M-12-18, *Managing Government Records Directive* (Aug. 24, 2012), *available at*  <a>http://www.whitehouse.gov/sites/default/files/omb/memoranda/2012/m-12-18.pdf</a>. <a href="#fnr13">&#8617;</a></li>
-<li id="fn14"><sup>14</sup> 44 U.S.C. Chapters 21, 22, 29, 31, and 33. *See also* 36 CFR Subchapter B &#8211; Records Management. <a href="#fnr14">&#8617;</a></li>
-<li id="fn15"><sup>15</sup> *Structured* information is to be contrasted with *unstructured* information (commonly referred to as "content") such as press releases and fact sheets. As described in the *Digital Government Strategy*, content may be converted to a structured format and treated as data. For example, a web-based fact sheet may be broken into the following component data pieces: the title, body text, images, and related links. <a href="#fnr15">&#8617;</a></li>
-<li id="fn16"><sup>16</sup> The White House, *National Strategy for Trusted Identities in Cyberspace* (April 2011), *available at* <a>http://www.whitehouse.gov/sites/default/files/rss_viewer/NSTICstrategy_041511.pdf</a> <a href="#fnr16">&#8617;</a></li>
-<li id="fn17"><sup>17</sup> OMB Memorandum M-10-23, *Guidance for Agency Use of Third-Party Websites and Applications* (June 25, 2010), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-23.pdf</a> <a href="#fnr17">&#8617;</a></li>
+<li id="fn13"><sup>13</sup> Pub. L. No. 106-554 (2000) (codified at 44 U.S.C. § 3504(d)(1) and 3516). See also OMB Memorandum M-12-18, Managing Government Records Directive (Aug. 24, 2012), available at <a>http://www.whitehouse.gov/sites/default/files/omb/memoranda/2012/m-12-18.pdf</a>. <a href="#fnr13">&#8617;</a></li>
+<li id="fn14"><sup>14</sup> 44 U.S.C. Chapters 21, 22, 29, 31, and 33. See also 36 CFR Subchapter B &#8211; Records Management. <a href="#fnr14">&#8617;</a></li>
+<li id="fn15"><sup>15</sup> Structured information is to be contrasted with unstructured information (commonly referred to as "content") such as press releases and fact sheets. As described in the Digital Government Strategy, content may be converted to a structured format and treated as data. For example, a web-based fact sheet may be broken into the following component data pieces: the title, body text, images, and related links. <a href="#fnr15">&#8617;</a></li>
+<li id="fn16"><sup>16</sup> The White House, National Strategy for Trusted Identities in Cyberspace (April 2011), available at <a>http://www.whitehouse.gov/sites/default/files/rss_viewer/NSTICstrategy_041511.pdf</a> <a href="#fnr16">&#8617;</a></li>
+<li id="fn17"><sup>17</sup> OMB Memorandum M-10-23, Guidance for Agency Use of Third-Party Websites and Applications (June 25, 2010), available at <a>http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-23.pdf</a> <a href="#fnr17">&#8617;</a></li>
 <li id="fn18"><sup>18</sup> Links to the best practices developed in Project Open Data referenced in this memorandum can be found through the directory on this main page. <a href="#fnr18">&#8617;</a></li></ul>

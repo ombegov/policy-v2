@@ -1,13 +1,10 @@
 ---
 layout: default
 display_order: 6
-title: Open Source Software
+title: 5. Open Source Software
 permalink: /source-code/oss/
 description: 
 ---
-
-## 5. Open Source Software
-
 
 ### 5.1 Pilot Program: Publication of Custom-Developed Code as OSS 
 
@@ -44,9 +41,9 @@ When agencies release custom-developed source code as OSS to the public, they sh
 	</li>	
 </ol>
 
+***
 
-
-### Footnotes
+#### *Footnotes*
 
 <ul style="list-style-type:none">
 

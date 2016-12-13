@@ -6,8 +6,6 @@ permalink: /appendix-a/
 description: "Appendix A: Definitions"
 ---
 
-## Appendix A: Definitions
-
 **Agency:** For the purposes of this policy, an agency is one that meets the definition of executive agency under the Clinger Cohen Act of 1996. *See* 41 U.S.C. § 11101.
 
 **Code.gov:** This platform is primarily intended to serve two distinct functions. First, it will act as an online collection of tools, guides, and best practices specifically designed to help agencies implement the framework presented in this policy. Second, it will serve as the primary discoverability portal for custom-developed code intended both for Government-wide reuse and for potential release as OSS. Code.gov is not intended to house the custom-developed code itself; rather, it is intended to serve as a tool for discovering custom-developed code that may be available for Government-wide reuse or as OSS, and to provide transparency into custom-developed code that is developed using Federal funds. This discoverability portal will be publically accessible and searchable via a variety of fields and constraints, such as the name of the project, its intended use, and the agency releasing the source code. Code.gov will be accessible at [https://www.code.gov](https://www.code.gov) and will evolve over time as a community resource to facilitate the adoption of good custom source code development, sharing, and reuse practices.
@@ -24,8 +22,9 @@ description: "Appendix A: Definitions"
 
 **Source Code:** Computer commands written in a computer programming language that is meant to be read by people. Generally, source code is a higher level representation of computer commands as they are written by people and, therefore, must be assembled or compiled before a computer can execute the code as a program.
 
+***
 
-### Footnotes
+#### *Footnotes*
 
 <ul style="list-style-type:none">
 	<li id="fn39"><sup>39</sup> As “computer software” is defined in 48 C.F.R. § 2.101. <a href="https://www.gpo.gov/fdsys/pkg/CFR-2002-title48-vol1/pdf/CFR-2002-title48-vol1-sec2-101.pdf">https://www.gpo.gov/fdsys/pkg/CFR-2002-title48-vol1/pdf/CFR-2002-title48-vol1-sec2-101.pdf</a>. <a href="#fnr39">&#8617;</a></li>

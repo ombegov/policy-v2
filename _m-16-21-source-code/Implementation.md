@@ -1,12 +1,10 @@
 ---
 layout: default
 display_order: 8
-title: Implementation
+title: 7. Implementation
 permalink: /source-code/implementation/
 description: Implementation
 ---
-
-## 7. Implementation
 
 ### 7.1 Roles and Responsibilities
 

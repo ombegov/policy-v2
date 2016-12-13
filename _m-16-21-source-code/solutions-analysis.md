@@ -1,14 +1,12 @@
 ---
 layout: default
 display_order: 4
-title: Three-Step Software Solutions Analysis
+title: 3. Three-Step Software Solutions Analysis
 permalink: /source-code/three-step-software-solutions-analysis/
 description: 
 redirect_from:
   - /Procurement/
 ---
-
-## 3. Three-Step Software Solutions Analysis
 
 Agencies must obtain sufficient rights to custom-developed code to fulfill both the Government-wide reuse objectives and the open source release objectives outlined in this policy’s pilot program.  
 
@@ -29,7 +27,9 @@ Agencies must also consider several factors throughout each stage of the three-s
 	<li><u>Targeted Considerations:</u> Agencies must select a software solution that best meets the operational and mission needs of the agency, taking into consideration factors such as performance, total life-cycle cost of ownership, security and privacy protections, interoperability, ability to share or reuse, resources required to later switch vendors, and availability of quality support. These considerations should be taken into account during all three steps of the analysis.</li>
 </ol>
 
-### Footnotes
+***
+
+#### *Footnotes*
 
 <ul style="list-style-type:none">
 

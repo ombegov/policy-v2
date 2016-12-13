@@ -71,8 +71,9 @@ Agencies and US-CERT will also now participate in a formal data validation proce
 
 OMB will provide a high-level summary of agency incident data in the Annual FISMA Report to Congress in accordance with 44 U.S.C. § 3553.
 
+***
 
-##### Footnotes
+#### *Footnotes*
 
 <a name="myfootnote1">7</a>: An "incident" is defined under FISMA 2014 as "an occurrence that <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(A) actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information or an information system; or <br>
