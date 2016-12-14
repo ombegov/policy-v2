@@ -1,8 +1,8 @@
 ---
 layout: default
 display_order: 9
-title: Points of Contact:
-permalink: /m-17-09-HVA/poc/
+title: Points of Contact
+permalink: /hva/poc/
 description:
 ---
 Points of Contact:

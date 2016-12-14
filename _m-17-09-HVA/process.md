@@ -1,8 +1,8 @@
 ---
 layout: default
 display_order: 5
-title: THE AGENCY HVA PROCESS
-permalink: /m-17-09-HVA/pocess/
+title: The Agency HVA Process
+permalink: /hva/pocess/
 description:
 ---
 
@@ -11,7 +11,7 @@ Agencies must take a strategic enterprise-wide view of risk that accounts for al
 
 Figure 1: Agency HVA Process Framework:[Add Image]
 
-Figure one represents the continuous HVA process, including the specific actions that make up the process. <sup>[3](3)</sup>
+Figure one represents the continuous HVA process, including the specific actions that make up the process. <sup>[3](#3)</sup>
 
 
 ### PLAN:
