@@ -101,7 +101,7 @@ collections:
     output: true
     permalink: /policy-schema/:path/
     url: /policy-schema/
-    status: resource
+    status: draft
     title: Policy Schema 
     github-label: policy-schema
   m-17-06-web-policy:
