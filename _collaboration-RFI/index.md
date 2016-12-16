@@ -18,4 +18,4 @@ b. Respondents to this RFI may be requested to provide additional information/de
 GSA is seeking to gain information from industry about alternative models and/or solutions for future email and collaboration tools as well as acquisition strategies and efficiencies that would continue to add value to Government Agencies in procuring and using these services.
 
 #### III.	How to Respond
-Your response must be provided no later than 4 PM EDT 20 January 2017.  All questions must be submitted by January 06, 2017. Please limit your responses to 15 pages. Response packages shall   be sent by email to collabtools_email@gsa.gov. 
+**Your response must be provided no later than 4 PM EDT 20 January 2017.**  All questions must be submitted by **January 06, 2017.** Please limit your responses to 15 pages. Response packages shall   be sent by email to [collabtools_email@gsa.gov.](mailto:collabtools_email@gsa.gov) 
