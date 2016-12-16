@@ -1,7 +1,7 @@
 ---
 layout: default
 display_order: 5
-title: VII. Areas to Address
+title: Areas to Address
 permalink: /rfi/additional-questions/
 description:
 ---
@@ -32,7 +32,7 @@ GSA would also like to obtain feedback from industry on a potential cloud contra
 5.	**Aggregated Discounts:** 
 	a.	Would your company support government wide volume discounts by aggregating at the CLIN (contract line item number) level government wide? (i.e. once a certain dollar threshold is met for a CLIN, all government agencies would receive a percent volume discount). 
 	b.	Explain how this would be accomplished.
-6.	Consistent Acquisition Methodology: Can GSA modify or change how it buys and sells cloud email services within the limitations of the FAR to be more consistent with how solutions are structured and sold commercially?
+6.	***Consistent Acquisition Methodology:*** Can GSA modify or change how it buys and sells cloud email services within the limitations of the FAR to be more consistent with how solutions are structured and sold commercially?
 7.	**Security:** 
 	a.	Are there any security prohibiting factors beyond those in Appendix B, Security, and included in the RFI that are challenges for providing a solution?  
 	b.	Are there security innovations that should be included or are disallowed in current solutions?

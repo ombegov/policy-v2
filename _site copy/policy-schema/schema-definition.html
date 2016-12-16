@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="en"><!--<![endif]-->
+
+  <head>
+    <!-- Basic Page Needs
+================================================== -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Mobile Specific Metas
+================================================== -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Title and meta description
+================================================== -->
+
+  <title>Office of the Federal Chief Information Officer | Schema Definition</title>
+  <meta property="og:title" content=" | Schema Definition" />
+
+
+
+  <meta name="description" content="">
+  <meta property="og:description" content="" />
+
+
+  <link rel="canonical" href="/policy-schema/schema-definition" />
+
+
+<!-- Favicons
+================================================== -->
+  <!-- 128x128 -->
+  <link rel="shortcut icon" type="image/ico" href="/assets/img/favicons/favicon.ico" />
+  <link rel="icon" type="image/png" href="/assets/img/favicons/favicon.png" />
+
+  <!-- 192x192, as recommended for Android
+  http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-Android
+  -->
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/img/favicons/favicon-192.png" />
+
+  <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+  <link rel="apple-touch-icon-precomposed" href="/assets/img/favicons/favicon-57.png">
+  <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/favicons/favicon-72.png">
+  <!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/img/favicons/favicon-114.png">
+  <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/favicons/favicon-144.png">
+
+<!-- CSS
+================================================== -->
+  <link rel="stylesheet" href="/assets/css/styleguide.css">
+<script src="https://use.fontawesome.com/31c6dd7025.js"></script> 
+
+  </head>
+
+  <body class="schema-definition">
+		
+    <a class="skipnav" href="#main-content">Skip to main content</a>
+
+<header class="usa-site-header" role="banner">
+
+  <div class="usa-disclaimer">
+    <span class="usa-disclaimer-official">
+      <img class="usa-flag_icon" alt="US flag signifying that this is a United States Federal Government website" src="/assets/img/us_flag_small.png">
+      An official website of the United States Government
+    </span>
+    <span class="usa-disclaimer-stage">This site is currently in beta.</span>
+  </div>
+  
+    <nav class="usa-site-navbar">
+      <a class="menu-btn" href="#">Menu</a>
+      <div class="logo" id="logo">
+        <h1>
+          <a href="/" accesskey="1" title="Home" aria-label="Home">
+          Office of the Federal Chief Information Officer</a>
+        </h1>
+      </div>
+      <ul class="usa-button-list usa-unstyled-list">
+        <li>
+          <a class="usa-button usa-button-outline-inverse" href="https://github.com/ombegov/policy-v2">
+            View this site's code
+          </a>
+          </li>
+      </ul>
+    </nav>
+    <nav class="usa-site-navbar-secondary">
+      <ul class="usa-unstyled-list">
+          <li><a href="/">Home</a></li>
+          <li><a href="/drafts/">Draft Policies</a></li>
+          <li><a href="/finalized/">Finalized Policies</a></li>
+          <li><a href="/resources/">Resources for Agencies</a></li>
+      </ul>
+    </nav>  
+</header>
+
+<div class="overlay"></div>
+
+
+    
+
+<aside class="sidenav" id="menu-content">
+  <nav>
+    
+    
+    <ul class="usa-sidenav-list">
+
+      
+        <li>
+          <a class="usa-current-main" href="/">Home</a>  
+          
+        </li>
+      <!--  iterate over collections and filter by status (draft, finalized, etc) -->  
+      
+      
+        
+      
+        
+      
+        
+          <li>
+            
+              <a href="/drafts/">Draft Policies</a>  
+            
+          </li>
+        
+      
+        
+      
+        
+      
+        
+          <li>
+            
+              <a href="/it-modernization/">IT Modernization</a>  
+            
+          </li>
+        
+      
+        
+          <li>
+            
+              <a href="/cybersecurity-protections-in-federal-acquisitions/">Improving Cybersecurity Protections in Federal Acquisitions</a>  
+            
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          <li>
+            
+              <a class="usa-current" href="/policy-schema/">Policy Schema</a>  
+              <ul class="usa-sidenav-sub_list">
+                
+                
+                    
+                
+                    
+                      <li class="usa-current-section"><a href="/policy-schema/schema-definition">Schema Definition</a>
+                      </li>
+                    
+                
+                    
+                      <li class="usa-current-section"><a href="/taxonomies/">Taxonomies</a>
+                      </li>
+                    
+                
+                    
+                      <li class="usa-current-section"><a href="/policy-schema/related-projects">Related Projects</a>
+                      </li>
+                    
+                
+              </ul>
+            
+          </li>
+        
+      
+        
+          <li>
+            
+              <a href="/rfi/">RFI Collaboration Tool Services</a>  
+            
+          </li>
+        
+      
+        
+      
+
+    </ul>
+  </nav>
+</aside>
+
+
+    <div class="main-content" id="main-content">
+      <div class="styleguide-content usa-content">
+				
+				
+
+				
+		<div class="usa-grid">
+
+			<div class="usa-width-one-whole"> 
+					
+			    <h1 id="schema-definition">
+					Schema Definition
+				</h1>
+
+				
+<div class="usa-site-navbar-secondary">
+    <ul class="usa-unstyled-list">
+        <li>
+			
+				<a href="https://github.com/ombegov/policy-v2/labels/policy-schema" >
+			
+				<i class="fa fa-comments-o"></i>&nbsp;<span>Discuss</span>
+			</a>
+        </li>
+        <li>
+          			
+        </li>
+    </ul>
+</div>
+
+
+			    <p class="usa-font-lead">
+					
+				</p><!--/usa-font-lead -->
+				<div class="usa-serif">
+					<p>The Policy Schema is currently in alpha. We are putting it through its paces by using it to analyze current policy and are making regular updates as needed. Read on for a definition of the elements it currently includes as well as an example XML document.</p>
+
+<h2 id="schema-elements">Schema Elements</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>OMB Data Element</th>
+      <th>Data Type</th>
+      <th>Optional?</th>
+      <th>Description</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>reqID</td>
+      <td>CALCULATED</td>
+      <td>0</td>
+      <td>The unique   identifier for the requirement; generated as the ombPolicyID +   “.####”</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>reqText</td>
+      <td>string</td>
+      <td>0</td>
+      <td>The actual text of the requirement,   copied and pasted from the policy as written</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>reqStatus</td>
+      <td>enum; AMENDMENT, NEW, RETIRED</td>
+      <td>0</td>
+      <td>Describes whether the requirement is   designed to address an existing requirement, or is new. One-off AMENDMENTS   published in the future shall be listed within the parent (amended) policy’s   information. AMENDMENTS shall also be listed with “relatedReqs”   equal to the reqID of the amended requirement.</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>reqIssuanceYear</td>
+      <td>YYYY</td>
+      <td>1</td>
+      <td>The year the requirement came to be   official and acting on agencies (usually the release year of the policy)</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>reqDeadline</td>
+      <td>string</td>
+      <td>1</td>
+      <td>If the requirement has a deadline   associated with it (a date by which it must be fully completed) that may be   inserted here for reference</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>relatedReqs</td>
+      <td>array</td>
+      <td>1</td>
+      <td>The rIDs of any requirements dependent   upon, related to, cited by, or other in this requirement</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Citation</td>
+      <td>string</td>
+      <td>1</td>
+      <td>If the requirement references (directly   or via footnote) another policy, that full citation may be inserted here for   reference</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>agenciesImpacted</td>
+      <td>array enum; {“All CFO-Act”,   “OMB”, “Commerce”, “DHS”, “DOD”,   “DOT”, “ED”, “Energy”, “EPA”,   “GSA”, “HHS”, “HUD”, “Interior”, “Justice”,   “Labor”, “NARA”, “NASA”, “NRC”,   “NSF”, “OPM”, “SBA”, “SSA”,   “State”, “Treasury”, “USACE”,   “USAID”, “USDA”, “VA”, “other”}</td>
+      <td>0</td>
+      <td>The agency(ies) responsible for carrying   out a specific part of the requirement; enter the abbreviation of the parent,   department-level agency. Put “All CFO-Act” for provisions made   generally to the agencies, or “other” to refer to some other   subdivision based on a characteristic or descriptor that cannot be clearly or   permanently associated with specific agencies (i.e. “agencies that have   outsourced data centers should…” would be a requirement acting on   “other” because the group of agencies being referenced cannot be   listed out with certain accuracy; however, “agencies that begin with the   letter ‘E’…” should be entered as “Energy”, “EPA”,   “ED” and “civilian agencies” should be listed as   “Commerce”, “DHS”, “DOT”, “ED”,   “Energy”, “EPA”, “GSA”, “HHS”,   “HUD”, “Interior”, “Justice”,   “Labor”, “NARA”, “NASA”, “NRC”,   “NSF”, “OPM”, “SBA”, “SSA”,   “State”, “Treasury”, “USACE”,   “USAID”, “USDA”, “VA”. If the policy names a   bureau, the parent department-level agency may be listed.</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>ombDataCollection</td>
+      <td>enum; IDC, Data Center Inventory, public   agency webpage, IT Dashboard, … (other official names of OMB data   collections)</td>
+      <td>1</td>
+      <td>If the requirement names an OMB data   collection that will be used, place that information here.</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>policyTitle</td>
+      <td>string</td>
+      <td>0</td>
+      <td>The title of the policy minus its   ombPolicyID</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>policyType</td>
+      <td>enum; Memorandum, Circular</td>
+      <td>1</td>
+      <td>The type of document the policy is in   (e.g. Memorandum; Circular)</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>issuingBody</td>
+      <td>enum; OMB OFCIO, OMB OIRA, OMB OFPP,   Other (see source document)</td>
+      <td> </td>
+      <td>The group within OMB that issued the   policy. The “Other (see source document)” option is provided for   older memoranda that were issued prior to the identification or formation of   the provided omb offices, or if the issuing body is an office other than one   of the previously listed offices.</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>uriPolicyID</td>
+      <td>string</td>
+      <td>0</td>
+      <td>The web address (URL) where the finalized   policy lives/can be accessed; alternatively, if the policyStatus is   “DRAFT” then insert the URL for the public comment page.</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>ombPolicyID</td>
+      <td>string</td>
+      <td>0</td>
+      <td>The code or abbreviation OMB uses most to   refer to the policy</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>policyIssuanceYear</td>
+      <td>Date</td>
+      <td>0</td>
+      <td>Year that the policy was issued</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>policyStatus</td>
+      <td>enum; FINAL, DRAFT, RETIRED</td>
+      <td>0</td>
+      <td>Status of the policy, DRAFT, ACTIVE,   etc.</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>precedent</td>
+      <td>array</td>
+      <td>1</td>
+      <td>A precedent policy or legal statute that   led to or is directly related to the policy</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>policySunset</td>
+      <td>date</td>
+      <td>1</td>
+      <td>The date the parent policy expires/is   sunset - optional only because some older memos do not have sunset clauses in   them</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>policySection</td>
+      <td>string</td>
+      <td>1</td>
+      <td>The heading or section of the policy in   which the requirement can be found - optional only because some older M memos   do not have subsections with headings</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>policySubSection</td>
+      <td>string</td>
+      <td>1</td>
+      <td>The subheading or subsection of the   policy in which the requirement can be found - optional only because some   older M memos do not have subsections with headings</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>keywords</td>
+      <td>CALCULATED</td>
+      <td>1</td>
+      <td>Key words in the requirement</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>chapterTitle</td>
+      <td>CALCULATED</td>
+      <td>0</td>
+      <td>OFFICE OF MANAGEMENT AND BUDGET</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>publisher</td>
+      <td>CALCULATED</td>
+      <td>0</td>
+      <td>OFFICE OF THE FEDERAL REGISTER, NATIONAL   ARCHIVES AND RECORDS ADMINISTRATION</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>chapterHeading</td>
+      <td>CALCULATED</td>
+      <td>0</td>
+      <td>Chapter where the requirement can be   found</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>partHeading</td>
+      <td>CALCULATED</td>
+      <td>0</td>
+      <td>Heading where the requirement can be   found</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>subchap</td>
+      <td>CALCULATED</td>
+      <td>0</td>
+      <td>If there is a subchapter it is listed   here</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>titleNumber</td>
+      <td>CALCULATED</td>
+      <td>0</td>
+      <td>the title number</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>chapterNumber</td>
+      <td>CALCULATED</td>
+      <td>0</td>
+      <td>The chapter number</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>contactEmail</td>
+      <td>string</td>
+      <td>1</td>
+      <td>The email address to the issuing office   of the policy, in case the viewer has further questions; for example,   “ofcio@omb.eop.gov”</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>contactURL</td>
+      <td>String</td>
+      <td>1</td>
+      <td>Url of office issuing policy</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>verb</td>
+      <td>array</td>
+      <td>1</td>
+      <td>Verb used to describe the   requirement</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="example-xml">Example XML</h2>
+<p>The Policy Schema is expressed as XML. Here’s an example of what it looks like with some policy content included.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;root&gt;
+    &lt;policy&gt;
+        &lt;element&gt;
+            &lt;OMBPolicyID&gt;M-16-19&lt;/OMBPolicyID&gt;
+            &lt;issuingBody&gt;Office of Management and Budget (OMB)&lt;/issuingBody&gt;
+	    &lt;issuingDate&gt;8/1/2016&lt;/issuingDate&gt;
+	    &lt;linkToPolicy&gt;https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_19_1.pdf&lt;/linkToPolicy&gt;
+            &lt;policyStatus&gt;
+                &lt;element&gt;CURRENT&lt;/element&gt;
+            &lt;/policyStatus&gt;
+            &lt;policyTitle&gt;Data Center Optimization Initiative(DCOI)&lt;/policyTitle&gt;
+            &lt;precedentPolicies&gt;
+                &lt;element&gt;FITARA&lt;/element&gt;
+                &lt;element&gt;FDCCI&lt;/element&gt;
+            &lt;/precedentPolicies&gt;
+            &lt;requirements&gt;
+                &lt;element&gt;
+                    &lt;agenciesImpacted&gt;CFO Act Agencies&lt;/agenciesImpacted&gt;
+                    &lt;cita&gt;
+                        &lt;element&gt;FITARA Section 834(b)(1)(A)-(E)&lt;/element&gt;
+                    &lt;/cita&gt;
+                    &lt;deadline&gt;Yearly&lt;/deadline&gt;
+                    &lt;policySection&gt;Reporting&lt;/policySection&gt;
+		    &lt;policySubSection&gt;Strategic Plan&lt;/policySubSection&gt;
+		    &lt;keywords&gt;
+                       &lt;element&gt;IT Project Management&lt;/element&gt;
+                       &lt;element&gt;Governance - Implementation&lt;/element&gt;
+                    &lt;/keywords&gt;
+                    &lt;ombDataCollection&gt;Data Center Inventory&lt;/ombDataCollection&gt;
+                    &lt;requirementID&gt;1201.5&lt;/requirementID&gt;
+                    &lt;requirementIssuanceYear&gt;2016&lt;/requirementIssuanceYear&gt;
+                    &lt;requirementText&gt;In accordance with FITARA, beginning in fiscal year 2016, each agency head shall annually publish a Strategic Plan to describe the agency’s consolidation and optimization strategy for fiscal years 2016, 2017, and 2018.
+		    &lt;/requirementText&gt;
+                    &lt;requirementType&gt;
+                        &lt;element&gt;CURRENT&lt;/element&gt;
+                    &lt;/requirementType&gt;
+		&lt;/element&gt;
+                &lt;element&gt;
+                    &lt;agenciesImpacted&gt;CFO Act Agencies&lt;/agenciesImpacted&gt;
+                    &lt;deadline&gt;Yearly&lt;/deadline&gt;
+                    &lt;keywords&gt;
+                        &lt;element&gt;IT Project Management&lt;/element&gt;
+                        &lt;element&gt;Governance - Implementation&lt;/element&gt;
+                    &lt;/keywords&gt;
+
+</code></pre>
+</div>
+
+
+				</div><!--/usa-serif -->
+			</div><!--/usa-width-two-thirds -->
+
+		</div><!--/usa-grid -->
+
+      </div><!--/styleguide-content usa-content -->
+
+      <footer class="usa-styleguide-footer">
+        <div class="usa-grid">
+  <div class="usa-width-one-half">
+    <p>Feedback? Create an issue on the <a href="https://github.com/ombegov/policy-v2">code repository</a> or email us at <a href="mailto:ofcio@omb.eop.gov">ofcio@omb.eop.gov</a>.</p>
+    <!--<p>Have an idea? Read our <a href="https://github.com/ombegov/policy-v2/blob/CONTRIBUTING.md">contribution guidelines</a>.</p>-->
+  </div>
+  <div class="usa-width-one-half usa-end-row">
+    <p>As a work of the United States government, this project is in the public domain. Copyright is also waved internationally via a CC0 1.0 waiver. </p>
+    <p><a href="https://github.com/ombegov/policy-v2/blob/master/LICENSE.md">Read More.</a></p>
+  </div>
+</div>
+
+      </footer>
+    </div>
+
+
+      <script src="/assets/js/jquery-1.11.3.min.js"></script>
+  <script src="/assets/js/styleguide.js"></script>
+
+    	<!-- We participate in the US government's analytics program. See the data at analytics.usa.gov. -->
+	<script async type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=EOP&subagency=OMB" id="_fed_an_ua_tag"></script>
+
+
+
+
+    <script src="/assets/uswds-0.9.1/js/uswds.min.js"></script>
+
+  </body>
+
+</html>

@@ -1,11 +1,10 @@
 ---
 layout: default
 display_order: 4
-title: I. Functional Requirements
+title: Functional Requirements
 permalink: /rfi/functional-requirements/
 description:
 ---
-
 
 
 * Scope of these requirements is for unclassified email only

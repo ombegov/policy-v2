@@ -120,11 +120,11 @@ collections:
     title: "M-16-19 Data Center Optimization Initiative (DCOI)"
     github-label: _m-16-19-dcoi
     download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf  
-  collaboration-tool-rfi:
+  rfi:
     output: true
     permalink: /rfi/:path/
     url: /rfi/
     status: draft
-    title: "RFI Collaboration Tool Services" 
+    title: "Collaboration Tool Services Request for Information" 
     github-label: _rfi
-    download-link: https://www.fbo.gov/utils/view?id=ec0dcec83e43485ae9de1ddbac1bdcae
+    download-link: https://www.fbo.gov/utils/view?id=ec0dcec83e43485ae9de1ddbac1bdcae 

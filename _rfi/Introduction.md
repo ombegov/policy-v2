@@ -1,12 +1,11 @@
 ---
 layout: default
 display_order: 2
-title: IV. Introduction
+title: Introduction
 permalink: /rfi/introduction/
 description:
 ---
 
-IV.	Introduction
 The mission of the General Services Administration (GSA), Federal Acquisition Service (FAS), Information Technology Category (ITC) Services is to aid, accelerate and improve the government-wide use of outsourcing and consulting technology modernization and optimization efforts by leading with innovation and leveraging the buying power of the Federal government for this sub-category.
 
 This Request for Information (RFI) is issued in support of efforts by the Executive Office of the President and Federal Departments and Agencies to improve the Government’s cybersecurity posture. This RFI seeks industry input on modernizing and securing email infrastructure while simultaneously improving collaboration capabilities within and across Federal Departments and Agencies to dramatically enhance the ability of Federal Government employees, contractors and other stakeholders to work together.  

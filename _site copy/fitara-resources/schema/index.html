@@ -1,0 +1,1328 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="en"><!--<![endif]-->
+
+  <head>
+    <!-- Basic Page Needs
+================================================== -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Mobile Specific Metas
+================================================== -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Title and meta description
+================================================== -->
+
+  <title>Office of the Federal Chief Information Officer | FITARA Common Baseline Publishing Schema</title>
+  <meta property="og:title" content=" | FITARA Common Baseline Publishing Schema" />
+
+
+
+  <meta name="description" content="">
+  <meta property="og:description" content="" />
+
+
+  <link rel="canonical" href="/fitara-resources/schema/" />
+
+
+<!-- Favicons
+================================================== -->
+  <!-- 128x128 -->
+  <link rel="shortcut icon" type="image/ico" href="/assets/img/favicons/favicon.ico" />
+  <link rel="icon" type="image/png" href="/assets/img/favicons/favicon.png" />
+
+  <!-- 192x192, as recommended for Android
+  http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-Android
+  -->
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/img/favicons/favicon-192.png" />
+
+  <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+  <link rel="apple-touch-icon-precomposed" href="/assets/img/favicons/favicon-57.png">
+  <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/favicons/favicon-72.png">
+  <!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/img/favicons/favicon-114.png">
+  <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/favicons/favicon-144.png">
+
+<!-- CSS
+================================================== -->
+  <link rel="stylesheet" href="/assets/css/styleguide.css">
+<script src="https://use.fontawesome.com/31c6dd7025.js"></script> 
+
+  </head>
+
+  <body class="fitara-common-baseline-publishing-schema">
+		
+    <a class="skipnav" href="#main-content">Skip to main content</a>
+
+<header class="usa-site-header" role="banner">
+
+  <div class="usa-disclaimer">
+    <span class="usa-disclaimer-official">
+      <img class="usa-flag_icon" alt="US flag signifying that this is a United States Federal Government website" src="/assets/img/us_flag_small.png">
+      An official website of the United States Government
+    </span>
+    <span class="usa-disclaimer-stage">This site is currently in beta.</span>
+  </div>
+  
+    <nav class="usa-site-navbar">
+      <a class="menu-btn" href="#">Menu</a>
+      <div class="logo" id="logo">
+        <h1>
+          <a href="/" accesskey="1" title="Home" aria-label="Home">
+          Office of the Federal Chief Information Officer</a>
+        </h1>
+      </div>
+      <ul class="usa-button-list usa-unstyled-list">
+        <li>
+          <a class="usa-button usa-button-outline-inverse" href="https://github.com/ombegov/policy-v2">
+            View this site's code
+          </a>
+          </li>
+      </ul>
+    </nav>
+    <nav class="usa-site-navbar-secondary">
+      <ul class="usa-unstyled-list">
+          <li><a href="/">Home</a></li>
+          <li><a href="/drafts/">Draft Policies</a></li>
+          <li><a href="/finalized/">Finalized Policies</a></li>
+          <li><a href="/resources/">Resources for Agencies</a></li>
+      </ul>
+    </nav>  
+</header>
+
+<div class="overlay"></div>
+
+
+    
+
+<aside class="sidenav" id="menu-content">
+  <nav>
+    
+    
+    <ul class="usa-sidenav-list">
+
+      
+        <li>
+          <a class="usa-current-main" href="/">Home</a>  
+          
+        </li>
+      <!--  iterate over collections and filter by status (draft, finalized, etc) -->  
+      
+      
+        
+      
+        
+          <li>
+            
+              <a href="/resources/">Agency Resources</a>  
+            
+          </li>
+        
+      
+        
+      
+        
+          <li>
+            
+              <a class="usa-current" href="/fitara-resources/">FITARA resources</a>  
+              <ul class="usa-sidenav-sub_list">
+                
+                
+                    
+                
+                    
+                      <li class="usa-current-section"><a href="/fitara-resources/schema/">FITARA Common Baseline Publishing Schema</a>
+                      </li>
+                    
+                
+                    
+                      <li class="usa-current-section"><a href="/fitara-resources/policy/">Policy Resources</a>
+                      </li>
+                    
+                
+                    
+                      <li class="usa-current-section"><a href="/fitara-resources/faq/">Frequently asked questions</a>
+                      </li>
+                    
+                
+                    
+                      <li class="usa-current-section"><a href="/fitara-resources/community/">Join the Community</a>
+                      </li>
+                    
+                
+                    
+                      <li class="usa-current-section"><a href="/fitara-resources/plans/">Public Agency FITARA Implementation Plans</a>
+                      </li>
+                    
+                
+              </ul>
+            
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+    </ul>
+  </nav>
+</aside>
+
+
+    <div class="main-content" id="main-content">
+      <div class="styleguide-content usa-content">
+				
+				
+
+				
+		<div class="usa-grid">
+
+			<div class="usa-width-one-whole"> 
+					
+			    <h1 id="fitara-common-baseline-publishing-schema">
+					FITARA Common Baseline Publishing Schema
+				</h1>
+
+				
+<div class="usa-site-navbar-secondary">
+    <ul class="usa-unstyled-list">
+        <li>
+			
+				<a href="https://github.com/ombegov/policy-v2/labels/fitara" >
+			
+				<i class="fa fa-comments-o"></i>&nbsp;<span>Discuss</span>
+			</a>
+        </li>
+        <li>
+          			
+        </li>
+    </ul>
+</div>
+
+
+			    <p class="usa-font-lead">
+					
+				</p><!--/usa-font-lead -->
+				<div class="usa-serif">
+					<h2 id="sections">Sections</h2>
+<p><a href="#tips">Tips for Working with JSON</a> <br />
+<a href="#FITARA">Agency FITARA Milestones</a>  <br />
+<a href="#DCOI">DCOI Strategic Plans</a>  <br />
+<a href="#bureaus">Bureau IT Leadership Directory</a>  <br />
+<a href="#governance">CIO Governance Board Membership List</a><br />
+<a href="#savings">IDC Realized Cost Savings and Avoidance</a></p>
+
+<h2 id="tips-for-working-with-json-a-idtipsa">Tips for Working with JSON <a id="tips"></a></h2>
+
+<h4 id="json-file-format">JSON File Format</h4>
+<p>JSON is a lightweight data-exchange format that is very easy to read, parse and generate. Based on a subset of the JavaScript programming language, JSON is a text format that is optimized for data interchange. JSON is built on two structures: (1) a collection of name/value pairs and (2) an ordered list of values.</p>
+
+<p>Where optional fields are included in a catalog file but are unpopulated, they may be represented by a <code class="highlighter-rouge">null</code> value. They should not be represented by an empty string (<code class="highlighter-rouge">""</code>).</p>
+
+<p>The JSON schemas listed on this page are case sensitive. The schemas uses a camel case convention where the first letter of some words within a field are capitalized (usually all words but the first one). While it might seem subtle which characters are uppercase and lowercase, it is necessary to follow the exact same casing as defined in the schema documented here. For example:</p>
+
+<blockquote>
+  <p>Correct: <code class="highlighter-rouge">firstName</code><br />
+Incorrect: <code class="highlighter-rouge">FirstName</code><br />
+Incorrect: <code class="highlighter-rouge">firstname</code><br />
+incorrect: <code class="highlighter-rouge">FIRSTNAME</code></p>
+</blockquote>
+
+<h4 id="tools-for-working-with-json-formats">Tools for Working with JSON Formats</h4>
+
+<p>The following resources contain helpful tools for working with JSON data format:</p>
+
+<ul>
+  <li>
+    <p><a href="http://www.csvjson.com/csv2json">Tabular to JSON Converter</a>: to add a new “row” of data to your agency’s JSON file, first ensure that all of the columns have the correct field names and are arranged in the correct order. In Microsoft Excel: highlight and copy the new data you wish to add to your JSON file, making sure to include the column headings, and paste that data into the box on the left side of the page and click the button saying “Convert”. The right side window will show your data in a basic JSON structure. In order to conform with the schemas below, you might need to make adjustments as necessary to mimic the spacing, indentation, brackets, colons, and quotation markings in the sample.</p>
+  </li>
+  <li>
+    <p><a href="http://jsonlint.com/">JSON Validator</a>: Copy and paste the contents of your updated JSON file into the window and click the “Validate” button. The tool will check whether the data is written correctly. If any brackets, quotation marks, colons, or other markings are missing from your file, these issues will be shown to you in error messages beneath the window.</p>
+  </li>
+  <li>
+    <p><a href="http://jsonschemalint.com/draft4/">JSON Schema Validator</a>: Using the link to the schema provided on this page, copy and paste the schema text into the window on the left side of the page. Then, copy and paste your valid JSON file in the window on the right. Any errors or missing information will be shown immediately in the space below your JSON file.</p>
+  </li>
+  <li>
+    <p><a href="/schemaexamples/JSON User Guide_v5.pdf">OFCIO JSON User Guide</a></p>
+  </li>
+</ul>
+
+<h2 id="agency-fitara-milestones-a-idfitaraa">Agency FITARA Milestones <a id="FITARA"></a></h2>
+
+<p>Post a “fitaramilestones.json” file to “agency.gov”/digitalstrategy with the following contents.</p>
+
+<p>First, each milestones JSON document must include a “milestoneDocument” section providing the overall date of last update to the milestones items.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Field Name</th>
+      <th>Data Type</th>
+      <th>Required?</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>updatedDate</strong></td>
+      <td>String (yyyy/mm/dd)</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Then, create an entry for each of your agency’s FITARA milestones, providing the following information for each:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Field Name</th>
+      <th>Data Type</th>
+      <th>Required?</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>milestoneID</strong></td>
+      <td>Int (3)</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>milestoneDesc</strong></td>
+      <td>String (500)</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>milestoneTargetCompletionDate</strong></td>
+      <td>String (yyyy/mm/dd)</td>
+      <td>Yes</td>
+      <td>JSON doesn’t have a “date” type so use a string, but format as 2016/12/25</td>
+    </tr>
+    <tr>
+      <td><strong>milestoneStatus</strong></td>
+      <td>Select: NotStarted, InProgress, Complete, Deferred</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>milestoneStatusDesc</strong></td>
+      <td>String (500)</td>
+      <td>Yes</td>
+      <td>Describe in detail agency responses to status (e.g. ongoing actions, dependencies, partial milestones).</td>
+    </tr>
+    <tr>
+      <td><strong>commonBaselineArea</strong></td>
+      <td>Select: budgetFormulation, budgetExecution, acquisition, organizationAndWorkforce,  nonCommonBaseline</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>dcoiArea</strong></td>
+      <td>Select: optimization, closures, costSavings, sharedServices, cloudMigration, CIOLeadership, other, nonDataCenter</td>
+      <td>Yes</td>
+      <td>Data center-related milestones should be associated with one of these concepts from the Data Center Optimization Initiative. The “nonDataCenter” response should be used for milestones that are purely related to the Common Baseline elements.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="agency-fitara-milestones-json-syntax-example">Agency FITARA Milestones JSON Syntax Example</h4>
+
+<div class="language-json highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nt">"updatedDate"</span><span class="p">:</span><span class="w"> </span><span class="s2">"2016/07/20"</span><span class="p">,</span><span class="w">
+  </span><span class="nt">"milestones"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+    </span><span class="p">{</span><span class="w">
+      </span><span class="nt">"milestoneID"</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"milestoneDesc"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Finalize adoption of revised department-wide policy for IT Investment Review Boards"</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"milestoneTargetCompletionDate"</span><span class="p">:</span><span class="w"> </span><span class="s2">"2016/09/01"</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"milestoneStatus"</span><span class="p">:</span><span class="w"> </span><span class="s2">"InProgress"</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"milestoneStatusDesc"</span><span class="p">:</span><span class="w"> </span><span class="s2">"The revised policy is currently under the review of general counsel, expected to clear this stage by the end of May 2016"</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"commonBaselineArea"</span><span class="p">:</span><span class="w"> </span><span class="s2">"acquisition"</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"dcoiArea"</span><span class="p">:</span><span class="w"> </span><span class="s2">"nonDataCenter"</span><span class="w">
+    </span><span class="p">},</span><span class="w">
+    </span><span class="p">{</span><span class="w">
+      </span><span class="nt">"milestoneID"</span><span class="p">:</span><span class="w"> </span><span class="mi">2</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"milestoneDesc"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Conduct training for department budget officers to share new budget formulation rules including CIO staff"</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"milestoneTargetCompletionDate"</span><span class="p">:</span><span class="w"> </span><span class="s2">"2016/02/01"</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"milestoneStatus"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Complete"</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"milestoneStatusDesc"</span><span class="p">:</span><span class="w"> </span><span class="s2">"65 budget officer staff attended the training, including representatives from 12 agencies."</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"commonBaselineArea"</span><span class="p">:</span><span class="w"> </span><span class="s2">"budgetFormulation"</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"dcoiArea"</span><span class="p">:</span><span class="w"> </span><span class="s2">"nonDataCenter"</span><span class="w">
+    </span><span class="p">},</span><span class="w">
+    </span><span class="p">{</span><span class="w">
+      </span><span class="nt">"milestoneID"</span><span class="p">:</span><span class="w"> </span><span class="mi">3</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"milestoneDesc"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Fully install automated monitoring software on all servers in our tiered data center."</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"milestoneTargetCompletionDate"</span><span class="p">:</span><span class="w"> </span><span class="s2">"2017/02/01"</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"milestoneStatus"</span><span class="p">:</span><span class="w"> </span><span class="s2">"InProgress"</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"milestoneStatusDesc"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Procurement for additional licenses has been finalized with the provider. Installation will begin on-site next month."</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"commonBaselineArea"</span><span class="p">:</span><span class="w"> </span><span class="s2">"nonCommonBaseline"</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"dcoiArea"</span><span class="p">:</span><span class="w"> </span><span class="s2">"optimization"</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+  </span><span class="p">]</span><span class="w">
+</span><span class="p">}</span><span class="w">
+
+</span></code></pre>
+</div>
+
+<p><em><a href="https://management.cio.gov/schemaexamples/FITARAmilestones_schema.json">Agency FITARA Milestones JSON Schema File</a></em></p>
+
+<p><em><a href="https://management.cio.gov/schemaexamples/FITARAmilestones_exampleFile.json">Agency FITARA Milestones JSON Example File</a></em></p>
+
+<h2 id="dcoi-strategic-plan-schema-a-iddcoia">DCOI Strategic Plan Schema <a id="DCOI"></a></h2>
+
+<p>Under the Data Center Optimization Initiative (DCOI), released August 1, 2016, covered agencies are required to post DCOI Strategic Plans and updates to their FITARA milestones publicly on or before September 30, 2016.
+The DCOI Strategic Plan has the following six required elements:</p>
+
+<ol>
+  <li>Planned and achieved performance levels for each optimization metric, by year;</li>
+  <li>Planned and achieved closures, by year;</li>
+  <li>An explanation for any optimization metrics and closures for which the agency did not meet the planned level in a previous Strategic Plan;</li>
+  <li>Year-by-year calculations of target and actual agency-wide spending and cost savings on data centers from fiscal years 2016 through 2018, including:
+   a. A description of any initial costs for data center consolidation and optimization; and
+  b. Life cycle cost savings and other improvements (including those beyond fiscal year 2018, if applicable);</li>
+  <li>Historical costs, cost savings, and cost avoidances due to data center consolidation and optimization through fiscal year 2015; and</li>
+  <li>A statement from the agency CIO stating whether the agency has complied with all reporting requirements in this memorandum and the data center requirements of FITARA. If the agency has not complied with all reporting requirements, the agency must provide a statement describing the reasons for not complying.</li>
+</ol>
+
+<p>Parts <strong>1 – 5</strong> above are required to be posted publicly in machine-readable JSON format at <strong>[agencyhomepage].gov/digitalstrategy/datacenteroptimizationstrategicplan.json</strong>. NOTE: In order to assist agencies with compiling these plans, OGP and OMB have developed a tool to convert agencies’ text-based plans to a JSON format for this purpose. The datacenters.cio.gov page is currently being updated to house resources and helpful links for agencies and the public.</p>
+
+<p>Part <strong>6</strong> of agencies’ DCOI Strategic Plans may be fulfilled using one of the two templates given in the document file provided on this page.  These must be filled out, signed by agencies’ CIOs, and submitted via email to the OFCIO@omb.eop.gov inbox, CC’ing the agency’s OMB Desk Officer, no later than September 30, 2016.</p>
+
+<p>The DCOI further requires that agencies’ public FITARA Milestones files are updated at their current <strong>[agencyhomepage].gov/digitalstrategy/FITARAmilestones.json</strong> pages to include a minimum of five (5) milestones per fiscal year to be achieved in accordance with the DCOI. The schema and test files associated with the FITARA Milestones collection (located at the top of this webpage) have been updated to reflect this requirement.</p>
+
+<p><a href="https://management.cio.gov/assets/docs/DCOI_StrategicPlans_part6_cioStatement.docx">CIO DCOI Certification Statement Templates</a></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Field Name</th>
+      <th>Data Type</th>
+      <th>Required?</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>optimizationMetrics</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>facilityUtilization</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy18OMBtarget</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td>Must match values given in DCOI memorandum, Optimization section.</td>
+    </tr>
+    <tr>
+      <td>fy16Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy17Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy18Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>explanationForUnmetPlannedValue</td>
+      <td>String, 0 - 10000</td>
+      <td>No</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>energyMetering</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy18OMBtarget</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td>Must match values given in DCOI memorandum, Optimization section.</td>
+    </tr>
+    <tr>
+      <td>fy16Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy17Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy18Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>explanationForUnmetPlannedValue</td>
+      <td>String, 0 - 10000</td>
+      <td>No</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>pue</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy18OMBtarget</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td>Must match values given in DCOI memorandum, Optimization section.</td>
+    </tr>
+    <tr>
+      <td>fy16Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy17Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy18Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>explanationForUnmetPlannedValue</td>
+      <td>String, 0 - 10000</td>
+      <td>No</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>virtualization</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy18OMBtarget</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td>Must match values given in DCOI memorandum, Optimization section.</td>
+    </tr>
+    <tr>
+      <td>fy16Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy17Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy18Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>explanationForUnmetPlannedValue</td>
+      <td>String, 0 - 10000</td>
+      <td>No</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>tieredServerUtAutoMonitoring</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy18OMBtarget</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td>Must match values given in DCOI memorandum, Optimization section.</td>
+    </tr>
+    <tr>
+      <td>fy16Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy17Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy18Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>explanationForUnmetPlannedValue</td>
+      <td>String, 0 - 10000</td>
+      <td>No</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>nontieredServerUtAutoMonitoring</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy18OMBtarget</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td>Must match values given in DCOI memorandum, Optimization section.</td>
+    </tr>
+    <tr>
+      <td>fy16Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy17Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy18Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>explanationForUnmetPlannedValue</td>
+      <td>String, 0 - 10000</td>
+      <td>No</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>tieredClosures</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy18OMBtarget</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td>Must match the value given to each agency by OMB, in accordance with the DCOI Memorandum.</td>
+    </tr>
+    <tr>
+      <td>fy16Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy17Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy18Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>explanationForUnmetPlannedValue</td>
+      <td>String, 0 - 10000</td>
+      <td>No</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>nontieredClosures</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy18OMBtarget</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td>Must match the value given to each agency by OMB, in accordance with the DCOI Memorandum</td>
+    </tr>
+    <tr>
+      <td>fy16Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy17Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy18Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>explanationForUnmetPlannedValue</td>
+      <td>String, 0 - 10000</td>
+      <td>No</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>costSavings</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy18OMBtarget</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td>Must match the value given to each agency by OMB, in accordance with the DCOI Memorandum.</td>
+    </tr>
+    <tr>
+      <td>fy16Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy17Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>fy18Planned</td>
+      <td>Decimal, 0 - 100</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>explanationForUnmetPlannedValue</td>
+      <td>String, 0 - 10000</td>
+      <td>No</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>costsOfClosures</td>
+      <td>String, 5 - 10000</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>costsOfOptimization</td>
+      <td>String, 5 - 10000</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>lifecycleCostSavingsEstimated</td>
+      <td>String, 5 - 10000</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="dcoi-strategic-plan-json-syntax-example">DCOI Strategic Plan JSON Syntax Example</h4>
+
+<div class="language-json highlighter-rouge"><pre class="highlight"><code><span class="w">
+</span><span class="p">{</span><span class="w">
+	</span><span class="nt">"optimizationMetrics"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+		</span><span class="nt">"facilityUtilization"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+			</span><span class="nt">"fy18OMBtarget"</span><span class="p">:</span><span class="w"> </span><span class="mf">80.00</span><span class="p">,</span><span class="w">
+			</span><span class="nt">"fy16Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">75</span><span class="p">,</span><span class="w">
+			</span><span class="nt">"fy17Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">82</span><span class="p">,</span><span class="w">
+			</span><span class="nt">"fy18Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">90</span><span class="w">
+		</span><span class="p">},</span><span class="w">
+		</span><span class="nt">"energyMetering"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+			</span><span class="nt">"fy18OMBtarget"</span><span class="p">:</span><span class="w"> </span><span class="mf">100.00</span><span class="p">,</span><span class="w">
+			</span><span class="nt">"fy16Planned"</span><span class="p">:</span><span class="w"> 	</span><span class="mf">76.5</span><span class="p">,</span><span class="w">
+			</span><span class="nt">"fy17Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">90</span><span class="p">,</span><span class="w">
+			</span><span class="nt">"fy18Planned"</span><span class="p">:</span><span class="w"> </span><span class="mf">100.00</span><span class="w">
+		</span><span class="p">},</span><span class="w">
+		</span><span class="nt">"pue"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+			</span><span class="nt">"fy18OMBtarget"</span><span class="p">:</span><span class="w"> </span><span class="mf">1.50</span><span class="p">,</span><span class="w">
+			</span><span class="nt">"fy16Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">2</span><span class="p">,</span><span class="w">
+			</span><span class="nt">"fy17Planned"</span><span class="p">:</span><span class="w"> </span><span class="mf">1.9</span><span class="p">,</span><span class="w">
+			</span><span class="nt">"fy18Planned"</span><span class="p">:</span><span class="w"> </span><span class="mf">1.42</span><span class="w">
+		</span><span class="p">},</span><span class="w">
+		</span><span class="nt">"virtualization"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+			</span><span class="nt">"fy18OMBtarget"</span><span class="p">:</span><span class="w"> </span><span class="mf">4.00</span><span class="p">,</span><span class="w">
+			</span><span class="nt">"fy16Planned"</span><span class="p">:</span><span class="w"> </span><span class="mf">3.5</span><span class="p">,</span><span class="w">
+			</span><span class="nt">"fy17Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">4</span><span class="p">,</span><span class="w">
+			</span><span class="nt">"fy18Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">5</span><span class="w">
+		</span><span class="p">},</span><span class="w">
+		</span><span class="nt">"tieredServerUtAutoMonitoring"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+			</span><span class="nt">"fy18OMBtarget"</span><span class="p">:</span><span class="w"> </span><span class="mf">65.00</span><span class="p">,</span><span class="w">
+			</span><span class="nt">"fy16Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">45</span><span class="p">,</span><span class="w">
+			</span><span class="nt">"fy17Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">55</span><span class="p">,</span><span class="w">
+			</span><span class="nt">"fy18Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">75</span><span class="w">
+		</span><span class="p">},</span><span class="w">
+		</span><span class="nt">"nontieredServerUtAutoMonitoring"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+			</span><span class="nt">"fy18OMBtarget"</span><span class="p">:</span><span class="w"> </span><span class="mi">65</span><span class="p">,</span><span class="w">
+			</span><span class="nt">"fy16Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">44</span><span class="p">,</span><span class="w">
+			</span><span class="nt">"fy17Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">45</span><span class="p">,</span><span class="w">
+			</span><span class="nt">"fy18Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">70</span><span class="w">
+		</span><span class="p">}</span><span class="w">
+	</span><span class="p">},</span><span class="w">
+	</span><span class="nt">"tieredClosures"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+		</span><span class="nt">"fy18OMBtarget"</span><span class="p">:</span><span class="w"> </span><span class="mi">54</span><span class="p">,</span><span class="w">
+		</span><span class="nt">"fy16Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">35</span><span class="p">,</span><span class="w">
+		</span><span class="nt">"fy17Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">45</span><span class="p">,</span><span class="w">
+		</span><span class="nt">"fy18Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">55</span><span class="w">
+	</span><span class="p">},</span><span class="w">
+	</span><span class="nt">"nontieredClosures"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+		</span><span class="nt">"fy18OMBtarget"</span><span class="p">:</span><span class="w"> </span><span class="mi">45</span><span class="p">,</span><span class="w">
+		</span><span class="nt">"fy16Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">12</span><span class="p">,</span><span class="w">
+		</span><span class="nt">"fy17Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">30</span><span class="p">,</span><span class="w">
+		</span><span class="nt">"fy18Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">51</span><span class="w">
+	</span><span class="p">},</span><span class="w">
+	</span><span class="nt">"costSavings"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+		</span><span class="nt">"fy18OMBtarget"</span><span class="p">:</span><span class="w"> </span><span class="mi">95</span><span class="p">,</span><span class="w">
+		</span><span class="nt">"fy16Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">78</span><span class="p">,</span><span class="w">
+		</span><span class="nt">"fy17Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">90</span><span class="p">,</span><span class="w">
+		</span><span class="nt">"fy18Planned"</span><span class="p">:</span><span class="w"> </span><span class="mi">105</span><span class="p">,</span><span class="w">
+		</span><span class="nt">"costsOfClosures"</span><span class="p">:</span><span class="w"> </span><span class="s2">"REQUIRED TEXT."</span><span class="p">,</span><span class="w">
+		</span><span class="nt">"costsOfOptimization"</span><span class="p">:</span><span class="w"> </span><span class="s2">"REQUIRED TEXT."</span><span class="p">,</span><span class="w">
+		</span><span class="nt">"lifecycleCostSavingsEstimated"</span><span class="p">:</span><span class="w"> </span><span class="s2">"REQUIRED TEXT."</span><span class="w">
+	</span><span class="p">}</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre>
+</div>
+
+<p><em><a href="https://management.cio.gov/schemaexamples/DCOI_StrategicPlans_fy2016Schema.json">DCOI Strategic Plan JSON Schema</a></em></p>
+
+<p><em><a href="https://management.cio.gov/schemaexamples/DCOI_StrategicPlan_fy2016examplefile.json">DCOI Strategic Plan JSON Example File</a></em></p>
+
+<h2 id="bureau-it-leadership-directory-a-idbureausa">Bureau IT Leadership Directory <a id="bureaus"></a></h2>
+<p>Each agency is expected to post a JSON file for their Bureau IT Leadership Directory to the following URL path: [agency.gov]/digitalstrategy/bureaudirectory.json</p>
+
+<p>Each dataset should include one record for each agency employee with the title of “chief information officer” or who performs the duties and responsibilities of a CIO but does not necessarily have the title of “CIO.”</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Field Name</th>
+      <th>Data Type</th>
+      <th>Required?</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>bureauCode</strong></td>
+      <td>Int (2)</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>firstName</strong></td>
+      <td>String (50)</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>lastName</strong></td>
+      <td>String (50)</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>employmentType</strong></td>
+      <td>Select: GS, SES, SL, ST, Other</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>employmentTypeOther</strong></td>
+      <td>String (500)</td>
+      <td>No</td>
+      <td>If employmentType “Other” is used, describe the employment type.</td>
+    </tr>
+    <tr>
+      <td><strong>typeOfAppointment</strong></td>
+      <td>Select: career, political</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>otherResponsibilities</strong></td>
+      <td>String (500)</td>
+      <td>No</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>evaluationRatingOfficialTitle</strong></td>
+      <td>String (500)</td>
+      <td>Yes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>evaluationReviewingOfficialTitle</strong></td>
+      <td>String (500)</td>
+      <td>No</td>
+      <td>If a “reviewing official” is used, describe their title.</td>
+    </tr>
+    <tr>
+      <td><strong>keyBureauCIO</strong></td>
+      <td>Select: Yes, No</td>
+      <td>Yes</td>
+      <td>Indicate whether this position is designated by the agency CIO as a “key bureau CIO.” Agency CIOs must provide key bureau CIOs’ rating officials input into the agency-wide critical element(s) described in N1 of the FITARA Common Baseline.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="bureau-it-leadership-directory-json-syntax-example">Bureau IT Leadership Directory JSON Syntax Example</h4>
+
+<div class="language-json highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="w">
+    </span><span class="nt">"leaders"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+        </span><span class="p">{</span><span class="w">
+            </span><span class="nt">"bureauCode"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="s2">"12"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"firstName"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="s2">"Jane"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"lastName"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="s2">"Smith"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"employmentType"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="s2">"GS"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"typeOfAppointment"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="s2">"career"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"otherResponsibilities"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Optional description of other responsibilities here.  Max length is 500 characters."</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"evaluationRatingOfficialTitle"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="s2">"CIO"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"evaluationReviewingOfficialTitle"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="s2">"Optional Reviewing Official Title here.  Max 500 characters"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"keyBureauCIO"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="s2">"Yes"</span><span class="w">
+        </span><span class="p">},</span><span class="w">
+        </span><span class="p">{</span><span class="w">
+            </span><span class="nt">"bureauCode"</span><span class="p">:</span><span class="w"> </span><span class="s2">"33"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"firstName"</span><span class="p">:</span><span class="w"> </span><span class="s2">"John"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"lastName"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Doe"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"employmentType"</span><span class="p">:</span><span class="w"> </span><span class="s2">"SES"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"typeOfAppointment"</span><span class="p">:</span><span class="w"> </span><span class="s2">"political"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"evaluationRatingOfficialTitle"</span><span class="p">:</span><span class="w"> </span><span class="s2">"CFO"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"keyBureauCIO"</span><span class="p">:</span><span class="w"> </span><span class="s2">"No"</span><span class="w">            
+        </span><span class="p">}</span><span class="w">
+    </span><span class="p">]</span><span class="w">
+    
+</span><span class="p">}</span><span class="w">
+</span></code></pre>
+</div>
+
+<p><em><a href="https://management.cio.gov/schemaexamples/bureauITLeadershipSchema.json">Bureau IT Leadership Directory JSON Schema</a></em></p>
+
+<h2 id="cio-governance-board-membership-list-a-idgovernancea">CIO Governance Board Membership List <a id="governance"></a></h2>
+
+<p>Each agency is expected to post a JSON file for their CIO Governance Board Membership List to the following URL path: [agency.gov]/digitalstrategy/governanceboards.json</p>
+
+<p>Include all governance boards the CIO is a member of. Agencies shall keep this list up to date at least annually beginning in April 2016.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Field Name</th>
+      <th>Data Type</th>
+      <th>Required?</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>governanceBoardName</strong></td>
+      <td>String (100)</td>
+      <td>Yes</td>
+      <td>Name of governnance board</td>
+    </tr>
+    <tr>
+      <td><strong>programCodeFPI</strong></td>
+      <td>String (7)</td>
+      <td>No</td>
+      <td>Code of Program that board is related to (Federal Program Inventory), if available</td>
+    </tr>
+    <tr>
+      <td><strong>bureauCode</strong></td>
+      <td>Int (2)</td>
+      <td>Yes</td>
+      <td>Bureau that board is a part of, if at bureau-level or within-bureau board. Otherwise indicate “00”</td>
+    </tr>
+    <tr>
+      <td><strong>cioInvolvementDescription</strong></td>
+      <td>String (500)</td>
+      <td>No</td>
+      <td>Brief description of CIO involvement</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="cio-governance-board-membership-list-json-syntax-example">CIO Governance Board Membership List JSON Syntax Example</h4>
+
+<div class="language-json highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="w">
+    </span><span class="nt">"boards"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+        </span><span class="p">{</span><span class="w">
+            </span><span class="nt">"governanceBoardName"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="s2">"Committee for Naming Oversight"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"programCodeFPI"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="s2">"005-001"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"bureauCode"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="s2">"12"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"cioInvolvementDescription"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="s2">"Optional Reviewing Official Title here.  Max 500 characters"</span><span class="w">
+        </span><span class="p">},</span><span class="w">
+        </span><span class="p">{</span><span class="w">
+            </span><span class="nt">"governanceBoardName"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="s2">"Committee of Planning"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"bureauCode"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="s2">"10"</span><span class="w">
+        </span><span class="p">}</span><span class="w">
+    </span><span class="p">]</span><span class="w">
+    
+</span><span class="p">}</span><span class="w">
+</span></code></pre>
+</div>
+
+<p><em><a href="https://management.cio.gov/schemaexamples/governanceBoardSchema.json">CIO Governance Board Membership JSON Schema</a></em></p>
+
+<h2 id="idc-realized-cost-savings-and-avoidance-a-idsavingsa">IDC Realized Cost Savings and Avoidance <a id="savings"></a></h2>
+
+<p>On October 23, 2015 agency points of contact were sent their ITOR strategies already converted to JSON format.</p>
+
+<p>OMB asks agency submitters to:</p>
+
+<ol>
+  <li>Check the information in the file for accuracy;</li>
+  <li>Update it with any new savings strategies;</li>
+  <li>Fill-out any missing information in the required “strategyId” and “ombInitiatives” fields;</li>
+  <li>Fill-out the “netOrGross” field for all savings amounts, indicating whether each year’s amount is “Net” of costs (equal to gross cost savings/avoidance achieved minus implementation costs required to achieve the savings) or “Gross” (meaning, ignoring any costs of implementation); and</li>
+  <li>Post your finished file on your agency’s [agency.gov]/digitalstrategy/costsavings.json</li>
+</ol>
+
+<p>Before the close of the IDC quarter, identifying the JSON dataset as “[Agency] IT Reform Cost Savings/Avoidance” in your Enterprise Data Inventory and Public Data Listings. Your agency should update this data on a rolling basis as savings are realized, and must ensure that the file is updated with all savings realized in a given quarter during the week prior to the IDC collection deadline.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Field Name</th>
+      <th>Data Type</th>
+      <th>Required?</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>strategyID</strong></td>
+      <td>Int (3)</td>
+      <td>Yes</td>
+      <td>The unique identifier for the strategy</td>
+    </tr>
+    <tr>
+      <td><strong>strategyTitle</strong></td>
+      <td>String (100)</td>
+      <td>Yes</td>
+      <td>The title of the strategy</td>
+    </tr>
+    <tr>
+      <td><strong>decisionDate</strong></td>
+      <td>Date (MM/DD/YYYY)</td>
+      <td>Yes</td>
+      <td>The date the agency decided to use this strategy</td>
+    </tr>
+    <tr>
+      <td><strong>ombInitiative</strong></td>
+      <td>Select: Data Center, Digital Services, Commodity IT, PortfolioStat, Software License Management, Other</td>
+      <td>Yes</td>
+      <td>The primary OMB initiative that categorizes this strategy</td>
+    </tr>
+    <tr>
+      <td><strong>relatedUIIs</strong></td>
+      <td>String (200)</td>
+      <td>No</td>
+      <td>Related investments to the strategy, identified as their Unique Investment Identifiers (UIIs)</td>
+    </tr>
+    <tr>
+      <td><strong>useOfSavingsAvoidance</strong></td>
+      <td>String (500)</td>
+      <td>No</td>
+      <td>Explain what the resultant savings will be used for, or how it will be repurposed</td>
+    </tr>
+    <tr>
+      <td><strong>amountType</strong></td>
+      <td>Select: Cost-savings, Cost-avoidance, Both</td>
+      <td>Yes</td>
+      <td>Indicate whether the amounts given for each strategy are cost-savings, cost-avoidance, or both as defined in <a href="https://www.whitehouse.gov/omb/circulars_a131">OMB Circular A-131</a>.</td>
+    </tr>
+    <tr>
+      <td><strong>fy2012</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><em>amount</em></td>
+      <td>Numeric, 1-1000</td>
+      <td>Yes</td>
+      <td><em>Realized</em> total savings for each strategy for FY12, <strong>in MILLIONS of dollars</strong></td>
+    </tr>
+    <tr>
+      <td><em>netOrGross</em></td>
+      <td>Select: Net, Gross</td>
+      <td>Yes</td>
+      <td>Indicate whether the FY 12 amount is net of costs, or gross</td>
+    </tr>
+    <tr>
+      <td><strong>fy2013</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><em>amount</em></td>
+      <td>Numeric, 1-1000</td>
+      <td>Yes</td>
+      <td><em>Realized</em> total savings for each strategy for FY13, <strong>in MILLIONS of dollars</strong></td>
+    </tr>
+    <tr>
+      <td><em>netOrGross</em></td>
+      <td>Select: Net, Gross</td>
+      <td>Yes</td>
+      <td>Indicate whether the FY 13 amount is net of costs, or gross</td>
+    </tr>
+    <tr>
+      <td><strong>fy2014</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><em>amount</em></td>
+      <td>Numeric, 1-1000</td>
+      <td>Yes</td>
+      <td><em>Realized</em> total savings for each strategy for FY14, <strong>in MILLIONS of dollars</strong></td>
+    </tr>
+    <tr>
+      <td><em>netOrGross</em></td>
+      <td>Select: Net, Gross</td>
+      <td>Yes</td>
+      <td>Indicate whether the FY 14 amount is net of costs, or gross</td>
+    </tr>
+    <tr>
+      <td><strong>fy2015</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><em>amount</em></td>
+      <td>Numeric, 1-1000</td>
+      <td>Yes</td>
+      <td><em>Realized</em> total savings for each strategy for FY15, <strong>in MILLIONS of dollars</strong></td>
+    </tr>
+    <tr>
+      <td><em>netOrGross</em></td>
+      <td>Select: Net, Gross</td>
+      <td>Yes</td>
+      <td>Indicate whether the FY 15 amount is net of costs, or gross</td>
+    </tr>
+    <tr>
+      <td><strong>fy2016</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><em>amount</em></td>
+      <td>Numeric, 1-1000</td>
+      <td>Yes</td>
+      <td><em>Realized</em> total savings for each strategy for FY16, <strong>in MILLIONS of dollars</strong></td>
+    </tr>
+    <tr>
+      <td><em>netOrGross</em></td>
+      <td>Select: Net, Gross</td>
+      <td>Yes</td>
+      <td>Indicate whether the FY 16 amount is net of costs, or gross</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="idc-cost-savings-and-avoidance-json-syntax-example">IDC Cost Savings and Avoidance JSON Syntax Example</h4>
+
+<div class="language-json highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="w">
+    </span><span class="nt">"strategies"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+        </span><span class="p">{</span><span class="w">
+            </span><span class="nt">"strategyId"</span><span class="p">:</span><span class="w"> </span><span class="mi">5</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"strategyTitle"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Blanket Purchase Agreement"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"decisionDate"</span><span class="p">:</span><span class="w"> </span><span class="s2">"04/12/2011"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"ombInitiative"</span><span class="p">:</span><span class="w"> </span><span class="s2">"PortfolioStat"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"useOfSavingsAvoidance"</span><span class="p">:</span><span class="w"> </span><span class="s2">"These savings will be reinvested in existing major investments, as determined by business needs."</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"amountType"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Cost-Avoidance"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"relatedUIIs"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+                </span><span class="s2">"099-000002345"</span><span class="p">,</span><span class="w">
+		</span><span class="s2">"099-000000123"</span><span class="w">
+            </span><span class="p">],</span><span class="w">
+            </span><span class="nt">"fy2012"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="nt">"amount"</span><span class="p">:</span><span class="w"> </span><span class="mi">4</span><span class="p">,</span><span class="w">
+                </span><span class="nt">"netOrGross"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Net"</span><span class="w">
+            </span><span class="p">},</span><span class="w">
+            </span><span class="nt">"fy2013"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="nt">"amount"</span><span class="p">:</span><span class="w"> </span><span class="mf">2.17</span><span class="p">,</span><span class="w">
+                </span><span class="nt">"netOrGross"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Net"</span><span class="w">
+            </span><span class="p">},</span><span class="w">
+            </span><span class="nt">"fy2014"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="nt">"amount"</span><span class="p">:</span><span class="w"> </span><span class="mi">5</span><span class="p">,</span><span class="w">
+                </span><span class="nt">"netOrGross"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Gross"</span><span class="w">
+            </span><span class="p">},</span><span class="w">
+            </span><span class="nt">"fy2015"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="nt">"amount"</span><span class="p">:</span><span class="w"> </span><span class="mf">0.25</span><span class="p">,</span><span class="w">
+                </span><span class="nt">"netOrGross"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Net"</span><span class="w">
+             </span><span class="p">},</span><span class="w">
+            </span><span class="nt">"fy2016"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="nt">"amount"</span><span class="p">:</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w">
+                </span><span class="nt">"netOrGross"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Net"</span><span class="w">
+            </span><span class="p">}</span><span class="w">
+        </span><span class="p">},</span><span class="w">
+        </span><span class="p">{</span><span class="w">
+            </span><span class="nt">"strategyId"</span><span class="p">:</span><span class="w"> </span><span class="mi">6</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"strategyTitle"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Document Management System (DMS)"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"decisionDate"</span><span class="p">:</span><span class="w"> </span><span class="s2">"12/01/2012"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"ombInitiative"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Commodity IT"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"amountType"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Cost-Savings"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"fy2012"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="nt">"amount"</span><span class="p">:</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w">
+                </span><span class="nt">"netOrGross"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Net"</span><span class="w">
+            </span><span class="p">},</span><span class="w">
+            </span><span class="nt">"fy2013"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="nt">"amount"</span><span class="p">:</span><span class="w"> </span><span class="mf">0.79</span><span class="p">,</span><span class="w">
+                </span><span class="nt">"netOrGross"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Net"</span><span class="w">
+            </span><span class="p">},</span><span class="w">
+            </span><span class="nt">"fy2014"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="nt">"amount"</span><span class="p">:</span><span class="w"> </span><span class="mf">0.699</span><span class="p">,</span><span class="w">
+                </span><span class="nt">"netOrGross"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Net"</span><span class="w">
+            </span><span class="p">},</span><span class="w">
+            </span><span class="nt">"fy2015"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="nt">"amount"</span><span class="p">:</span><span class="w"> </span><span class="mf">0.667</span><span class="p">,</span><span class="w">
+                </span><span class="nt">"netOrGross"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Gross"</span><span class="w">
+            </span><span class="p">},</span><span class="w">
+            </span><span class="nt">"fy2016"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="nt">"amount"</span><span class="p">:</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w">
+                </span><span class="nt">"netOrGross"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Net"</span><span class="w">
+            </span><span class="p">}</span><span class="w">
+        </span><span class="p">},</span><span class="w">
+        </span><span class="p">{</span><span class="w">
+            </span><span class="nt">"strategyId"</span><span class="p">:</span><span class="w"> </span><span class="mi">3</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"strategyTitle"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Legacy System Upgrade"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"decisionDate"</span><span class="p">:</span><span class="w"> </span><span class="s2">"12/01/2012"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"ombInitiative"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Digital Services"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"useOfSavingsAvoidance"</span><span class="p">:</span><span class="w"> </span><span class="s2">"To be determined in forthcoming review board meeting."</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"amountType"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Cost-Avoidance"</span><span class="p">,</span><span class="w">
+            </span><span class="nt">"relatedUIIs"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+                </span><span class="s2">"099-000003000"</span><span class="w">
+            </span><span class="p">],</span><span class="w">
+            </span><span class="nt">"fy2012"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="nt">"amount"</span><span class="p">:</span><span class="w"> </span><span class="mf">1.2</span><span class="p">,</span><span class="w">
+                </span><span class="nt">"netOrGross"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Net"</span><span class="w">
+            </span><span class="p">},</span><span class="w">
+            </span><span class="nt">"fy2013"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="nt">"amount"</span><span class="p">:</span><span class="w"> </span><span class="mf">1.2</span><span class="p">,</span><span class="w">
+                </span><span class="nt">"netOrGross"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Net"</span><span class="w">
+            </span><span class="p">},</span><span class="w">
+            </span><span class="nt">"fy2014"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="nt">"amount"</span><span class="p">:</span><span class="w"> </span><span class="mf">1.2</span><span class="p">,</span><span class="w">
+                </span><span class="nt">"netOrGross"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Net"</span><span class="w">
+            </span><span class="p">},</span><span class="w">
+            </span><span class="nt">"fy2015"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+                </span><span class="nt">"amount"</span><span class="p">:</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w">
+                </span><span class="nt">"netOrGross"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Net"</span><span class="w">
+            </span><span class="p">}</span><span class="w">
+        </span><span class="p">}</span><span class="w">
+    </span><span class="p">]</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre>
+</div>
+
+<p><em><a href="https://management.cio.gov/schemaexamples/costSavingsAvoidanceSchema.json">IDC Cost Savings and Avoidance JSON Schema</a></em></p>
+
+<p><em><a href="/schemaexamples/JSON User Guide_v5.pdf">OFCIO JSON User Guide</a></em></p>
+
+				</div><!--/usa-serif -->
+			</div><!--/usa-width-two-thirds -->
+
+		</div><!--/usa-grid -->
+
+      </div><!--/styleguide-content usa-content -->
+
+      <footer class="usa-styleguide-footer">
+        <div class="usa-grid">
+  <div class="usa-width-one-half">
+    <p>Feedback? Create an issue on the <a href="https://github.com/ombegov/policy-v2">code repository</a> or email us at <a href="mailto:ofcio@omb.eop.gov">ofcio@omb.eop.gov</a>.</p>
+    <!--<p>Have an idea? Read our <a href="https://github.com/ombegov/policy-v2/blob/CONTRIBUTING.md">contribution guidelines</a>.</p>-->
+  </div>
+  <div class="usa-width-one-half usa-end-row">
+    <p>As a work of the United States government, this project is in the public domain. Copyright is also waved internationally via a CC0 1.0 waiver. </p>
+    <p><a href="https://github.com/ombegov/policy-v2/blob/master/LICENSE.md">Read More.</a></p>
+  </div>
+</div>
+
+      </footer>
+    </div>
+
+
+      <script src="/assets/js/jquery-1.11.3.min.js"></script>
+  <script src="/assets/js/styleguide.js"></script>
+
+    	<!-- We participate in the US government's analytics program. See the data at analytics.usa.gov. -->
+	<script async type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=EOP&subagency=OMB" id="_fed_an_ua_tag"></script>
+
+
+
+
+    <script src="/assets/uswds-0.9.1/js/uswds.min.js"></script>
+
+  </body>
+
+</html>
