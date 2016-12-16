@@ -8,7 +8,7 @@ description:
 
 ## Requirement Tagging and Quality Assurance 
 
-In order pull requirements out of the memos and gather Meta data for the policy schema, OFCIO standardized its analytic approach.  This ensured that the data collected was more uniformed and the requirements were valid.  
+In order to pull requirements out of policy memos and gather Meta data for the policy schema, OFCIO standardized its analytic approach.  This ensured that the data collected was more uniform and the requirements were valid.  
 
 Please note that this document is intended to guide analysts and is not an official process.  The OFCIO recommends that users adopt this process to fit the needs of their organization.
 
@@ -17,25 +17,15 @@ In general, mark the policy if there is anything out of place.
 
 1.	Convert the PDF to a Word document if possible.  This will cut down on formatting issues 
 2.	Create a excel sheet that contains the policy schema meta data as columns
-<br>
- a.	Each requirement will be a row
-<br>
- b.	There will be a lot of repeated data, but that can be fixed later
-<br>
+	 a.	Each requirement will be a row
+	 b.	There will be a lot of repeated data, but that can be fixed later
 3.	In the spreadsheet create “Tags” for types of requirements (see [https://policy.cio.gov/taxonomies/](https://policy.cio.gov/taxonomies/) for the categories that were used in this project)
 4.	Change the formatting in both documents.
-<br>
-  a.	Calibri, size 11, Left-justified, central
-<br>
-  b.	“Wrap” text helps with legibility from our end (don’t wrap “Link” column)
-<br>
+	b.“Wrap” text helps with legibility from our end (don’t wrap “Link” column)
 5.	Read the policy once before pulling out the requirements to understand the structure of the document 
-<br>
 6.	In the document check for impacted agencies to see if any are specified in the opening paragraphs of the memo.
-<br>
 7.	Pull requirements from the policy and input the data to the excel spreadsheet
-<br>
-  a.	Each requirement gets a unique identifier which is the policy’s number, then a dot, then a number assigned to it.  For example if an analyst is working with Policy 52 the first requirement would be 52.01
+	a.	Each requirement gets a unique identifier which is the policy’s number, then a dot, then a number assigned to it.  For example if an analyst is working with Policy 52 the first requirement would be 52.01
 <br> 
    --- i.	We are going to move toward using the URL of the posted policy as the unique identifier.  The URL will also be used in the requirement numbers
   <br>
