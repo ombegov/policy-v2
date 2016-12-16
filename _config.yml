@@ -122,9 +122,9 @@ collections:
     download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf  
   collaboration-tool-rfi:
     output: true
-    permalink: /collaboration-rfi/:path/
+    permalink: /rfi/:path/
     url: /rfi/
     status: draft
-    title: "RFI- Collaboration Tool Services" 
-    github-label: _collaboration-RFI
+    title: "RFI Collaboration Tool Services" 
+    github-label: _rfi
     download-link: https://www.fbo.gov/utils/view?id=ec0dcec83e43485ae9de1ddbac1bdcae

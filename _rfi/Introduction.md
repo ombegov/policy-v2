@@ -1,6 +1,6 @@
 ---
 layout: default
-display_order: 1
+display_order: 2
 title: IV. Introduction
 permalink: /rfi/introduction/
 description:
