@@ -1,10 +1,10 @@
 ---
 layout: default
 display_order: 1
-title: Collaboration Tool Services Request for Information
+title: Collaboration Tool Services-RFI
 permalink: /rfi/
-description:
 ---
+
 ### U.S.	General Services Administration Information Technology Category
 ####December 14, 2016
 #### I.	Purpose

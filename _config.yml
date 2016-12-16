@@ -3,8 +3,8 @@ title: Office of the Federal Chief Information Officer
 email: ofcio@omb.eop.gov
 description: > # this means to ignore newlines until "baseurl:"
 #
-baseurl: "https://policy.cio.gov" # the subpath of your site, e.g. /blog
-url: "https://policy.cio.gov" # the base hostname & protocol for your site
+#baseurl: "https://policy.cio.gov" # the subpath of your site, e.g. /blog
+#url: "https://policy.cio.gov" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -118,5 +118,13 @@ collections:
     url: /dcoi/
     status: finalized
     title: "M-16-19 Data Center Optimization Initiative (DCOI)"
-    github-lavel: _m-16-19-dcoi
+    github-label: _m-16-19-dcoi
     download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf  
+  collaboration-tool-rfi:
+    output: true
+    permalink: /collaboration-rfi/:path/
+    url: /rfi/
+    status: draft
+    title: "RFI- Collaboration Tool Services" 
+    github-label: _collaboration-RFI
+    download-link: https://www.fbo.gov/utils/view?id=ec0dcec83e43485ae9de1ddbac1bdcae
