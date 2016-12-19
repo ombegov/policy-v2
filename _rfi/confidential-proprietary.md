@@ -2,7 +2,7 @@
 layout: default
 display_order: 6
 title: Use of Results and Confidential/Proprietary Information
-permalink: /rfi/functional-requirements/
+permalink: /rfi/use-of-confidential-proprietary-information/
 description:
 ---
 
