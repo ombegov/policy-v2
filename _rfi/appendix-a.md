@@ -1,7 +1,7 @@
 ---
 layout: default
 display_order: 7
-title: Appendix A, Cloud Definition
+title: Appendix A. Cloud Definition
 permalink: /rfi/cloud-definitions/
 description:
 ---

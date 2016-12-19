@@ -2,7 +2,7 @@
 layout: default
 display_order: 5
 title: Areas to Address
-permalink: /rfi/additional-questions/
+permalink: /rfi/areas-to-address/
 description:
 ---
 
@@ -10,7 +10,7 @@ description:
 #### A.	Questions to Consider:
 Responses should address holistically Background, Functional Requirements, and comply with the Security Baseline (Appendix B, Security).  Additionally, industry feedback should provide solutions that address all aspects of collaboration as defined below.  Based on the definition, how would industry effectively address the requirements while ensuring that the solutions are interoperable across all cloud tools and comply with industry standards?  An example would be the ability for different Departments and Agencies to have the ability to collaboratively edit a document despite using different platforms, email service providers, etc.  
 
-![Collaboration]({{https://github.com/ombegov/policy-v2/blob/Collaboration-Tool-Services--RFI}}/assets/img/collaboration.png)
+![Collaboration]({{site.baseurl}}/assets/img/collaboration.png)
 
 Interoperability:  Interested providers of solutions that provide web based communications and collaboration tool services are invited to submit responses. These solutions must be universally available/accessible via a web browser on government owned, contractor owned or personally owned end user devices. 
 
