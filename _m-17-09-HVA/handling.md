@@ -1,7 +1,7 @@
 ---
 layout: default
 display_order: 7
-title: HANDLING INSTRUCTIONS
+title: Handling Instructions
 permalink: /m-17-09-HVA/handling-instructions/
 description:
 ---

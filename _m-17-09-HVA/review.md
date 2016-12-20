@@ -1,7 +1,7 @@
 ---
 layout: default
 display_order: 6
-title: REVIEW PRIVACY COMPLIANCE AND PRIVACY RISK
+title: Review Privacy Compliance and Privacy Risk
 permalink: /m-17-09-HVA/review/
 description:
 ---

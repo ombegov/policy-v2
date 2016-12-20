@@ -2,17 +2,16 @@
 layout: default
 display_order: 5
 title: The Agency HVA Process
-permalink: /hva/pocess/
+permalink: /hva/process/
 description:
 ---
 
 
 Agencies must take a strategic enterprise-wide view of risk that accounts for all critical business and mission functions when identifying HVAs.  Agencies must also establish appropriate governance of HVA activities across the enterprise and should integrate HVA remediation activities into agency planning, programming, budgeting, and execution processes.  These efforts must align with OMB policy, Federal law and regulations, Federal standards and guidelines, and agency policies, processes, and procedures.
 
-Figure 1: Agency HVA Process Framework:
-![Process]({{https://github.com/ombegov/policy-v2/blob/_m-17-09-HVA}}/assets/img/AgencyHVAProcessFramework.png)
+![Process]({{https://policy.cio.gov}}/assets/img/AgencyHVAProcessFramework.png)
 
-<sup>Figure one represents the continuous HVA process, including the specific actions that make up the process. <sup>[3](#3)</sup><sup>
+<sup><sup>Figure one represents the continuous HVA process, including the specific actions that make up the process. <sup>[3](#3)</sup><sup>
 
 
 #### PLAN:
@@ -33,7 +32,6 @@ Agencies must develop, maintain, and regularly update their HVA inventory lists,
 	* Performance measurement and metrics; and 
 	* Contingency planning.
 
-
 #### IDENTIFY, CATEGORIZE AND PRIORITIZE:
 Agencies should use the following guidelines to identify, categorize, and prioritize HVAs to ensure that information systems performing or enabling mission essential functions have been considered as potential HVAs and that appropriate agency stakeholders have been engaged.
 
@@ -42,7 +40,6 @@ Agencies should use the following guidelines to identify, categorize, and priori
 * Throughout the identification process, agencies should also take a Federal enterprise-wide perspective of the risks posed by their HVAs and of their mission responsibilities to both identify their most critical functions, information, and data and to use that information to categorize information systems as critical mission enablers or mission essential functions.
 * Once an initial collection of HVAs has been identified, agencies should protect that collection according to the handling directions at the end of this guidance, take measures to determine the physical location of those HVAs, determine key stakeholders (including third parties) involved in the administration of those HVAs, clearly communicate roles and expectations to those stakeholders, and identify information system interdependencies.
 * After the agency-level list of HVAs has been assembled, agency CIOs should ensure that the owners and operators of the HVAs are notified of their designation as an HVA.
-
 Once the agency-level inventory of HVAs has been produced, agencies should develop a risk­ based matrix of threats, vulnerabilities, impacts, and likelihood of compromise.  The matrix should serve as a basis for prioritizing the agency's HVA assessment activities.  This will support the delivery of an annual "Top 10" prioritized list of HVAs to OMB and DHS. For those HVAs that do not qualify as top 10, agencies have the discretion to rank and rate them using either a "1-to-n" or "tiered" approach.
 
 The following criteria should be used by agencies as additional inputs to their own prioritization when categorizing and prioritizing identified HVAs.  This is not an exhaustive list, and it does not preclude agencies from considering additional criteria.
@@ -61,7 +58,6 @@ The following criteria should be used by agencies as additional inputs to their 
 * Scale of impact (i.e., local, multiagency, Federal enterprise, national-level  impact) of the loss or compromise of the information or data and/or information system functionality; and
 * Nature of impact (i.e. national security interests, foreign relations, or economy of the United States or to the public confidence, civil liberties, or public health and safety of the American people).
 <br>
-
 Many of these inputs focus on the potential resulting impact or consequence should the confidentiality, availability, or integrity of a given HVA be compromised.  As agencies consider potential inputs for their own individual prioritization approaches, they should also consider privacy risk to individuals, potential threats to the HVA, as well as known vulnerabilities and the overall security posture of the HVA.  All three categories of risk (threat, vulnerability, and consequence) should be considered when ranking HVAs.
 
 #### REPORT:
@@ -85,7 +81,7 @@ All Federal agencies are responsible for keeping their internal HVA lists up-to-
 __Pre-Assessment__
 In addition to the standard processes agencies must use for all information systems, to include tailoring security and privacy controls following the selection of the appropriate baseline (commiserate with NIST SP 800-53), agencies must prepare the HVA for assessment and ensure appropriate protections are in place by completing the steps listed below:
 
-* *Implement and validate security controls* -Per the direction of Binding  Operational Directive (BOD) 16-01,<sup>[9](9)</sup> and using the security engineering principles, concepts, and techniques in NIST SP 800- 160, Considerations for a Multidisciplinary Approach  in the  Engineering of Trustworthy Secure Systems, agencies must implement the following security activities for all HVAs:
+* *Implement and validate security controls* -Per the direction of Binding  Operational Directive (BOD) 16-01,<sup>[9](9)</sup> and using the security engineering principles, concepts, and techniques in [NIST SP 800- 160, Considerations for a Multidisciplinary Approach  in the  Engineering of Trustworthy Secure Systems,](http://csrc.nist.gov/publications/drafts/800-160/sp800_160_second-draft.pdf) agencies must implement the following security activities for all HVAs:
 	* Secure configuration management;
 	* Increased phishing awareness training and testing of personnel with access to HV.A.s;
 	* Continual validation of strict access controls, including multifactor authentication;
@@ -123,13 +119,13 @@ Agencies should work with their budget offices and governance structures to ensu
 *** 
 
 #### *Footnotes*
-<a name=(#3)>3</a> **Plan**: Prepare for the HVA process, including stakeholder engagement, governance and oversight, third party engagement, and incorporation of HV A activities into broader agency IT planning. 
+<a name="3">3</a> **Plan**: Prepare for the HVA process, including stakeholder engagement, governance and oversight, third party engagement, and incorporation of HV A activities into broader agency IT planning. 
 
 **Identify**: Examine systems from the agency's perspective, adversary's perspective, and enterprise-wide perspective to determine those assets which may be considered HV As. 
 
 **Categorize**: Organize information systems based on (among other things) system function, what kind of and how much information the system contains, the system's importance to the agency's mission, and the scale of impact from system loss or compromise. 
 
-**Prioritize**: Rank HVA systems in terms ofrisk, considering the categories of threat, vulnerability, and consequence. 
+**Prioritize**: Rank HVA systems in terms of risk, considering the categories of threat, vulnerability, and consequence. 
 
 **Report**: Agencies are responsible for keeping their internal HVA lists up-to-date. All CFO Act agencies are required to report their HV As to DHS on an annual basis. 
 
@@ -137,24 +133,24 @@ Agencies should work with their budget offices and governance structures to ensu
 
 **Remediate**: Agencies will receive a detailed report from DHS regarding the HVA system including recommended actions to address the findings. 
 
-<a name=(#4)[#4]/a> HVA management processes should take advantage of current security-related processes and artifacts produced by agencies in accordance with their responsibilities under FISMA, thus avoiding duplication and redundancies. 
+<a name="4">4</a> HVA management processes should take advantage of current security-related processes and artifacts produced by agencies in accordance with their responsibilities under FISMA, thus avoiding duplication and redundancies. 
 
-<a name=(#5)[5]/a> Per A-130, agencies are required to establish and maintain an agency-wide PCM program that implements the agency's PCM strategy
+<a name="5">5</a> Per A-130, agencies are required to establish and maintain an agency-wide PCM program that implements the agency's PCM strategy
 
-<a name=(#6)[6]/a> There is no minimum FIPS categorization for a system to be considered an HVA, as FIPS ratings are only one factor to consider in the identification and prioritization process. 
+<a name="6">6</a> There is no minimum FIPS categorization for a system to be considered an HVA, as FIPS ratings are only one factor to consider in the identification and prioritization process. 
 
-<a name=(#7)[7]/a> Per [Executive Order CEO) 13556. Comrolled Unclassified information](https://www.whitehouse.gov/the-press-office/2010/11/04/executive-order-13556-controlled-unclassified-information), Controlled Unclassified Information is information that requires safeguarding or dissemination controls pursuant to and consistent with law, regulations, and government-wide policies, excluding information that is classified under [EO 13526, Classified National Security Information](https://www.whitehouse.gov/the-press-office/executive-order-classified-national-security-information), of December 29, 2009, or the Atomic Energy Act (P.L. 83-703), as amended. 
+<a name="7">7</a> Per [Executive Order CEO) 13556. Controlled Unclassified information](https://www.whitehouse.gov/the-press-office/2010/11/04/executive-order-13556-controlled-unclassified-information), Controlled Unclassified Information is information that requires safeguarding or dissemination controls pursuant to and consistent with law, regulations, and government-wide policies, excluding information that is classified under [EO 13526, Classified National Security Information](https://www.whitehouse.gov/the-press-office/executive-order-classified-national-security-information), of December 29, 2009, or the Atomic Energy Act (P.L. 83-703), as amended. 
 
-<a name=(#8)[8]/a> Per 31 U.S.C § 90l(b), as amended, the current CFO Act agencies include the Departments ofAgriculture, Commerce, Defense, Education, Energy, Health and Human Services, Homeland Security, Housing and Urban Development, Interior, Justice, Labor, State, Transportation, the Treasury, Veterans Affairs, Environment Protection Agency, General Services Administration, National Aeronautics and Space Administration, National Science Foundation, Office ofPersonnel Management, Small Business Administration, Social Security Administration, U.S. Agency for International Development, and U.S. Nuclear Regulatory Commission. 
+<a name="8">8</a> Per 31 U.S.C § 90l(b), as amended, the current CFO Act agencies include the Departments ofAgriculture, Commerce, Defense, Education, Energy, Health and Human Services, Homeland Security, Housing and Urban Development, Interior, Justice, Labor, State, Transportation, the Treasury, Veterans Affairs, Environment Protection Agency, General Services Administration, National Aeronautics and Space Administration, National Science Foundation, Office ofPersonnel Management, Small Business Administration, Social Security Administration, U.S. Agency for International Development, and U.S. Nuclear Regulatory Commission. 
 
-<a name=(#9)[9]/a> Published BODs are available to OMB MAX Executive Branch users at [community.max.gov/x/RJQ5JQ](community.max.gov/x/RJQ5JQ)
+<a name="9">9</a> Published BODs are available to OMB MAX Executive Branch users at [community.max.gov/x/RJQ5JQ](community.max.gov/x/RJQ5JQ)
+	
+<a name="10">10</a> The ROE establish the guidelines and agreement between DHS and the agency, authorizing DHS, typically through DHS's National Cybersecurity Assessment and Technical Services (NCATS) to conduct RVAs on the agency's networks. 
 
-<a name=(#10)[10]/a> The ROE establish the guidelines and agreement between DHS and the agency, authorizing DHS, typically through DHS's National Cybersecurity Assessment and Technical Services (NCATS) to conduct RVAs on the agency's networks. 
+<a name="11">11</a> OMB M-16-03 directed agencies (not only CFO Act agencies), consistent with applicable law, to provide a signed FNA to DHS by November 13, 2015, to ensure DHS, typically through US-CERT, can rapidly deploy on-site resources to conduct incident response activities, as necessary.  
 
-<a name=(#10)[10]/a> OMB M-16-03 directed agencies (not only CFO Act agencies), consistent with applicable law, to provide a signed FNA to DHS by November 13, 2015, to ensure DHS, typically through US-CERT, can rapidly deploy on-site resources to conduct incident response activities, as necessary.  
+<a name="12">12</a> The HACS SINS are comprised of the following cybersecurity services: 132-45A: Penetration Testing - Security testing in which assessors mimic real-world attacks to identify methods for circumventing the security features of an application, system, or network. 132-45B: Incident Response Services -These services help organizations impacted by a cybersecurity compromise determine the extent of the incident, remove the adversary from their systems, and restore their networks to a more secure state.
+132-45C: Cyber Hunt Services -These activities are undertaken in response to crises or urgent situations within the pertinent domain to mitigate immediate and potential threats. Cyber hunt activities start with the premise that threat actors that are known to target some organizations in a specific industry, or organizations using specific systems, likely to also target other organizations in the same industry or with the same systems. The processes use information and threat intelligence specifically focused on the proximate incident to identify undiscovered attacks. Cyber hunt activities also include the investigation and analysis of all relevant response activities. 
+132-45D: Risk and Vulnerability Assessment- These activities include assessments of threats and vulnerabilities, deviations from acceptable configurations, and enterprise or local policy to assesses the current level of risk. The assessor then develops and/or recommends appropriate mitigation countermeasures in operational and non­ operational situations. 
 
-<a name=(#12)[12]/a> 12 The HACS SINS are comprised ofthe following cybersecurity services: 
-	132-45A: Penetration Testing - Security testing in which assessors mimic real-world attacks to identify methods for circumventing the security features of an application, system, or network. 132-45B: Incident Response Services -These services help organizations impacted by a cybersecurity compromise determine the extent of the incident, remove the adversary from their systems, and restore their networks to a more secure state.
-	132-45C: Cyber Hunt Services -These activities are undertaken in response to crises or urgent situations within the pertinent domain to mitigate immediate and potential threats. Cyber hunt activities start with the premise that threat actors that are known to target some organizations in a specific industry, or organizations using specific systems,likely to also target other organizations in the same industry or with the same systems. The processes use information and threat intelligence specifically focused on the proximate incident to identify undiscovered attacks. Cyber hunt activities also include the investigation and analysis of all relevant response activities. 
-	132-45D: Risk and Vulnerability Assessment- These activities include assessments of threats and vulnerabilities, deviations from acceptable configurations, and enterprise or local policy to assesses the current level of risk. The assessor then develops and/or recommends appropriate mitigation countermeasures in operational and non­ operational situations. 
-<a name=(#13)[13]/a> [www.whitehouse.gov/sites/default/files/omb/assets/egov docs/fy_18_it_budget_guidance.pdf](www.whitehouse.gov/sites/default/files/omb/assets/egov docs/fy_18_it_budget_guidance.pdf )
+<a name="13">13</a> [www.whitehouse.gov/sites/default/files/omb/assets/egov docs/fy_18_it_budget_guidance.pdf](www.whitehouse.gov/sites/default/files/omb/assets/egov docs/fy_18_it_budget_guidance.pdf )

@@ -1,7 +1,7 @@
 ---
 layout: default
 display_order: 8
-title: CONCLUSION
+title: Conclusion
 permalink: /m-17-09-HVA/conclusion/
 description:
 ---
