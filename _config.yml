@@ -3,8 +3,13 @@ title: Office of the Federal Chief Information Officer
 email: ofcio@omb.eop.gov
 description: > # this means to ignore newlines until "baseurl:"
 #
-#baseurl: "https://policy.cio.gov" # the subpath of your site, e.g. /blog
-#baseurl: "https://policy.cio.gov" # the base hostname & protocol for your site
+<<<<<<< HEAD
+baseurl: "https://policy.cio.gov" # the subpath of your site, e.g. /blog
+baseurl: "https://policy.cio.gov" # the base hostname & protocol for your site
+=======
+baseurl: "https://policy.cio.gov" # the subpath of your site, e.g. /blog
+url: "https://policy.cio.gov" # the base hostname & protocol for your site
+>>>>>>> master
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -101,7 +106,7 @@ collections:
     output: true
     permalink: /policy-schema/:path/
     url: /policy-schema/
-    status: resource
+    status: draft
     title: Policy Schema 
     github-label: policy-schema
   m-17-06-web-policy:
@@ -112,3 +117,19 @@ collections:
     title: "M-17-06: Policies for Federal Agency Public Websites and Digital Services"
     github-label: _m-17-06-web-policy
     download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf
+  m-16-19-dcoi:
+    output: true
+    permalink: /dcoi/:path/
+    url: /dcoi/
+    status: finalized
+    title: "M-16-19 Data Center Optimization Initiative (DCOI)"
+    github-label: _m-16-19-dcoi
+    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf  
+  rfi:
+    output: true
+    permalink: /rfi/:path/
+    url: /rfi/
+    status: draft
+    title: "Collaboration Tool Services Request for Information" 
+    github-label: _rfi
+    download-link: https://www.fbo.gov/utils/view?id=ec0dcec83e43485ae9de1ddbac1bdcae 
