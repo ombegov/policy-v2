@@ -9,13 +9,13 @@ description:
 
 Agencies must take a strategic enterprise-wide view of risk that accounts for all critical business and mission functions when identifying HVAs.  Agencies must also establish appropriate governance of HVA activities across the enterprise and should integrate HVA remediation activities into agency planning, programming, budgeting, and execution processes.  These efforts must align with OMB policy, Federal law and regulations, Federal standards and guidelines, and agency policies, processes, and procedures.
 
-![Process]({{https://policy.cio.gov}}/assets/img/AgencyHVAProcessFramework.png)
+![Process]({{site.baseurl}}/assets/img/AgencyHVAProcessFramework.png)
 
 <sup><sup>Figure one represents the continuous HVA process, including the specific actions that make up the process. <sup>[3](#3)</sup><sup>
 
 
 #### PLAN:
-Agencies must develop, maintain, and regularly update their HVA inventory lists, at least annually, to implement this guidance.<sup>[#4](#4)</sup>  At a minimum, the planning process must include the following considerations:
+Agencies must develop, maintain, and regularly update their HVA inventory lists, at least annually, to implement this guidance.<sup>[4](#4)</sup>  At a minimum, the planning process must include the following considerations:
 
 * Stakeholder engagement, including identifying and engaging information system and information/data owners, business process experts, IT experts, information security experts, privacy experts, and risk management experts, as necessary;
 * Review of business processes and identification of appropriate management controls to protect HVA and critical business functions over the entire data and information lifecycle;

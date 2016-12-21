@@ -13,3 +13,7 @@ As noted throughout the document, the HVA initiative relies on the identificatio
 
 If a specific process or information is not listed, then it does not have unique handling or protection guidance in terms of being related to an HVA.  However, any information submitted by outside agencies that is covered by separate classification guidance should retain the appropriate level of classification.
 
+*** 
+
+#### *Footnotes*
+<a name="14">14</a> [https://community.max.gov/x/Vg8_Rg](https://community.max.gov/x/Vg8_Rg) - This handling guidance will be periodically updated depending on the outcomes of the HVA assessments or changes in TTPs.
