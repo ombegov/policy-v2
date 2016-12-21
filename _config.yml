@@ -3,13 +3,10 @@ title: Office of the Federal Chief Information Officer
 email: ofcio@omb.eop.gov
 description: > # this means to ignore newlines until "baseurl:"
 #
-<<<<<<< HEAD
-baseurl: "https://policy.cio.gov" # the subpath of your site, e.g. /blog
-baseurl: "https://policy.cio.gov" # the base hostname & protocol for your site
-=======
+
 baseurl: "https://policy.cio.gov" # the subpath of your site, e.g. /blog
 url: "https://policy.cio.gov" # the base hostname & protocol for your site
->>>>>>> master
+
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
