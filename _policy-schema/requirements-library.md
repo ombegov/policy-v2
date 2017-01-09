@@ -13,5 +13,5 @@ Over the next year we will be working with [18F](18f.gsa.gov) to develop a web p
 The data is currently divided into three phases- Phase 1 is complete, Phase 2 is being validated by subject matter experts, and Phase 3 is currently being analyzed.  We'll post updated datasets as they become available.   
 
 #### Phase 1   
-<a href="{{ site.baseurl }}/assets/Phase1_CombinedQA_AllPhase1_Nov21.csv"><button>Download CSV</button></a><a href="{{ site.baseurl }}/assets/policy.json"><button>Download JSON</button></a>
+<a href="{{ site.baseurl }}/assets/Phase1_CombinedQA_AllPhase1_Nov21.csv"><button>Download CSV</button></a>
 
