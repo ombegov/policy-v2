@@ -1,6 +1,6 @@
 ---
 layout: default
-display_order: 4
+display_order: 5
 title: Related Projects
 permalink: /policy-schema/related-projects
 description: 
