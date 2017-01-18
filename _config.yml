@@ -129,7 +129,7 @@ collections:
     status: finalized
     title: "M-16-19: Data Center Optimization Initiative (DCOI)"
     github-label: _m-16-19-dcoi
-    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf  
+    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_19_1.pdf
   rfi:
     output: true
     permalink: /rfi/:path/
