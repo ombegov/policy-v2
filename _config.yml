@@ -4,8 +4,8 @@ email: ofcio@omb.eop.gov
 description: > # this means to ignore newlines until "baseurl:"
 #
 
-baseurl: "https://policy.cio.gov" # the subpath of your site, e.g. /blog
-url: "https://policy.cio.gov" # the base hostname & protocol for your site
+#baseurl: "https://policy.cio.gov" # the subpath of your site, e.g. /blog
+#url: "https://policy.cio.gov" # the base hostname & protocol for your site
 
 #twitter_username: jekyllrb
 #github_username:  jekyll
@@ -138,3 +138,11 @@ collections:
     title: "Collaboration Tool Services Request for Information" 
     github-label: _rfi
     download-link: https://www.fbo.gov/utils/view?id=ec0dcec83e43485ae9de1ddbac1bdcae 
+  m-17-14:
+    output: true
+    permalink: /hva/:path/
+    url: /policy-rescissions/
+    status: finalized
+    title: "M-17-14: Rescission of Memoranda Relating to Identity Management"
+    github-label: _m-17-14
+    download-link: https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2017/m-17-15.pdf
