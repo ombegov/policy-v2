@@ -1,6 +1,6 @@
 ---
 layout: default
-display_order: 
+display_order: 2
 title: Rescinded Policies 
 permalink: /policy-rescissions/policies 
 description: "Rescinded Policies"
