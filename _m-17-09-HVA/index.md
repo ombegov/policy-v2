@@ -8,9 +8,13 @@ description: "Introduction"
 
 
 ### December 9, 2016 
+
 ### M-17-09
+
 ## MEMORANDUM FOR HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES
+
 ### FROM: Shaun Donovan
+
 ## SUBJECT: Management of Federal High Value Assets 
 
 
