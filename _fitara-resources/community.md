@@ -19,7 +19,7 @@ Monthly (previously biweekly) Implementation support meetings are held every fou
 * DCOI Overview
 * Open Discussion
 
-**December meeting cancelled*
+**December meeting cancelled**
 
 **November 30, 2016**
 * Updates
