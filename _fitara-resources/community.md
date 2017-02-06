@@ -13,6 +13,21 @@ Monthly (previously biweekly) Implementation support meetings are held every fou
 
 ## FITARA Meeting Agendas
 
+**January 25, 2017**
+* Updates - PortfolioStats, IDC reporting, IRM
+* Transition Efforts
+* DCOI Overview
+* Open Discussion
+
+**December meeting cancelled**
+
+**November 30, 2016**
+* Updates
+* CIO Authority data from CPIC Reporting (see below)
+* Discussion: FITARA and transition
+* Agenda requests for upcoming meetings
+* Open Discussion
+
 **October 26, 2016**
 * Updates
 * Treasury’s FITARA Strategy & Progress
