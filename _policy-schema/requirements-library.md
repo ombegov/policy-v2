@@ -11,7 +11,15 @@ Over the past year OFCIO has analyzed IT policies and tagged requirements accord
 Over the next year we will be working with [18F](18f.gsa.gov) to develop a web policy library based on the populated schema.  In the meantime, the content is available for download here.
 
 The data is currently divided into three phases- Phase 1 is complete, Phase 2 is being validated by subject matter experts, and Phase 3 is currently being analyzed.  We'll post updated datasets as they become available.   
+  
+  <div class="usa-alert usa-alert-info">
+    <div class="usa-alert-body">
+      <h3 class="usa-alert-heading">Information Status</h3>
+      <p class="usa-alert-text">The spreadsheet posted is a draft document and is not official.</p>
+    </div>
+  </div>
 
-#### Phase 1   
-<a href="{{ site.baseurl }}/assets/Phase1_CombinedQA_AllPhase1_Nov21.csv"><button>Download CSV</button></a>
+
+
+<a href="{{ site.baseurl }}/assets/AllPhasesCombinedTaggingTemp_Feb6.csv"><button>Combined Phases-CSV</button></a>
 
