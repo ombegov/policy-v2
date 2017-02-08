@@ -6,19 +6,16 @@ permalink: /policy-schema/library
 description: 
 ---
 
+<div class="usa-alert usa-alert-info">
+	<div class="usa-alert-body">
+    	<h3 class="usa-alert-heading">Information Status</h3>
+    	<p class="usa-alert-text">The documents posted here are in the process of being formally reviewed.  These are not official OMB documents, and the data will be updated frequently. Users are encouraged to refer to approved OMB memos and documents for specific IT related requirements.</p>
+	</div>
+</div>
+
 Over the past year OFCIO has analyzed IT policies and tagged requirements according to the Policy Schema taxonomies which are detailed [here]( https://policy.cio.gov/taxonomies/).  
 
 Over the next year we will be working with [18F](18f.gsa.gov) to develop a web policy library based on the populated schema.  In the meantime, the content is available for download here.
-  
-  
-  <div class="usa-alert usa-alert-info">
-    <div class="usa-alert-body">
-      <h3 class="usa-alert-heading">Information Status</h3>
-      <p class="usa-alert-text">The documents posted here are in the process of being formally reviewed.  These are not official OMB documents, and the data will be updated frequently.
-Users are encouraged to refer to approved OMB memos and documents for specific IT related requirements.</p>
-    </div>
-  </div>
-
 
 <h3>CSV</h3>
 <a href="{{ site.baseurl }}/assets/AllPhasesCombinedTaggingTemp_Feb6.csv"><button>Combined Phases-CSV</button></a>
