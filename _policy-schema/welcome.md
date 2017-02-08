@@ -13,4 +13,5 @@ As we continue to develop the Policy Schema, we invite you to provide feedback o
 
 We're developing the Policy Schema as an open source project. To contribute, please [open an issue](https://github.com/ombegov/policy-v2/labels/policy-schema) or [create a pull request](https://github.com/ombegov/policy-v2/pulls).
 
+...
 
