@@ -56,7 +56,7 @@ Guidance can be found [here](https://github.com/GSA/CIOmanagement/blob/master/as
 
 OMB recently issued instructions to agencies to conduct an annual review of their PortfolioStat reviews. To fulfill this, OMB asked each Deputy Secretary to certify that they have reviewed their agency's IT portfolio with their CIO and that the status of their current PortfolioStat Action Items are correct as reported in the OMB E-Gov Integrated Data Collection.  In April, each agency is required to submit a statement from the Deputy Secretary certifying the review and status of your agency’s PortfolioStat action items.
 
-**According to the template provided to each agency, the Self-Assessment Update is due to the OFCIO Desk Office.  Delivery of the Implementation Plan Status simply requires the .json file.  However, the e-mail implies that all materials should be sent to the OFCIO.  Please confirm that all 3 items, the FITARA Self-Assessment Update, the FITARA Implementation Plan Update (in document format), and the certification from the Deputy Secretary should be sent to one recipient, with the addition of posting the .json file.**
+**According to the template provided to each agency, the Self-Assessment Update is due to the OFCIO Desk Officer.  Delivery of the Implementation Plan Status simply requires the .json file.  However, the e-mail implies that all materials should be sent to the OFCIO.  Please confirm that all 3 items, the FITARA Self-Assessment Update, the FITARA Implementation Plan Update (in document format), and the certification from the Deputy Secretary should be sent to one recipient, with the addition of posting the .json file.**
 
 a. The 3 deliverables are: 
 
