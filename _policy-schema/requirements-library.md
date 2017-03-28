@@ -18,7 +18,7 @@ Over the past year OFCIO has analyzed IT policies and tagged requirements accord
 Over the next year we will be working with [18F](18f.gsa.gov) to develop a web policy library based on the populated schema.  In the meantime, the content is available for download here.
 
 <h3>CSV</h3>
-<a href="{{ site.baseurl }}"><button>Combined Phases-CSV</button></a>
+<a href="{{site.baseurl/assets/AllPhasesCombinedTaggingTemp_March28_for18f.csv}}"><button>Combined Phases-CSV</button></a>
 
 <h3>XML</h3>
 <a href="{{ site.baseurl }}/assets/Phase1.xml"><button>Phase 1</button></a>
