@@ -269,7 +269,7 @@ Each dataset should include one record for each agency employee with the title o
 **bureauCode**                        | Int (2)                         | Yes       |
 **firstName**                         | String (50)                     | Yes       |
 **lastName**                          | String (50)                     | Yes       |
-**employmentType**                    | Select: GS, SES, SL, ST, Other  | Yes       | 
+**employmentType**                    | Select: GS, SES, SL, ST, EJ, EK, Other  | Yes       | 
 **employmentTypeOther**               | String (500)                    | No        | If employmentType "Other" is used, describe the employment type.
 **typeOfAppointment**                 | Select: career, political    | Yes       |
 **otherResponsibilities**             | String (500)                    | No        |
