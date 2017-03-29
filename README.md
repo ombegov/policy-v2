@@ -50,5 +50,15 @@ The site is built using [Jekyll](https://github.com/jekyll/jekyll "Link to More 
 ### Configuration Options
 [TO DO EXPLAIN WHAT CONFIGURATION OPTIONS NEED TO BE SET LIKE EMAIL AND GITHUB REPO AND GOOGLE ANALYTICS SNIPPIT]
 
+## Examples
+
+* https://management.cio.gov/ - https://github.com/WhiteHouse/CIOmanagement & https://github.com/WhiteHouse/fitara
+* https://mobile.cio.gov/ - https://github.com/WhiteHouse/mobile-policy
+* https://software.cio.gov/ - https://github.com/WhiteHouse/software-policy
+* https://datacenters.cio.gov/ - https://github.com/WhiteHouse/datacenters
+* https://policy.cio.gov/ - https://github.com/WhiteHouse/cyber-acquisitions
+* https://https.cio.gov/ - https://github.com/GSA/https
+* https://project-open-data.cio.gov/ - https://github.com/project-open-data/project-open-data.github.io
+
 ## We Want Your Feedback
 We encourage your feedback and suggestions on these documents.
