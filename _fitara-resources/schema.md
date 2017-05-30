@@ -38,7 +38,7 @@ The following resources contain helpful tools for working with JSON data format:
 
 * [JSON Schema Validator](http://jsonschemalint.com/draft4/): Using the link to the schema provided on this page, copy and paste the schema text into the window on the left side of the page. Then, copy and paste your valid JSON file in the window on the right. Any errors or missing information will be shown immediately in the space below your JSON file.
 
-* [OFCIO JSON User Guide](/_fitara-resources/schemaexamples/JSON User Guide_v5.pdf)
+* [OFCIO JSON User Guide](https://github.com/ombegov/policy-v2/blob/master/_fitara-resources/schemaexamples/JSON%20User%20Guide_v5.pdf)
 
 ## Agency FITARA Milestones <a id="FITARA"></a>
 
