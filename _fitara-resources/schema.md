@@ -101,9 +101,10 @@ Then, create an entry for each of your agency's FITARA milestones, providing the
 
 ~~~
 
-*[Agency FITARA Milestones JSON Schema File](https://management.cio.gov/schemaexamples/FITARAmilestones_schema.json)*
+*[Agency FITARA Milestones JSON Schema File](/_fitara-resources/schemaexamples/FITARAmilestones_schema.json)*
 
-*[Agency FITARA Milestones JSON Example File](https://management.cio.gov/schemaexamples/FITARAmilestones_exampleFile.json)*
+
+*[Agency FITARA Milestones JSON Example File](/_fitara-resources/schemaexamples/FITARAmilestones_exampleFile.json)*
 
 ## DCOI Strategic Plan Schema <a id="DCOI"></a>
 
@@ -125,7 +126,7 @@ Part **6** of agencies’ DCOI Strategic Plans may be fulfilled using one of the
 
 The DCOI further requires that agencies’ public FITARA Milestones files are updated at their current **[agencyhomepage].gov/digitalstrategy/FITARAmilestones.json** pages to include a minimum of five (5) milestones per fiscal year to be achieved in accordance with the DCOI. The schema and test files associated with the FITARA Milestones collection (located at the top of this webpage) have been updated to reflect this requirement. 
 
-[CIO DCOI Certification Statement Templates](https://management.cio.gov/assets/docs/DCOI_StrategicPlans_part6_cioStatement.docx)
+[CIO DCOI Certification Statement Templates](https://github.com/ombegov/policy-v2/blob/master/_fitara-resources/docs/DCOI_StrategicPlans_part6_cioStatement.docx)
 
 | Field Name                          | Data Type                       | Required? | Notes |
 --------------                        | --------------                  | ----------| --------------
@@ -255,9 +256,9 @@ lifecycleCostSavingsEstimated |  String, 5 - 10000              | Yes      |
 }
 ~~~
 
-*[DCOI Strategic Plan JSON Schema](https://management.cio.gov/schemaexamples/DCOI_StrategicPlans_fy2016Schema.json)*
+*[DCOI Strategic Plan JSON Schema](/_fitara-resources/schemaexamples/DCOI_StrategicPlans_fy2016Schema.json)*
 
-*[DCOI Strategic Plan JSON Example File](https://management.cio.gov/schemaexamples/DCOI_StrategicPlan_fy2016examplefile.json)*
+*[DCOI Strategic Plan JSON Example File](/_fitara-resources/schemaexamples/DCOI_StrategicPlan_fy2016examplefile.json)*
 
 ## Bureau IT Leadership Directory <a id="bureaus"></a>
 Each agency is expected to post a JSON file for their Bureau IT Leadership Directory to the following URL path: [agency.gov]/digitalstrategy/bureaudirectory.json
@@ -307,7 +308,7 @@ Each dataset should include one record for each agency employee with the title o
 }
 ~~~
 
-*[Bureau IT Leadership Directory JSON Schema](https://management.cio.gov/schemaexamples/bureauITLeadershipSchema.json)*
+*[Bureau IT Leadership Directory JSON Schema](/_fitara-resources/schemaexamples/bureauITLeadershipSchema.json)*
 
 ## CIO Governance Board Membership List <a id="governance"></a> 
 
@@ -343,7 +344,7 @@ Include all governance boards the CIO is a member of. Agencies shall keep this l
 }
 ~~~
 
-*[CIO Governance Board Membership JSON Schema](https://management.cio.gov/schemaexamples/governanceBoardSchema.json)*
+*[CIO Governance Board Membership JSON Schema](/_fitara-resources/schemaexamples/governanceBoardSchema.json)*
 
 ## IDC Realized Cost Savings and Avoidance <a id="savings"></a> 
 
@@ -482,6 +483,6 @@ Before the close of the IDC quarter, identifying the JSON dataset as “[Agency]
 }
 ~~~
 
-*[IDC Cost Savings and Avoidance JSON Schema](https://management.cio.gov/schemaexamples/costSavingsAvoidanceSchema.json)*
+*[IDC Cost Savings and Avoidance JSON Schema](/_fitara-resources/schemaexamples/costSavingsAvoidanceSchema.json)*
 
-*[OFCIO JSON User Guide](/schemaexamples/JSON User Guide_v5.pdf)*
+*[OFCIO JSON User Guide](https://github.com/ombegov/policy-v2/blob/master/_fitara-resources/schemaexamples/JSON%20User%20Guide_v5.pdf)*
