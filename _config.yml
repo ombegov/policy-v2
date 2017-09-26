@@ -16,12 +16,12 @@ markdown: kramdown
 # Put the information about your site's GitHub repository if it is public
 repo_url: https://github.com/ombegov/policy-v2
 
-collections: 
+collections:
   overview:
     output: true
     permalink: /:path/
     url: /
-    status: home 
+    status: home
     title: Welcome
     github-label: home
   drafts_overview:
@@ -68,7 +68,7 @@ collections:
     status: finalized
     title: "M-13-13: Open Data Policy— Managing Information as an Asset"
     github-lavel: open-data
-    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf  
+    download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf
   m-17-05-fisma-guidance-2017:
     output: true
     permalink: /fisma-guidance-2017/:path/
@@ -91,20 +91,12 @@ collections:
     status: draft
     title: Improving Cybersecurity Protections in Federal Acquisitions
     github-label: cyber-acquisitions
-  draft-it-modernization:
-    output: true
-    permalink: /it-modernization/:path/
-    url: /it-modernization/
-    status: draft
-    title: IT Modernization
-    github-label: it-modernization
-    download-link: https://github.com/ombegov/policy-v2/raw/gh-pages/assets/PDF/ITMF_Draft.pdf
   policy-schema:
     output: true
     permalink: /policy-schema/:path/
     url: /policy-schema/
     status: draft
-    title: Policy Schema 
+    title: Policy Schema
     github-label: policy-schema
   m-17-06-web-policy:
     output: true
@@ -135,9 +127,9 @@ collections:
     permalink: /rfi/:path/
     url: /rfi/
     status: draft
-    title: "Collaboration Tool Services Request for Information" 
+    title: "Collaboration Tool Services Request for Information"
     github-label: _rfi
-    download-link: https://www.fbo.gov/utils/view?id=ec0dcec83e43485ae9de1ddbac1bdcae 
+    download-link: https://www.fbo.gov/utils/view?id=ec0dcec83e43485ae9de1ddbac1bdcae
   m-17-15-rescissions-identity-management:
     output: true
     permalink: /rescissions-identity-management/:path/
