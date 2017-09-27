@@ -1,3 +1,4 @@
+<!--
 ---
 layout: default
 display_order: 8
@@ -57,3 +58,4 @@ description: "Appendix B – Sample System Information Template"
 *	Please describe your agency’s or components’ recent successes, especially using human centered design, lean, or agile methods to modernize or develop new IT systems.
 *	What is the maturity level of the agency’s governance framework that will ensure proper continued oversight and adjustments to a modernization initiative?
 
+-->
