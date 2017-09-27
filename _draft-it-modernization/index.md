@@ -19,8 +19,3 @@ description: "Introduction"
     <p class="usa-alert-text">The report can be found here: <a href="url">https://itmoderization.cio.gov</a>.  This is a separate  initiative then what was listed in this site.  The public comment period for that initiative has also closed.  </p>
   </div>
 </div>
-
-### M-16-NN - MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES
-
-
-
