@@ -1,3 +1,4 @@
+<!--
 ---
 layout: default
 display_order: 9
@@ -49,3 +50,4 @@ description: "Appendix C – Sample Modernization Profile Template"
 *	How many agency technologists will be required for this work?
 *	How many agency technologists are or will be available for this work?
 *	How many other staff members need to be hired or otherwise obtained?
+-->

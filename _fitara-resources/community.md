@@ -13,6 +13,37 @@ Monthly (previously biweekly) Implementation support meetings are held every fou
 
 ## FITARA Meeting Agendas
 
+**July 26, 2017**
+
+* Updates 
+* Commerce's FITARA Implementation Overview
+* Interior's Joint Certification Process
+* Open Discussion
+
+**June meeting cancelled**
+
+**May 25, 2017**
+
+* Updates 
+* USDA Acquisition Process
+* Open Discussion
+
+**April meeting cancelled**
+
+**March 22, 2017**
+
+* Updates 
+* State IT Workforce Planning
+* CIO Authority
+* What comes after the Common Baseline? 
+* Open Discussion
+
+**February 22, 2017**
+
+* Updates - Feb. 28th IDC, self-assessments due may 31st
+* Federal Acquisition Institute (FAI) Integrated Project Team
+* Open Discussion
+
 **January 25, 2017**
 
 * Updates - PortfolioStats, IDC reporting, IRM

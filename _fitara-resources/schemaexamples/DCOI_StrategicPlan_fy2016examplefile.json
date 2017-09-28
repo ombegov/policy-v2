@@ -1,0 +1,70 @@
+{
+	"optimizationMetrics": {
+		"facilityUtilization": {
+			"fy18OMBtarget": 80.00,
+			"fy16Planned": 75,
+			"fy16Achieved": 79,
+			"fy17Planned": 82,
+			"fy18Planned": 90
+		},
+		"energyMetering": {
+			"fy18OMBtarget": 100.00,
+			"fy16Planned": 	76.5,
+			"fy16Achieved": 79,
+			"fy17Planned": 90,
+			"fy18Planned": 100.00
+		},
+		"pue": {
+			"fy18OMBtarget": 1.50,
+			"fy16Planned": 2,
+			"fy16Achieved": 1.95,
+			"fy17Planned": 1.9,
+			"fy18Planned": 1.42
+		},
+		"virtualization": {
+			"fy18OMBtarget": 4.00,
+			"fy16Planned": 3.5,
+			"fy16Achieved": 4,
+			"fy17Planned": 4.5,
+			"fy18Planned": 5
+		},
+		"tieredServerUtAutoMonitoring": {
+			"fy18OMBtarget": 65.00,
+			"fy16Planned": 45,
+			"fy16Achieved": 50,
+			"fy17Planned": 55,
+			"fy18Planned": 75
+		},
+		"nontieredServerUtAutoMonitoring": {
+			"fy18OMBtarget": 65,
+			"fy16Planned": 44,
+			"fy16Achieved": 50,
+			"fy17Planned": 55,
+			"fy18Planned": 70
+		}
+	},
+	"tieredClosures": {
+		"fy18OMBtarget": 54,
+		"fy16Planned": 35,
+		"fy16Achieved": 36,
+		"fy17Planned": 45,
+		"fy18Planned": 55
+	},
+	"nontieredClosures": {
+		"fy18OMBtarget": 45,
+		"fy16Planned": 12,
+		"fy16Achieved": 20,
+		"fy17Planned": 30,
+		"fy18Planned": 51
+	},
+	"costSavings": {
+		"fy18OMBtarget": 95,
+		"fy16Planned": 78,
+		"fy16Achieved": 79,
+		"fy17Planned": 90,
+		"fy18Planned": 105,
+		"costsOfClosures": "REQUIRED TEXT",
+		"costsOfOptimization": "REQUIRED TEXT",
+		"historicalCostSavings": "REQUIRED TEXT"
+	}
+}

@@ -1,3 +1,4 @@
+<!--
 ---
 layout: default
 display_order: 6
@@ -12,3 +13,4 @@ In addition, GSA will collaborate with agencies to refine relevant criteria and 
 
 Questions regarding this memorandum that cannot be asked on the listserv may be referred to OMB’s Office of the Federal Chief Information Officer at ofcio@omb.eop.gov.
 
+-->

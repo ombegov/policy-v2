@@ -1,0 +1,32 @@
+{
+  "updatedDate": "2016/07/20",
+  "milestones": [
+    {
+      "milestoneID": 1,
+      "milestoneDesc": "Finalize adoption of revised department-wide policy for IT Investment Review Boards",
+      "milestoneTargetCompletionDate": "2016/09/01",
+      "milestoneStatus": "InProgress",
+      "milestoneStatusDesc": "The revised policy is currently under the review of general counsel, expected to clear this stage by the end of May 2016",
+      "commonBaselineArea": "acquisition",
+      "dcoiArea": "nonDataCenter"
+    },
+    {
+      "milestoneID": 2,
+      "milestoneDesc": "Conduct training for department budget officers to share new budget formulation rules including CIO staff",
+      "milestoneTargetCompletionDate": "2016/02/01",
+      "milestoneStatus": "Complete",
+      "milestoneStatusDesc": "65 budget officer staff attended the training, including representatives from 12 agencies.",
+      "commonBaselineArea": "budgetFormulation",
+      "dcoiArea": "nonDataCenter"
+    },
+    {
+      "milestoneID": 3,
+      "milestoneDesc": "Fully install automated monitoring software on all servers in our tiered data center.",
+      "milestoneTargetCompletionDate": "2017/02/01",
+      "milestoneStatus": "InProgress",
+      "milestoneStatusDesc": "Procurement for additional licenses has been finalized with the provider. Installation will begin on-site next month.",
+      "commonBaselineArea": "nonCommonBaseline",
+      "dcoiArea": "optimization"
+    }
+  ]
+}

@@ -96,7 +96,7 @@ collections:
     permalink: /it-modernization/:path/
     url: /it-modernization/
     status: draft
-    title: IT Modernization
+    title: Information Technology Modernization Initiative
     github-label: it-modernization
     download-link: https://github.com/ombegov/policy-v2/raw/gh-pages/assets/PDF/ITMF_Draft.pdf
   policy-schema:
@@ -130,14 +130,6 @@ collections:
     title: "M-16-19: Data Center Optimization Initiative (DCOI)"
     github-label: _m-16-19-dcoi
     download-link: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_19_1.pdf
-  rfi:
-    output: true
-    permalink: /rfi/:path/
-    url: /rfi/
-    status: draft
-    title: "Collaboration Tool Services Request for Information" 
-    github-label: _rfi
-    download-link: https://www.fbo.gov/utils/view?id=ec0dcec83e43485ae9de1ddbac1bdcae 
   m-17-15-rescissions-identity-management:
     output: true
     permalink: /rescissions-identity-management/:path/
@@ -146,4 +138,11 @@ collections:
     title: "M-17-15: Rescission of Memoranda Relating to Identity Management"
     github-label: _m-17-15
     download-link: https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2017/m-17-15.pdf
-
+CYBERDRAFT:
+    output: true
+    permalink: /cyberdraft/:path/
+    url: /cyberdraft/
+    status: draft
+    title: "CYBERDRAFT" 
+    github-label: cyberdraft
+    download-link:  
