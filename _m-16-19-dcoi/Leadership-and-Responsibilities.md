@@ -2,7 +2,7 @@
 layout: default
 display_order: 2
 title: Leadership and Responsibilities 
-permalink: /DCOI/leadership-responsibilities
+permalink: /dcoi/leadership-responsibilities
 description: "Leadership and Responsibilities"
 --- 
 

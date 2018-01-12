@@ -2,7 +2,7 @@
 layout: default
 display_order: 7
 title: Strategic Plan 
-permalink: /strategic-plan/
+permalink: /dcoi/strategic-plan/
 description: "Reporting"
 --- 
 In accordance with FITARA, <sup>[35](35)</sup> beginning in fiscal year 2016, each agency head shall annually publish a Strategic Plan to describe the agency’s consolidation and optimization strategy for fiscal years 2016, 2017, and 2018.  The DCOI Strategic Plan and milestones described below replace existing FDCCI requirements for consolidation plans. 

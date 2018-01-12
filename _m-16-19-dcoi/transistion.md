@@ -2,7 +2,7 @@
 layout: default
 display_order: 4
 title: Transition to Cloud and Data Center Shared Services
-permalink: /transition-to-cloud-datacenter/
+permalink: /dcoi/transition-to-cloud-datacenter/
 description: "Transition"
 --- 
 ## Development Freeze for New and Current Data Centers
