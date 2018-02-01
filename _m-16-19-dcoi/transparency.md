@@ -2,7 +2,7 @@
 layout: default
 display_order: 9
 title: Transparency
-permalink: /transparency/
+permalink: /dcoi/transparency/
 description: "Transparency"
 --- 
 

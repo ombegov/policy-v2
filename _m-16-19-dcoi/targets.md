@@ -2,7 +2,7 @@
 layout: default
 display_order: 6
 title: Metric Target Values
-permalink: /metric-target-values/
+permalink: /dcoi/metric-target-values/
 description: "Transition"
 --- 
 

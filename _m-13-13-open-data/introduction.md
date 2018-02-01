@@ -10,7 +10,7 @@ description:
 ### M-13-13
 
 ### From: Sylvia M. Burwell- Director
-### Steven VanRoeke- Federal Chief Information Officer
+### Steven VanRoekel- Federal Chief Information Officer
 ### Todd Park- U.S. Chief Technology Officer
 ### Dominic J. Mancini- Deputy Administrator, Office of Information and Regulatory Affairs
 

@@ -2,7 +2,7 @@
 layout: default
 display_order: 1
 title: Policy
-permalink: /DCOI/policy/
+permalink: /dcoi/policy/
 description: "Policy"
 --- 
 

@@ -2,7 +2,7 @@
 layout: default
 display_order: 5
 title: Optimization of Physical Data Centers
-permalink: /optimization-of-physical-data-centers/
+permalink: /dcoi/optimization-of-physical-data-centers/
 description: "Optimization"
 --- 
 
