@@ -2,7 +2,7 @@
 layout: default
 display_order: 7
 title: Reporting 
-permalink: /Reporting/
+permalink: /dcoi/reporting/
 description: "Reporting"
 --- 
 

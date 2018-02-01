@@ -2,7 +2,7 @@
 layout: default
 display_order: 10
 title: Community Support
-permalink: /community-support/
+permalink: /dcoi/community-support/
 description: "Community Support"
 --- 
 
