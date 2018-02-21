@@ -11,7 +11,7 @@ description: "Reporting"
 Data will be collected quarterly on an agency-by-agency basis through the IDC, as follows:
 
 1.	Agencies must continue to maintain complete inventories of all data center facilities, closure/consolidation plans, and properties of each facility owned, operated, or maintained by or on behalf of the agency.
-2.	Agencies must include progress toward meeting all optimization metric target values. <sup>[34](34)</sup>
+2.	Agencies must include progress toward meeting all optimization metric target values. <sup>[34](#34)</sup>
 3.	Agencies must evaluate the costs of operating and maintaining current facilities and develop year-by-year targets for cost savings and cost avoidance due to consolidation and optimization for fiscal years 2016 through 2018. Agencies shall report all realized cost savings and cost avoidance under the DCOI.
 
 ***

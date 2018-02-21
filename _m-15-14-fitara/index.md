@@ -380,7 +380,7 @@ In alignment with the Administration’s core IT objectives, PortfolioStat sessi
 
   -- **World-Class Customer Service.** Agencies shall discuss how their portfolio management practices emphasize the customer-centric themes of the U.S. Digital Services Playbook,<sup id="fnref:30"><a href="#fn:30" class="footnote">30</a></sup> OMB’s capital planning and investment control guidance<sup id="fnref:31"><a href="#fn:31" class="footnote">31</a></sup>, and the Smarter IT Cross-Agency Priority (CAP) Goal<sup id="fnref:32"><a href="#fn:32" class="footnote">32</a></sup>. Agencies should describe where in their policies the following are implemented: the Playbook’s “Understand what people need” play, the capital planning guidance requirement for major investments to measure customer satisfaction performance metrics, and the Smarter IT CAP Goal’s focus on improving outcomes and customer satisfaction with Federal services.
 
-  -- **Open Data.** Experts have calculated that the potential economic benefits of open data are in the trillions of dollars<sup id="fnref:33"><a href="#fn:33" class="footnote">33</a></sup>.  The Federal government has made significant strides in opening up data to drive economic growth. Currently there are over 117,000 data sets available on data.gov [http://www.data.gov/](www.data.gov). As a next step, agencies should improve the quality and types of datasets. Agencies should continue to evaluate their enterprise data inventory, conduct outreach to understand the users of their data, improve customer feedback mechanisms, and release datasets—subject to privacy, confidentiality, security, or other valid restrictions.
+  -- **Open Data.** Experts have calculated that the potential economic benefits of open data are in the trillions of dollars<sup id="fnref:33"><a href="#fn:33" class="footnote">33</a></sup>.  The Federal government has made significant strides in opening up data to drive economic growth. Currently there are over 117,000 data sets available on <a href="https://www.data.gov">data.gov</a>. As a next step, agencies should improve the quality and types of datasets. Agencies should continue to evaluate their enterprise data inventory, conduct outreach to understand the users of their data, improve customer feedback mechanisms, and release datasets—subject to privacy, confidentiality, security, or other valid restrictions.
 
   -- **Streamlining reporting.** OMB will continue to seek opportunities to reduce agency burden through revising reporting requirements and improving reporting channels through the ITDB and IDC as well as work with agencies to develop opportunities to improve the timeliness and reliability of reported ITDB data.
 
@@ -809,11 +809,11 @@ _[Return to the Top]()_
 </p>
 </li>
 <li id="fn:11">
-<p>OMB Circular A-11 available at: <a href="https://www.whitehouse.gov/omb/circulars_a11_current_year_a11_toc">https://www.whitehouse.gov/omb/circulars_a11_current_year_a11_toc</a>. OMB IT budget capital planning guidance available at: <a href="https://www.whitehouse.gov/omb/e-gov/strategiesandguides">https://www.whitehouse.gov/omb/e-gov/strategiesandguides</a>.
+<p>OMB Circular A-11 available at: <a href="https://www.whitehouse.gov/omb/circulars_a11_current_year_a11_toc">https://www.whitehouse.gov/omb/circulars_a11_current_year_a11_toc</a>. OMB IT budget capital planning guidance available at: <a href="https://www.whitehouse.gov/omb/management/egov/#A3">https://www.whitehouse.gov/omb/e-gov/strategiesandguides</a>.
 </p>
 </li>
 <li id="fn:12">
-<p>CIO.gov TechStat Toolkit available at: <a href="https://cio.gov/drivingvalue/techstat/browse-toolkit">https://cio.gov/drivingvalue/techstat/browse-toolkit</a>.
+<p>CIO.gov TechStat Toolkit available at: <a href="https://www.cio.gov/fed-it-topics/sustainability-transparency/techstat/browse-toolkit/">https://cio.gov/drivingvalue/techstat/browse-toolkit</a>.
 </p>
 </li>
 <li id="fn:13">

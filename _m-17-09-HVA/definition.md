@@ -6,7 +6,7 @@ permalink: /hva/definition/
 description: "Defintion"
 ---
 
-"High Value Assets"<sup>[2](2)</sup> are those assets, Federal information systems, information, and data for
+"High Value Assets"<sup>[2](#2)</sup> are those assets, Federal information systems, information, and data for
 which an unauthorized access, use, disclosure, disruption, modification, or destruction could
 cause a significant impact to the United States' national security interests, foreign relations,
 economy, or to the public confidence, civil liberties, or public health and safety of the American
