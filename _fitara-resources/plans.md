@@ -45,7 +45,7 @@ permalink: /fitara-resources/plans/
 * [Department of Justice](https://www.justice.gov/digitalstrategy/fitaramilestones.json)	 	 	 	 	 	 	 
 * Department of Labor	 	 	 	 	 	 	 
 * [Department of State](http://www.state.gov/digitalstrategy/fitaramilestones.json)	 	 	 	 	 	 	 
-* [Department of the Interior](https://www.doi.gov/sites/doi.gov/files/fitaramilestones.json)	 	 	
+* [Department of the Interior](https://www.doi.gov/sites/doi.gov/files/uploads/fitaramilestones.json)	 	 	
 * [Department of the Treasury](https://www.treasury.gov/jsonfiles/fitaramilestones.json)	 	 	 	 	 	 	 
 * [Department of Transportation](https://www.transportation.gov/sites/dot.dev/files/docs/fitaramilestones.json)	 	 	 	 	 	 	 
 * [Department of Veterans Affairs](http://www.va.gov/digitalstrategy/fitaramilestones.json)	 	 	 	 	 	 	 

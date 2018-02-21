@@ -11,20 +11,20 @@ Beginning 180 days after issuance of this memorandum, agencies may not budget an
 
 ## Consolidation and Closure of Existing Data Centers
 
-As previously required by the FDCCI, agencies shall continue to principally reduce application, system, and database inventories to essential enterprise levels by increasing the use of virtualization to enable pooling of storage, network and computer resources, and dynamic allocation on-demand.  Thereafter, agencies shall evaluate options for the consolidation and closure of existing data centers,<sup>[11](11)</sup> by (in order of priority):
+As previously required by the FDCCI, agencies shall continue to principally reduce application, system, and database inventories to essential enterprise levels by increasing the use of virtualization to enable pooling of storage, network and computer resources, and dynamic allocation on-demand.  Thereafter, agencies shall evaluate options for the consolidation and closure of existing data centers,<sup>[11](#11)</sup> by (in order of priority):
 
-1.	Transitioning to provisioned services, including configurable and flexible technology such as Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) to the furthest extent practicable, consistent with the Cloud First policy.<sup>[12](12)<sup>
+1.	Transitioning to provisioned services, including configurable and flexible technology such as Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) to the furthest extent practicable, consistent with the Cloud First policy.<sup>[12](#12)<sup>
 2.	Migrating to inter-agency shared services or co-location data centers.
 3.	Migrating to more optimized data centers within the agency’s data center inventory.
 
 ## Cloud Investment
 
-Cloud environments are scalable and allow agencies to provision resources as required, on-demand.<sup>[13](13)</sup> Consistent with the Cloud First policy, agencies shall use cloud infrastructure where possible when planning new mission or support applications or consolidating existing applications. Agencies should take into consideration cost, security requirements, and application needs when evaluating cloud environments. As required by FITARA, agencies utilizing cloud services shall do so in a manner that is consistent with requirements of the Federal Risk and Authorization Management Program (FedRAMP) and National Institute of Standards and Technology (NIST) guidance.<sup>[14](14)</sup>
+Cloud environments are scalable and allow agencies to provision resources as required, on-demand.<sup>[13](#13)</sup> Consistent with the Cloud First policy, agencies shall use cloud infrastructure where possible when planning new mission or support applications or consolidating existing applications. Agencies should take into consideration cost, security requirements, and application needs when evaluating cloud environments. As required by FITARA, agencies utilizing cloud services shall do so in a manner that is consistent with requirements of the Federal Risk and Authorization Management Program (FedRAMP) and National Institute of Standards and Technology (NIST) guidance.<sup>[14](#14)</sup>
 
 
 ### Shared Services Managing Partner
 
-To support the shared services efforts described by this memorandum, the General Services Administration (GSA) Office of Government-wide Policy (OGP) shall serve as the managing partner of the Federal Government’s data center line of business<sup>[15](15)</sup> and data center shared services. OGP, in consultation with the Unified Shared Services Management office, shall establish and maintain a data center shared services marketplace and coordinate shared services for inter-agency consumption by:
+To support the shared services efforts described by this memorandum, the General Services Administration (GSA) Office of Government-wide Policy (OGP) shall serve as the managing partner of the Federal Government’s data center line of business<sup>[15](#15)</sup> and data center shared services. OGP, in consultation with the Unified Shared Services Management office, shall establish and maintain a data center shared services marketplace and coordinate shared services for inter-agency consumption by:
 
 * Coordinating with OMB to define qualifying operating standards for inter-agency shared services providers, creating guidance materials for becoming such a provider, and identifying and approving candidate providers.
 * Maintaining and monitoring inter-agency shared services provider operating standards.
