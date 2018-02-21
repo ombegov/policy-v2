@@ -19,6 +19,6 @@ FISMA and OMB Circular A-130 require each Federal Agency to develop, document, a
 #### *Footnotes* 
 <a name="myfootnote1">19</a>:44 U.S.C. § 3554(b) 
 
-<a name="myfootnote12">20</a>: [https://www.whitehouse.gov/omb/circulars_default/](https://www.whitehouse.gov/omb/circulars_default/), [https://www.whitehouse.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf](https://www.whitehouse.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf), [http://csrc.nist.gov/publications](http://csrc.nist.gov/publications)
+<a name="myfootnote12">20</a>: [https://www.whitehouse.gov/omb/circulars_default/](https://www.whitehouse.gov/omb/circulars/), [https://www.whitehouse.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf](https://www.whitehouse.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf), [http://csrc.nist.gov/publications](http://csrc.nist.gov/publications)
 
 <a name="myfootnote12">21</a>: [https://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2008/m08-23.pdf](https://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2008/m08-23.pdf) 

@@ -85,9 +85,9 @@ OMB will provide a high-level summary of agency incident data in the Annual FISM
 
 <a name="myfootnote1">10</a>: Level 3 (orange) or higher on the Cyber Incident Severity Schema, which includes a Level 4 event (red) defined  as one that is "likely to result in a significant impact to public health or safety, national security, economic security, foreign relations, or civil liberties," and a Level 5 event (black), defined as one that "poses an imminent threat to the provision of wide-scale critical infrastructure services, national government stability, or the lives of US persons."
 
-<a name="myfootnote1">11</a>: [https://www.us-cert.gov/NCCIC-Cyber-lncident-Scoring-System.](https://www.us-cert.gov/NCCIC-Cyber-lncident-Scoring-System.)
+<a name="myfootnote1">11</a>: [https://www.us-cert.gov/NCCIC-Cyber-lncident-Scoring-System.](https://www.us-cert.gov/NCCIC-Cyber-Incident-Scoring-System)
 
-<a name="myfootnote1">12</a>: [https://www.whitehouse.gov/the-press-office/2016/07126/presidential-polcy-directive-united-states-cyberincident](https://www.us-cert.gov/NCCIC-Cyber-lncident-Scoring-System.) 
+<a name="myfootnote1">12</a>: [https://www.whitehouse.gov/the-press-office/2016/07126/presidential-polcy-directive-united-states-cyberincident](https://obamawhitehouse.archives.gov/the-press-office/2016/07/26/presidential-policy-directive-united-states-cyber-incident) 
 
 <a name="myfootnote1">13</a>: The analysis for reporting a major breach to Congress is distinct and separate from the assessment of the potential
 risk of harm to individuals resulting from a suspected or confirmed breach. When assessing the potential risk of harm to individuals, agencies should refer to OMB's guidance on preparing for and responding to a breach of PII. 

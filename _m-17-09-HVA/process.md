@@ -46,7 +46,7 @@ The following criteria should be used by agencies as additional inputs to their 
 
 * Adversary and criminal interest;
 * Nature and sensitivity of Federal information processed, stored, or otherwise utilized by the HVA;
-* Whether the HVA contains Controlled Unclassified Information (CUI),<sup>[7](7)</sup> particularly one or more of the following:
+* Whether the HVA contains Controlled Unclassified Information (CUI),<sup>[7](#7)</sup> particularly one or more of the following:
 	* PII on agency employees or customers;
 	* CUI used for traveler/cargo vetting or other law enforcement purposes; 
 	* Proprietary information; and
@@ -81,7 +81,7 @@ All Federal agencies are responsible for keeping their internal HVA lists up-to-
 __Pre-Assessment__
 In addition to the standard processes agencies must use for all information systems, to include tailoring security and privacy controls following the selection of the appropriate baseline (commiserate with NIST SP 800-53), agencies must prepare the HVA for assessment and ensure appropriate protections are in place by completing the steps listed below:
 
-* *Implement and validate security controls* -Per the direction of Binding  Operational Directive (BOD) 16-01,<sup>[9](9)</sup> and using the security engineering principles, concepts, and techniques in [NIST SP 800- 160, Considerations for a Multidisciplinary Approach  in the  Engineering of Trustworthy Secure Systems,](http://csrc.nist.gov/publications/drafts/800-160/sp800_160_second-draft.pdf) agencies must implement the following security activities for all HVAs:
+* *Implement and validate security controls* -Per the direction of Binding  Operational Directive (BOD) 16-01,<sup>[9](#9)</sup> and using the security engineering principles, concepts, and techniques in [NIST SP 800- 160, Considerations for a Multidisciplinary Approach  in the  Engineering of Trustworthy Secure Systems,](http://csrc.nist.gov/publications/drafts/800-160/sp800_160_second-draft.pdf) agencies must implement the following security activities for all HVAs:
 	* Secure configuration management;
 	* Increased phishing awareness training and testing of personnel with access to HV.A.s;
 	* Continual validation of strict access controls, including multifactor authentication;
@@ -94,12 +94,12 @@ In addition to the standard processes agencies must use for all information syst
 	* Maintenance of 100% automated asset visibility and control.
 * *Identify system dependencies and interdependencies* -Agencies must identify the connections between HVAs and other systems, including other HVAs and non-HVAs, to understand critical dependencies.
 * *Conduct security assessments of HVAs* - After validation of security controls and identification of dependencies and interdependences at the identified HV.A.s, the agency, in coordination with OMB and DHS, shall create and implement a plan for prioritizing and conducting assessments.
-* *Ensure appropriate agreements with DHS or independent third-party assessment providers are in place to facilitate timely and comprehensive assessments* - A.11 CFO .Act agencies are required to participate in the HVA initiative and ensure all required legal agreements are signed and in place with DHS prior to commencement of assessment work.<sup>[10](10)</sup> This includes having a valid and signed standing Federal Network Authorization (F.N.A.) and a Rules of Engagement (ROE) in place with DHS consistent with [OMB M-16-03.](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m-16-03.pdf)(<sup>[11](11)</sup> In addition, all Federal Executive Branch agencies are encouraged to follow these procedures.
+* *Ensure appropriate agreements with DHS or independent third-party assessment providers are in place to facilitate timely and comprehensive assessments* - A.11 CFO .Act agencies are required to participate in the HVA initiative and ensure all required legal agreements are signed and in place with DHS prior to commencement of assessment work.<sup>[10](#10)</sup> This includes having a valid and signed standing Federal Network Authorization (F.N.A.) and a Rules of Engagement (ROE) in place with DHS consistent with [OMB M-16-03.](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m-16-03.pdf)(<sup>[11](11)</sup> In addition, all Federal Executive Branch agencies are encouraged to follow these procedures.
 
 All agencies are responsible for the ongoing assessment and authorization of their systems to ensure accuracy of information pertaining to the security posture of their HVAs.  Agencies should leverage the results of security audits and voluntary third party assessments to ensure that HVAs are assessed on a regular basis.  Following the assessments, DHS or, alternatively, an independent third party assessment organization will provide specific findings and recommendations and will work with agencies to develop a remediation plan to address findings discovered during the assessment.   Agencies must ensure that the independent third party assessment findings and recommendations are provided to DHS in a timely manner. In addition to including appropriate confidentiality and data handling requirements in any agreements with independent third party assessors, agencies must ensure that relevant agreements with independent third party assessors specify that the agency is the sole owner of all agency information collected by the third party and such information and any derivative work, including notes and working documents, must be returned to the agency.
 
 __Assessment Process__
-HVA assessments will focus on the agency's assets, systems, information, data, and datasets as prioritized by the agency and will be reviewed by DHS in coordination with OMB.  These assessments will not replace existing cybersecurity assessment programs for the agency. Agencies may work with DHS to receive comprehensive assessment services or may, and are encouraged to, procure similar HVA risk management services from commercial providers, so long as such services meet the DBS-established baseline requirements of the newly developed Highly Adaptive Cybersecurity Services (HACS) Special Item Numbers (SINs) on GSA's IT Schedule 70.<sup>[12](12)</sup>
+HVA assessments will focus on the agency's assets, systems, information, data, and datasets as prioritized by the agency and will be reviewed by DHS in coordination with OMB.  These assessments will not replace existing cybersecurity assessment programs for the agency. Agencies may work with DHS to receive comprehensive assessment services or may, and are encouraged to, procure similar HVA risk management services from commercial providers, so long as such services meet the DBS-established baseline requirements of the newly developed Highly Adaptive Cybersecurity Services (HACS) Special Item Numbers (SINs) on GSA's IT Schedule 70.<sup>[12](#12)</sup>
 
 HVA assessment activities include:
 
@@ -114,7 +114,7 @@ HVA assessment activities include:
 #### REMEDIATE:
 The agency must complete its remediation plan expeditiously and should treat it as a priority.  The remediation plan must include actions, milestones, and timelines for remediating the weaknesses or deficiencies identified in the assessment's findings.  This plan should be validated by the CISO, CIO, CFO, SAOP (if the HVA contains PII), and CAO, and it should conform with DHS reporting requirements, including BOD 16-01 or any successor document for timely status updates.
 
-Agencies should work with their budget offices and governance structures to ensure that potential remediation strategies are in alignment with the organization's broader cybersecurity risk-based budgeting plan outlined in the Capital Planning and Investment Control (CPIC) process. <sup>[13](13)</sup>
+Agencies should work with their budget offices and governance structures to ensure that potential remediation strategies are in alignment with the organization's broader cybersecurity risk-based budgeting plan outlined in the Capital Planning and Investment Control (CPIC) process. <sup>[13](#13)</sup>
 
 *** 
 
@@ -139,11 +139,11 @@ Agencies should work with their budget offices and governance structures to ensu
 
 <a name="6">6</a> There is no minimum FIPS categorization for a system to be considered an HVA, as FIPS ratings are only one factor to consider in the identification and prioritization process. 
 
-<a name="7">7</a> Per [Executive Order CEO) 13556. Controlled Unclassified information](https://www.whitehouse.gov/the-press-office/2010/11/04/executive-order-13556-controlled-unclassified-information), Controlled Unclassified Information is information that requires safeguarding or dissemination controls pursuant to and consistent with law, regulations, and government-wide policies, excluding information that is classified under [EO 13526, Classified National Security Information](https://www.whitehouse.gov/the-press-office/executive-order-classified-national-security-information), of December 29, 2009, or the Atomic Energy Act (P.L. 83-703), as amended. 
+<a name="7">7</a> Per [Executive Order CEO) 13556. Controlled Unclassified information](https://www.whitehouse.gov/the-press-office/2010/11/04/executive-order-13556-controlled-unclassified-information), Controlled Unclassified Information is information that requires safeguarding or dissemination controls pursuant to and consistent with law, regulations, and government-wide policies, excluding information that is classified under [EO 13526, Classified National Security Information](https://www.gpo.gov/fdsys/pkg/CFR-2010-title3-vol1/pdf/CFR-2010-title3-vol1-eo13526.pdf), of December 29, 2009, or the Atomic Energy Act (P.L. 83-703), as amended. 
 
 <a name="8">8</a> Per 31 U.S.C § 90l(b), as amended, the current CFO Act agencies include the Departments ofAgriculture, Commerce, Defense, Education, Energy, Health and Human Services, Homeland Security, Housing and Urban Development, Interior, Justice, Labor, State, Transportation, the Treasury, Veterans Affairs, Environment Protection Agency, General Services Administration, National Aeronautics and Space Administration, National Science Foundation, Office ofPersonnel Management, Small Business Administration, Social Security Administration, U.S. Agency for International Development, and U.S. Nuclear Regulatory Commission. 
 
-<a name="9">9</a> Published BODs are available to OMB MAX Executive Branch users at [community.max.gov/x/RJQ5JQ](community.max.gov/x/RJQ5JQ)
+<a name="9">9</a> Published BODs are available to OMB MAX Executive Branch users at [community.max.gov/x/RJQ5JQ](community.max.gov/x/RJQ5JQ) Federal login required. 
 	
 <a name="10">10</a> The ROE establish the guidelines and agreement between DHS and the agency, authorizing DHS, typically through DHS's National Cybersecurity Assessment and Technical Services (NCATS) to conduct RVAs on the agency's networks. 
 

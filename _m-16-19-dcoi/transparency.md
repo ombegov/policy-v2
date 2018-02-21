@@ -6,7 +6,7 @@ permalink: /dcoi/transparency/
 description: "Transparency"
 --- 
 
-Under FITARA,<sup>[36](37)</sup> OMB must make publicly available agencies’ progress toward the goals established herein and relative to agencies’ Strategic Plans. 
+Under FITARA,<sup>[36](#37)</sup> OMB must make publicly available agencies’ progress toward the goals established herein and relative to agencies’ Strategic Plans. 
 
 To this end, beginning in 2016, OMB will report on government-wide and agency-specific data center progress as part of the IT Dashboard, which will display:
 	
