@@ -8,7 +8,7 @@ permalink: /fitara-resources/policy/
 Templates, resources and guidance to help agencies implement FITARA
 
 ## Guidance 
-* [OMB Memorandum M-15-14: Management and Oversight of Federal Information Technology](/implementation/#OMB-Memorandum-M-15-14) [[Download PDF]](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf)
+* [OMB Memorandum M-15-14: Management and Oversight of Federal Information Technology](https://management.cio.gov/implementation)
 
 * [FITARA Implementation Guidance](/implementation)
 
@@ -16,7 +16,7 @@ Templates, resources and guidance to help agencies implement FITARA
 
 * [Frequently Asked Questions (FAQs)](/faq)
 
-* [Management.cio.gov Schema](/schema) 
+* [Management.cio.gov Schema](https://management.cio.gov/schema/) 
 
 * [April 30th Update Guidance and Template](/assets/docs/April FITARA Update Guidance and Template.docx)
 
@@ -33,7 +33,7 @@ Templates, resources and guidance to help agencies implement FITARA
 
 * [ACT-IAC FITARA Management Maturity Model](https://actiac.org/groups/document/fitara-it-management-maturity-model)
 
-* [TechStat Toolkit](https://cio.gov/drivingvalue/techstat/browse-toolkit/)
+* [TechStat Toolkit](https://www.cio.gov/fed-it-topics/sustainability-transparency/techstat/browse-toolkit/)
 
 ## IT Workforce Resources 
 Resources to support agencies in developing and maintaining a skilled IT workforce (see section P in the [Common Baseline](/implementation/#Attachment-A)).

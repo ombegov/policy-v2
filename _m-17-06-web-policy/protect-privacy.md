@@ -85,7 +85,7 @@ A privacy notice must be provided, whenever feasible, where a Privacy Act statem
 #### ***Footnotes***
 <a name="myfootnote1">14</a>: Examples of privacy reports include, but are not limited to, annual matching activity reports submitted pursuant to the Privacy Act and reports submitted pursuant to Section 552 of the Consolidated Appropriations Act of 2005, Section 803 of the Implementing Recommendations of the 9/11 Commission Act of 2007, and the Federal Agency Data Mining Reporting Act of 2007.
 
-<a name="myfootnote1">15</a>: [https://www.whitehouse.gov/omb/memoranda_m99-18/](https://www.whitehouse.gov/omb/memoranda_m99-18/) 
+<a name="myfootnote1">15</a>: [https://www.whitehouse.gov/omb/memoranda_m99-18/](https://georgewbush-whitehouse.archives.gov/omb/memoranda/m99-18.html) 
 
 <a name="myfootnote1">16</a>: [http://www.business.ftc.gov/privacy-and-security/childrens-privacy](http://www.business.ftc.gov/privacy-and-security/childrens-privacy)
 

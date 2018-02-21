@@ -17,7 +17,7 @@ The requirements in this memorandum apply to all CFO Act agencies,<sup>[5](#myfo
  
 #### *Footnotes*
 
-<a name="myfootnote1">4</a> Federal Information Technology Shared Services Strategy, May 2, 2012, [https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/shared_services_strategy.pdf.](https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/shared_services_strategy.pdf.)
+<a name="myfootnote1">4</a> <a href="https://www.dhs.gov/sites/default/files/publications/digital-strategy/shared-services-strategy.pdf">Federal Information Technology Shared Services Strategy, May 2, 2012</a>
 
 <a name="myfootnote1">5</a> See Chief Financial Officers Act of 1990, Pub. L. No. 101–576.
 
