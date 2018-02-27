@@ -142,5 +142,12 @@ collections:
     url: /rescissions-identity-management/
     status: finalized
     title: "M-17-15: Rescission of Memoranda Relating to Identity Management"
-    github-label: _m-17-15
+    github-label: _m-17-15s
     download-link: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-15.pdf
+  MGT:
+    output: true
+    permalink: /MGT/:path/
+    url: /modernizing-government-technology/
+    status: finalized
+    title: "Implementation of the Modernizing Government Technology Act"
+    github-label: _MGT
