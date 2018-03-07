@@ -10,12 +10,16 @@ description: "Technology Modernization Fund Board Members"
 
 ### 1. Chair - Permanent Member
 
+<img src="https://github.com/ombegov/policy-v2/raw/boardmembers/assets/img/suzettekent.jpg" width="300">
+
 #### Suzette Kent, Federal CIO, Office of Management and Budget
 
 Suzette Kent is an industry leader in large-scale business transformation using technology for the world’s most complex organizations. Before taking the role of Federal CIO, Suzette served as a principal at EY, partner at Accenture, consulting president at Carreker Corporation, and Managing Director at JPMorgan. Although technology change has been at the core of her professional career, retooling the workforce and creating new opportunities for people has been an essential element of efforts that she has led. Ms. Kent has served as an enterprise leader for organizational learning, diversity and inclusiveness, and career development at every organization at which she has worked. She is a frequent speaker in global industry forums, publisher of thought leadership pieces, and holds patents in banking processes.
 
 ### 2. Senior Tech Official from GSA - Permanent Member
 _Appointed on September 15, 2017_
+
+<img src="https://github.com/ombegov/policy-v2/raw/boardmembers/assets/img/alanthomas.jpg" width="300">
 
 #### Alan Thomas, Commissioner of the Federal Acquisition Service, GSA
   
@@ -28,6 +32,8 @@ Thomas holds a Master in Business Administration from Carnegie Mellon University
 ### 3. Cybersecurity Official from DHS - Permanent Member
 _Appointed on October 1, 2017_
 
+<img src="https://github.com/ombegov/policy-v2/raw/boardmembers/assets/img/markkneidinger.jpg" width="300">
+
 #### Mark Kneidinger, Director of Federal Network Resilience, DHS National Programs and Protection Directorate
 
 **Highlighted Expertise: Cybersecurity**
@@ -35,6 +41,8 @@ Mark Kneidinger is the Director of the Federal Network Resilience (FNR) Division
 
 
 ### 4. Team Board Members
+
+<img src="https://github.com/ombegov/policy-v2/raw/boardmembers/assets/img/mattcutts.jpg" width="300">
 
 #### Matt Cutts, Acting Administrator, U.S. Digital Service, OMB
 
@@ -44,6 +52,8 @@ USDS was established in 2014 to tackle the federal government’s most critical 
 USDS has hired over 200+ individuals to serve for limited tours of duty in government to work toward this transformation. USDS talent ranges from Silicon Valley engineers who hail from more than 50 top technology companies to professional ‘bureaucracy hackers’ from within the Government and experienced procurement specialists.
 Before Google, Matt worked on his Ph.D. in computer graphics at the University of North Carolina at Chapel Hill. He holds an M.S. from UNC-Chapel Hill, and B.S. degrees in both mathematics and computer science from the University of Kentucky.
 
+<img src="https://github.com/ombegov/policy-v2/raw/boardmembers/assets/img/mariaroat.jpg" width="300">
+
 #### Maria Roat, Chief Information Officer, Small Business Administration
 
 **Highlighted Expertise: Technical Development, Technical Engineering, Technical Oversight, Cybersecurity**
@@ -52,7 +62,9 @@ Ms. Roat served more than 2 years as the U.S. Department of Transportation Chief
 Ms. Roat served 10 years at the Department of Homeland Security (DHS) joining in June 2004, in a number of capacities including Federal Risk Management and Authorization Program (FedRAMP) Director, FEMA Deputy CIO, Chief of Staff for the DHS CIO, USCIS Chief Information Security Officer and CIO Chief of Staff, and Deputy Director, Technology Development, for TSA’s Secure Flight Program.
 Ms. Roat retired from the U.S. Navy in 2007, with 26 years of active duty and reserve service, in which she obtained the rank of Master Chief Petty Officer, Information Systems Technician. Ms. Roat served in numerous leadership positions including Command Master Chief for the Reserve Intelligence Area Washington (2002-2005) and the Center for Navy Leadership Mid-Atlantic (2005-2007).
 Ms. Roat is a graduate of the University of Maryland (UMUC), Harvard Business School Executive Education Program for Leadership Development, and the Navy Senior Enlisted Academy.
- 
+
+<img src="https://github.com/ombegov/policy-v2/raw/boardmembers/assets/img/rajivemathur.png" width="300">
+
 #### Rajive Mathur, Chief Information Officer & Deputy Commissioner, Systems, Social Security Administration
 
 **Highlighted Expertise: Human Centered Design, Technology Engineering, Technology Oversight**
@@ -61,6 +73,8 @@ Rajive has expertise as a senior government and private sector executive driving
 Throughout his career, Rajive has had the privilege of working with large, consumer-facing brands where he has combined his passion for business with a focus on the customer and technology. He held senior positions at Fidelity Investments, AOL, eCompanies Evercore Ventures, as well as start-ups including Careers After Combat, a veteran-oriented training technology firm and Lycos, a web search pioneer. Rajive has served as a board member, observer, investor or advisor for various Internet early-stage companies. 
 Rajive has been invited to speak at public events related to customer experience, digital transformation, and big data. He has provided expertise to other federal agencies and to international tax agencies such as Australia, New Zealand, India, UK and represented the US at the OECD Forum for Tax Administration. Rajive served on the White House Core Federal Customer Service Council, a group of senior agency officials with operational responsibility for delivering citizen services. 
 Rajive has undergraduate and graduate engineering degrees from Northeastern University and RPI, and an MBA from the Wharton School of Business. Outside of professional activities, Rajive serves on the Board of Columbia Lighthouse for the Blind, a non-profit organization that provides advocacy and service for the visually-impaired and blind. Rajive lives in the DC area with his wife and family. 
+
+<img src="https://github.com/ombegov/policy-v2/raw/boardmembers/assets/img/charlesworthington.png" width="300">
 
 #### Charles Worthington, Chief Technology Officer, Department of Veterans Affairs
 
@@ -71,6 +85,8 @@ Prior to joining VA in May 2017, Charles helped create the U.S. Digital Service.
 
 ### 5. Potential Alternates
 
+<img src="https://github.com/ombegov/policy-v2/raw/boardmembers/assets/img/margiegraves.jpg" width="300">
+
 #### Margie Graves, Deputy Federal CIO, Office of Management and Budget
 
 **Highlighted Expertise: Technical Oversight, Acquisition, Financial Management, Cybersecurity**
@@ -80,11 +96,15 @@ Prior to her selection as Deputy CIO, she was the Executive Director of the Ente
 Margie has private sector experience in the management consulting industry, where she held executive positions and also performed consulting engagements for clients. She has experience in the areas of systems engineering, business process reengineering, strategic planning, financial management, mergers and acquisitions and venture capital planning. She worked for several firms in the National Capital Region such as Technology Applications, Inc., Advanced Technology, Inc., and Planning and Research Corporation. She dedicated 10 years with A.T. Kearney, Inc. working for clients in the chemical, utility and medical services industries, as well as holding positions in financial and administrative management. 
 She holds a M.B.A. from the University of Virginia Darden School of Business and a B.S. in Chemistry from the University of Virginia.
 
+<img src="https://github.com/ombegov/policy-v2/raw/boardmembers/assets/img/grantschneider.jpg" width="300">
+
 #### Grant Schneider, Acting Federal Chief Information Security Officer, Office of Management and Budget and Senior Director for Cybersecurity Policy, National Security Council
 
 **Highlighted Expertise: Cybersecurity, Technical Engineering, Technical Oversight**
 Grant Schneider serves as the Acting Federal Chief Information Security Officer and Senior Director for Cybersecurity Policy on the National Security Council Staff. In these roles, Mr. Schneider leads teams of cybersecurity experts who develop and oversee implementation of crosscutting policies to enhance the Nation’s cybersecurity. 
  Mr. Schneider played an instrumental role in the government-wide response to the OPM cybersecurity incidents in 2014 and 2015. Prior to joining the White House as Cybersecurity Adviser to the Federal Chief Information Officer in 2015, Mr. Schneider served for seven years as the Defense Intelligence Agency’s CIO. Mr. Schneider is an avid sailor and enjoys a quiet moment on the Chesapeake Bay, when he can find one. 
+
+<img src="https://github.com/ombegov/policy-v2/raw/boardmembers/assets/img/eringianchandani.jpg" width="300">
 
 #### Dr. Erwin Gianchandani, Deputy Assistant Director for Computer and Information Science and Engineering, National Science Foundation
 
@@ -92,6 +112,8 @@ Grant Schneider serves as the Acting Federal Chief Information Security Officer 
 Dr. Erwin Gianchandani is the National Science Foundation (NSF) Deputy Assistant Director for Computer and Information Science and Engineering (CISE). In this role, he contributes to all aspects of the management of the CISE directorate, including strategic and human capital planning, formulation and implementation of the directorate’s more than $900 million annual budget, and oversight of day-to-day operations. In the last several years, he has led the development, launch, and implementation of several new NSF investment areas, including Smart & Connected Communities and Platforms for Advanced Wireless Research.
 Previously, Dr. Gianchandani served as the Deputy Division Director for the CISE Division of Computer and Network Systems (CNS). Before joining NSF in 2012, he was the inaugural Director of the Computing Community Consortium (CCC), providing leadership to the computing research community in identifying and pursuing audacious, high-impact research directions. Prior to that, he was the Director of Innovation Networking at the University of Virginia, reporting to the university’s Vice President for Research.
 Dr. Gianchandani has published extensively and presented at numerous international conferences on the subject of computational systems modeling of biological networks, with the goal of better understanding disease mechanisms and identifying therapeutic targets. Dr. Gianchandani earned his Ph.D. and M.S. in biomedical engineering and his B.S. in computer science from the University of Virginia.
+
+<img src="https://github.com/ombegov/policy-v2/raw/boardmembers/assets/img/scottblackburn.jpg" width="300">
 
 #### Scott Blackburn, Acting Chief Information Officer, Department of Veterans Affairs
 
@@ -102,6 +124,8 @@ Mr. Blackburn was appointed Executive-in-Charge and Acting CIO for the Departmen
 Mr. Blackburn comes from a family with a strong traditional of military service. All four of his sibling are veterans, and he served in the Army from 1999 to 2003 as an Armor and Signals Corps Officer. Mr. Blackburn is a veteran of Operation Enduring Freedom and Operation Anaconda in Afghanistan.
 Medically discharged after a non-combat-related back injury in Kuwait, Mr. Blackburn is a beneficiary of VA’s Vocational Rehabilitation Program that facilitates a smooth transition from uniform to university. Mr. Blackburn has a Mechanical Engineering degree from Massachusetts Institute of Technology and a MBA from Harvard Business School. 
 Born in Concord, Massachusetts, Mr. Blackburn is particularly proud that he was raised in the coastal town of Scituate, popularly known as the Irish Riviera.
+
+<img src="https://github.com/ombegov/policy-v2/raw/boardmembers/assets/img/darrenash.jpg" width="300">
 
 #### Darren Ash, Chief Information Officer, Farm Service Agency, U.S. Department of Agriculture
 
