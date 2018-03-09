@@ -151,3 +151,10 @@ collections:
     status: finalized
     title: "Implementation of the Modernizing Government Technology Act"
     github-label: _MGT
+  identity-draft:
+    output: true
+    permalink: /identity-draft/:path/
+    url: /identity-draft/
+    status: draft
+    title: "Identity Policy"
+    github-label: _identitydraft
