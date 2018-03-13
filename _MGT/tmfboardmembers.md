@@ -22,8 +22,6 @@ Suzette Kent is an industry leader in large-scale business transformation using 
 
 #### Alan Thomas, Commissioner of the Federal Acquisition Service, GSA
   
-**Highlighted Expertise: Technical Oversight, Acquisition, Financial Management, Technical Engineering**
-
 Alan B. Thomas Jr. was sworn in as Commissioner for the U.S. General Services Administration’s Federal Acquisition Service on June 26, 2017.  In this position, he oversees the delivery of more than $50 billion of products, services and solutions that save taxpayer dollars and enable federal agencies to accomplish their missions as efficiently as possible.
 
 Thomas comes to GSA with more than 20 years of experience in both industry and government.  He most recently served as a vice president with Artlin Consulting where he worked to build the processes and infrastructure to compete for, win, and deliver large federal programs through government-wide contract vehicles.  Prior to Artlin, he was the chief operating officer at Berico Technologies.  During Thomas’ time with the company contract backlog grew to more than $120 million and the firm captured two of the largest contracts in company history, a $71 million cloud services contract and a $34 million application development contract.
@@ -38,8 +36,6 @@ Thomas holds a Master in Business Administration from Carnegie Mellon University
 
 #### Mark Kneidinger, Director of Federal Network Resilience, DHS National Programs and Protection Directorate
 
-**Highlighted Expertise: Cybersecurity**
-
 Mark Kneidinger is the Director of the Federal Network Resilience (FNR) Division, within the Department of Homeland Security’s Office of Cybersecurity & Communications. In this position, Mr. Kneidinger leads FNR’s activity in representing CS&C Cyber Programs to all 125 Executive Branch Departments & Agencies driving change in cybersecurity risk management across the federal government, working in collaboration with OMB, NSC, the CIO Council and individual agency CIOs and CISOs. Prior to joining DHS, Mr. Kneidinger held IT Executive leadership positions in the commercial sector of Fortune 100 Corporations, including roles as CTO, Vice President and Managing Partner. Mr. Kneidinger has further held Chief Information Officer (CIO) positions in New York and Virgi	nia as well as served as a White House appointee in the position of Deputy Assistant Administrator and CIO for the U.S. Agency for International Development (USAID).
 
 
@@ -49,7 +45,6 @@ Mark Kneidinger is the Director of the Federal Network Resilience (FNR) Division
 
 #### Matt Cutts, Acting Administrator, U.S. Digital Service, OMB
 
-**Highlighted Expertise: Development Operations, Technical Engineering, Technical Oversight, Human Centered Design**
 Matt Cutts joined the US Digital Service (USDS) in June 2016 and became Acting Administrator in January 2017. Before that, Matt ran the webspam team in Google search for over a decade. He also wrote the initial version of SafeSearch, Google’s family filter.
 
 USDS was established in 2014 to tackle the federal government’s most critical public-facing digital services. From veterans receiving appeals responses in a timely manner to citizens accessing more government services online thanks to secure identity proofing, USDS is focused not only on improving how the American people can interact with their government online, but on transforming that experience to help build the public’s trust in government.
@@ -61,8 +56,6 @@ Before Google, Matt worked on his Ph.D. in computer graphics at the University o
 <img src="/assets/img/technology-modernization-board/MR.jpg">
 
 #### Maria Roat, Chief Information Officer, Small Business Administration
-
-**Highlighted Expertise: Technical Development, Technical Engineering, Technical Oversight, Cybersecurity**
 
 Maria A. Roat became the Small Business Administration (SBA) Chief Information Officer (CIO) in October 2016 bringing 30 years of professional experience in information technology.
 
@@ -78,8 +71,6 @@ Ms. Roat is a graduate of the University of Maryland (UMUC), Harvard Business Sc
 
 #### Rajive Mathur, Chief Information Officer & Deputy Commissioner, Systems, Social Security Administration
 
-**Highlighted Expertise: Human Centered Design, Technology Engineering, Technology Oversight**
-
 Rajive Mathur serves as the SSA’s Chief Information Officer and Deputy Commissioner for Systems where he leads all technology-related activities in support of SSA’s mission to serve over 65 million beneficiaries for the Old Age, Survivor, and Disability Insurance and Supplemental Security Income programs. To succeed in this critical role, Rajive depends on guiding principles that include a customer-centric view, a focus on people, and basic business sensibilities when delivering public-facing technologies. 
 
 Rajive has expertise as a senior government and private sector executive driving large-scale transformation and handling highly complex and public-facing issues in a complex operating environment while driving innovation and change. Prior to joining SSA, Rajive led the IRS’s Office of Online Services, where he had cross-enterprise responsibility for leading business transformation and the digital channel via IRS.gov. Under his leadership as the de facto Chief Digital Officer, IRS developed and commenced implementation of an omni-channel customer service approach and a multi-year modernization roadmap. For American taxpayers, tax professionals, and software providers, future IRS service options will provide easy-to-use and secure tools that will change the way that users interact with the nation’s tax system. 
@@ -94,8 +85,6 @@ Rajive has undergraduate and graduate engineering degrees from Northeastern Univ
 
 #### Charles Worthington, Chief Technology Officer, Department of Veterans Affairs
 
-**Highlighted Expertise: Technology Engineering, Development Operations, Human Centered Design**
-
 Charles Worthington is a software developer and product designer who has been helping the government adopt modern digital service delivery best practices since 2013. He is currently serving as the Chief Technology Officer at the VA, where he is working to improve the experience Veterans have when interacting with VA online. Since joining VA in May 2017, he has guided VA’s Digital Modernization initiative. His efforts include the development of the agency’s Digital Strategy, supporting VA’s adoption of commercial cloud infrastructure, spearheading enhancements to the agency’s online appointment scheduling tools, and supporting the development Vets.gov – VA’s modern customer-facing platform.
 
 Prior to joining VA in May 2017, Charles helped create the U.S. Digital Service. Charles is the co-author of the Digital Services Playbook and executed digital service engagements at USCIS, SBA, DOT, and Interior. Before his federal service, Charles built products for private sector clients and was a strategy consultant in the tech & telecom sectors.
@@ -105,8 +94,6 @@ Prior to joining VA in May 2017, Charles helped create the U.S. Digital Service.
 <img src="/assets/img/technology-modernization-board/MG.jpg">
 
 #### Margie Graves, Deputy Federal CIO, Office of Management and Budget
-
-**Highlighted Expertise: Technical Oversight, Acquisition, Financial Management, Cybersecurity**
 
 Margaret (Margie) H. Graves is the Deputy Federal CIO for the Office of the Federal Chief Information Officer at the White House Office of Management and Budget. The Office of the Federal Chief Information Officer drives value in Federal IT, delivers world-class digital services, protects Federal IT assets and information, and develops the next generation IT workforce. In her role, Margie works to improve the way Government delivers results and technology services to the public.
 
@@ -122,8 +109,6 @@ She holds a M.B.A. from the University of Virginia Darden School of Business and
 
 #### Grant Schneider, Acting Federal Chief Information Security Officer, Office of Management and Budget and Senior Director for Cybersecurity Policy, National Security Council
 
-**Highlighted Expertise: Cybersecurity, Technical Engineering, Technical Oversight**
-
 Grant Schneider serves as the Acting Federal Chief Information Security Officer and Senior Director for Cybersecurity Policy on the National Security Council Staff. In these roles, Mr. Schneider leads teams of cybersecurity experts who develop and oversee implementation of crosscutting policies to enhance the Nation’s cybersecurity. 
 
 Mr. Schneider played an instrumental role in the government-wide response to the OPM cybersecurity incidents in 2014 and 2015. Prior to joining the White House as Cybersecurity Adviser to the Federal Chief Information Officer in 2015, Mr. Schneider served for seven years as the Defense Intelligence Agency’s CIO. Mr. Schneider is an avid sailor and enjoys a quiet moment on the Chesapeake Bay, when he can find one. 
@@ -131,8 +116,6 @@ Mr. Schneider played an instrumental role in the government-wide response to the
 <img src="/assets/img/technology-modernization-board/EG.jpg">
 
 #### Dr. Erwin Gianchandani, Deputy Assistant Director for Computer and Information Science and Engineering, National Science Foundation
-
-**Highlighted Expertise: Financial Management, Technical Engineering, Technical Oversight**
 
 Dr. Erwin Gianchandani is the National Science Foundation (NSF) Deputy Assistant Director for Computer and Information Science and Engineering (CISE). In this role, he contributes to all aspects of the management of the CISE directorate, including strategic and human capital planning, formulation and implementation of the directorate’s more than $900 million annual budget, and oversight of day-to-day operations. In the last several years, he has led the development, launch, and implementation of several new NSF investment areas, including Smart & Connected Communities and Platforms for Advanced Wireless Research.
 
@@ -143,8 +126,6 @@ Dr. Gianchandani has published extensively and presented at numerous internation
 <img src="/assets/img/technology-modernization-board/SB.jpg">
 
 #### Scott Blackburn, Acting Chief Information Officer, Department of Veterans Affairs
-
-**Highlighted Expertise: Business Transformation, Technical Oversight, Financial Management, Acquisition Expertise**
 
 Mr. Blackburn was appointed Executive-in-Charge and Acting CIO for the Department of Veterans Affairs on October 1, 2017.  Previously Mr. Blackburn served as the Interim Deputy Secretary from February to September 2017. 
 
@@ -161,8 +142,6 @@ Born in Concord, Massachusetts, Mr. Blackburn is particularly proud that he was 
 <img src="/assets/img/technology-modernization-board/DA.jpg">
 
 #### Darren Ash, Chief Information Officer, Farm Service Agency, U.S. Department of Agriculture
-
-**Highlighted Expertise: Technical Oversight, Acquisition, Financial Management, Cybersecurity**
 
 Darren Ash was selected to serve as the Chief Information Officer for the Farm Service Agency in March 2016.
 

@@ -17,7 +17,7 @@ February 27, 2018
 The Modernizing Government Technology (MGT) Act is a key component of this Administration’s continued efforts to improve Federal technology by providing financial resources and technical expertise to agencies. The MGT Act will allow agencies to invest in modern technology solutions to improve service delivery to the public, secure sensitive systems and data, and save taxpayer dollars. This memorandum sets forth Administration objectives and necessary actions agencies should take in order to implement the MGT Act. 
 
 <form method="get" action="/assets/PDF/MGTActGuidance.PDF">
-<button class="usa-button">Download</button>
+<button class="usa-button">Download as PDF</button>
 </form>
 
 
@@ -49,9 +49,7 @@ The MGT Act was enacted as part of the Fiscal Year 2018 National Defense Authori
 
 This memorandum provides guidance to all agencies regarding the necessary planning for upcoming TMF activities, including the initial process for submitting project proposals to the Board, additional guidance to CFO Act agencies<sup>[5](#5)</sup>   regarding the administration and funding of IT WCFs, and where to find additional information on topics such as disbursement and repayment process for the TMF funds. 
 
-
 <a id="Section A"></a>
-
 ## A.	Guidance to Agencies on the Technology Modernization Fund and Technology Modernization Board ## 
 
 Section A of this guidance is applicable to all agencies (as defined in 5 U.S.C. §551(1)).
@@ -130,22 +128,19 @@ Agencies are reminded that, pursuant to the MGT Act, all transfers and reprogram
 
 ### Initial Project Proposal Template ###
 
-<a href="/assets/APPENDIXA.docx" download> Download Document</a>
+<a href="/assets/APPENDIXA.docx" download> Download this template as a Microsoft Word file</a>
 
 Instructions: Please fill out all of the information requested below. Initial Project Proposals selected by the Technology Modernization Board (Board) for further consideration may receive assistance in developing an in-depth proposal and business case to present to the Board. Please avoid the use of acronyms or terminology likely to be unfamiliar to someone outside of your agency and/or program area. 
 
-Please complete the form using plain language and submit to OMB, as a .docx file, at <a href="mailto:ofcio@omb.eop.gov">ofcio@omb.eop.gov</a>. <strouease limit Initial Project Proposals to 2 pages, using 10 point font (“General Information” excepted). </strongurong> General Information </u>
+Please complete the form using plain language and submit to OMB, as a .docx file, at <a href="mailto:ofcio@omb.eop.gov">ofcio@omb.eop.gov</a>. <strong>Please limit Initial Project Proposals to 2 pages, using 10 point font (“General Information” excepted).</strong> 
 
-<html>
-<head>
+
 <style>
 table, th, td {
     border: 1px solid black;
 }
 </style>
-</head>
-<body>
-
+<u>General Information </u>
 <table style="width:100%">
   <tr>
     <th>Project Name:</th>
@@ -172,8 +167,6 @@ table, th, td {
 
 </table>
 
-</body>
-</html>
 
 <ol type="1">
 
@@ -210,8 +203,9 @@ A thoughtful IT modernization strategy prioritizes projects based on impact and 
 
 The following topics are neither exhaustive nor may be applicable to all agency projects, but serve to provide a framework to identify projects ripe for IT modernization. 
 
-Agencies submitting Initial Project Proposals are encouraged (though not required) to address these considerations, including citing or attaching evidence that their project meets any applicable considerations. Agency project sponsors should also be able to address these issues as part of the evaluation process, should a project merit additional examination by the Board. urong> Impact on Agency Mission </u>
+Agencies submitting Initial Project Proposals are encouraged (though not required) to address these considerations, including citing or attaching evidence that their project meets any applicable considerations. Agency project sponsors should also be able to address these issues as part of the evaluation process, should a project merit additional examination by the Board. 
 
+<u> Impact on Agency Mission </u>
 <ul>
 <li> User Impact and Expected Outcomes: Successfully executing this project will have a demonstrable and visible impact to the public, in alignment with the agency’s mission. The project will articulate a desired end state that clearly showcases how expected outcomes will enhance the delivery of services that reduces burden, improves performance, or has the potential to produce positive long term benefits. </li>
 
