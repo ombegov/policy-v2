@@ -1,6 +1,6 @@
 ---
 layout: default
-display_order: 4
+display_order: 5
 title: Technology Modernization Board Members
 permalink: /modernizing-government-technology/technology-board-members/
 description: "Technology Modernization Board Members"
