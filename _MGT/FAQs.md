@@ -1,6 +1,6 @@
 ---
 layout: default
-display_order: 5
+display_order: 6
 title: TMF Frequently Asked Questions
 permalink: /modernizing-government-technology/faq
 description: "FAQs"
