@@ -121,7 +121,7 @@ The Office of Personnel Management (OPM) is responsible for the following action
 
 The Department of Homeland Security (DHS) is responsible for the following actions:
 
-1. Ensure that the *Risk Management Process for Federal Facilities: An Interagency Security Committee Standard*<sup id="fnref:17"><a href="#fn:17" class="footnote">17</a></sup>, and other pertinent Interagency Security Committee (ISC) guidance, are aligned with government-wide policy for the implementation of PIV credentials;
+1. Ensure that the *Risk Management Process for Federal Facilities: An Interagency Security Committee Standard*,<sup id="fnref:17"><a href="#fn:17" class="footnote">17</a></sup> and other pertinent Interagency Security Committee (ISC) guidance, are aligned with government-wide policy for the implementation of PIV credentials;
 
 2. Lead R&D coordination with the interagency, private sector, and international partner stakeholders to identify ICAM mission needs with related technology capability gaps, including in particular those that cannot be solved with currently fielded technologies, and that may require additional R&D investment to reach operational deployment maturity.
 
@@ -190,6 +190,7 @@ PIV credentials shall be used as the standard means of authentication for Federa
 #### Physical Access Control Requirements ####
 
 Agencies shall require use of the PIV credentials as the common means of authentication for Federal employee and contractor access to Federally-controlled facilities. Agencies shall ensure that use of the PIV credential for physical access to Federal buildings are implemented in accordance with *The Risk Management Process for Federal Facilities: An Interagency Security Committee Standard* and NIST SP 800-116, *A Recommendation for the Use of PIV Credentials in Physical Access Control Systems (PACS)*. This publication provides additional information on the use of PIV Credentials, the Government-wide standard identity credential, in physical access control systems.<sup id="fnref:28"><a href="#fn:28" class="footnote">28</a></sup>
+
 
 ### Citizens, Business Partners, and Other Partners ###
 
