@@ -123,21 +123,6 @@ Previously, Dr. Gianchandani served as the Deputy Division Director for the CISE
 
 Dr. Gianchandani has published extensively and presented at numerous international conferences on the subject of computational systems modeling of biological networks, with the goal of better understanding disease mechanisms and identifying therapeutic targets. Dr. Gianchandani earned his Ph.D. and M.S. in biomedical engineering and his B.S. in computer science from the University of Virginia.
 
-<img src="/assets/img/technology-modernization-board/SB.jpg">
-
-#### Scott Blackburn, Acting Chief Information Officer, Department of Veterans Affairs
-
-Mr. Blackburn was appointed Executive-in-Charge and Acting CIO for the Department of Veterans Affairs on October 1, 2017.  Previously Mr. Blackburn served as the Interim Deputy Secretary from February to September 2017. 
-
-Mr. Blackburn joined VA in November 2014 to lead the MyVA department-wide transformation effort under Secretary Bob McDonald. Mr. Blackburn has helped conceive, design, launch, manage, and now lead VA’s ambitious journey to be a world-class service provider and the No. 1 customer-service agency in the Federal government.
-
-Prior to VA, Mr. Blackburn spent nearly a decade as a consultant at McKinsey & Company, where he helped transform cultures of large, often bureaucratic, Fortune 500 companies. He was named partner in 2011.
-
-Mr. Blackburn comes from a family with a strong traditional of military service. All four of his sibling are veterans, and he served in the Army from 1999 to 2003 as an Armor and Signals Corps Officer. Mr. Blackburn is a veteran of Operation Enduring Freedom and Operation Anaconda in Afghanistan.
-
-Medically discharged after a non-combat-related back injury in Kuwait, Mr. Blackburn is a beneficiary of VA’s Vocational Rehabilitation Program that facilitates a smooth transition from uniform to university. Mr. Blackburn has a Mechanical Engineering degree from Massachusetts Institute of Technology and a MBA from Harvard Business School. 
-
-Born in Concord, Massachusetts, Mr. Blackburn is particularly proud that he was raised in the coastal town of Scituate, popularly known as the Irish Riviera.
 
 <img src="/assets/img/technology-modernization-board/DA.jpg">
 
