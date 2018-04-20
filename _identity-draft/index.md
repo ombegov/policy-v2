@@ -15,7 +15,7 @@ permalink: /identity-draft/
 
 > _Comments may be submitted by creating an issue on the [GitHub page](https://github.com/ombegov/policy-v2/labels/identity-draft) for this draft policy or by emailing the Office of the Federal Chief Information Officer at [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov)_
 
-Agencies must be able to identify, credential, monitor, and manage user access to information and information systems across their enterprise in order to ensure secure and efficient operations. In particular, how agencies conduct identity proofing,<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> establish digital identities, and adopt sound processes for authentication and access control will significantly impact the security of their digital services. Additionally, as information about individuals becomes more widely available through social media or through breaches of personally identifiable information (PII), it is increasingly important that all agencies adopt identity validation solutions that enhance privacy and mitigate negative impacts to delivery of digital services and maintenance of online trust. It is also essential that agencies’ Identity, Credential, and Access Management (ICAM) strategies and solutions are informed by risk perspectives and driven by targeted outcomes.
+Agencies must be able to identify, credential, monitor, and manage user access to information and information systems across their enterprise in order to ensure secure and efficient operations. In particular, how agencies conduct identity proofing,<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> establish digital identities, authenticate users, and control access to digital resources will significantly impact the security of their digital services. Additionally, as information about individuals becomes more widely available through social media or through breaches of personally identifiable information (PII), it is increasingly important that all agencies adopt identity verification solutions that enhance privacy, mitigate negative impacts to misdelivery of digital services, and maintain online trust. It is also essential that agencies’ Identity, Credential, and Access Management (ICAM) strategies and solutions be informed by risk perspectives and driven by targeted outcomes.
 
 This memorandum sets forth the ICAM policy, providing agencies with guidance to strengthen the security of information and information systems. Specifically, it elaborates on three main areas: 
 
@@ -24,7 +24,7 @@ This memorandum sets forth the ICAM policy, providing agencies with guidance to 
 2. Modernization of agency ICAM capabilities; and
 3. Agency adoption of ICAM shared solutions and services.
 
-This memorandum also outlines government-wide ICAM responsibilities, and updates previous requirements in areas such as multi-factor authentication, encryption, digital signatures, acquisition, and interoperability. 
+This memorandum also outlines government-wide ICAM responsibilities and updates previous requirements in areas such as multi-factor authentication, encryption, digital signatures, acquisition, and interoperability. 
 
 ### Implementation of Effective ICAM Governance ###
 
@@ -34,9 +34,9 @@ To reach these goals, agencies shall:
 
 1. Define and implement ICAM policies, processes, and technology solutions that encompass the agency’s entire enterprise, align with the government-wide Federal ICAM Enterprise Architecture, and meet Federal policies, standards, and guidelines;<sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup> 
 
-2. Designate an integrated ICAM office, team, or other governance structure in support of its Enterprise Risk Management capability that includes personnel from the offices of the Chief Information Officer, Chief Security Officer, Human Resources, General Counsel, Senior Agency Official for Privacy, and component organizations that manage ICAM programs and capabilities. These offices, as well as program managers and acquisition offices, should regularly coordinate to ensure that the agency’s ICAM policies, processes, and technologies are being implemented, maintained and managed consistently. This includes coordinating the deployment of capabilities and functionality provided through the Continuous Diagnostics and Mitigation (CDM) Program;<sup id="fnref:5"><a href="#fn:5" class="footnote">5</a></sup> 
+2. Designate an integrated ICAM office, team, or other governance structure in support of its Enterprise Risk Management capability that includes personnel from the offices of the agency's Chief Information Officer, Chief Security Officer, Human Resources, General Counsel, Senior Agency Official for Privacy, and component organizations that manage ICAM programs and capabilities. These offices, as well as program managers and acquisition offices, should regularly coordinate to ensure that the agency’s ICAM policies, processes, and technologies are being implemented, maintained and managed consistently. This includes coordinating the deployment of capabilities and functionality provided through the Continuous Diagnostics and Mitigation (CDM) Program;<sup id="fnref:5"><a href="#fn:5" class="footnote">5</a></sup> 
 
-3. Outline enterprise-level performance expectations for cybersecurity and privacy risk management throughout each user’s lifecycle, including changes in the user’s access privileges;
+3. Outline enterprise-level performance expectations for cybersecurity and privacy risk management throughout the user lifecycle, including changes in the user’s access privileges;
 
 4. Develop a mechanism to streamline and automate enterprise-level performance reporting. This mechanism should align with existing and planned reporting and analytics structures and tools, such as the CDM dashboards and FISMA reporting; and 
 
@@ -51,15 +51,15 @@ To reach these goals, agencies shall:
 
 It is imperative that agencies implement and harmonize their ICAM capabilities, while ensuring that ICAM solutions are not fragmented or duplicative. To achieve this objective, agencies shall take the following steps to modernize their ICAM architecture:
 
-1. *Reduce Solution Overlap*: Agencies shall establish authoritative solutions for their ICAM services,  promoting the most effective solutions at an enterprise level.
+1. *Reduce Solution Overlap*: Agencies shall establish model solutions for their ICAM services, promoting the most effective solutions at an enterprise level.
 
 2. *Promote Innovation through Modularity*: Agencies shall ensure that deployed ICAM capabilities are interchangeable and developed based on open Application Programming Interfaces (APIs) and/or commercial standards to promote interoperability and enable componentized development.
 
 ### Agency Adoption of ICAM Shared Solutions and Services ###
 
-Common shared solutions and services have been created or are in development across government to support the accelerated adoption of modern ICAM capabilities. Agencies should begin moving to ICAM shared services and should plan to incorporate new services once they are available. Current and planned shared services include:
+Common shared solutions and services have been created or are in development across government to support the accelerated adoption of modern ICAM capabilities. Agencies should begin moving to shared ICAM services and should plan to incorporate new services once they are available. Current and planned shared services include:
 
-1.*Credential Management Services*: The General Services Administration (GSA) maintains the Public Key Infrastructure (PKI) Shared Service Provider Program to enable strong government oversight of service providers offering digital certificates for identity and authentication.<sup id="fnref:9"><a href="#fn:9" class="footnote">9</a></sup> Use of the PKI shared service, with standard contract language, will allow for coordinated security management and oversight and is intended to reduce the complexity of contract management at the agency level. It will also facilitate compliance with NIST standards and guidelines and Federal PKI (FPKI)<sup id="fnref:10"><a href="#fn:10" class="footnote">10</a></sup> policy requirements developed by the Federal CIO Council.
+1.*Credential Management Services*: The General Services Administration (GSA) maintains the Public Key Infrastructure (PKI) Shared Service Provider Program to enable strong government oversight of service providers offering digital certificates for identity and authentication.<sup id="fnref:9"><a href="#fn:9" class="footnote">9</a></sup> Use of the PKI Shared Service, with standard contract language, will allow for coordinated security management and oversight and is intended to reduce the complexity of contract management at the agency level. It will also facilitate compliance with NIST standards and guidelines and Federal PKI (FPKI)<sup id="fnref:10"><a href="#fn:10" class="footnote">10</a></sup> policy requirements developed by the Federal CIO Council.
 
 > - Agencies should leverage approved contract vehicles to procure digital certificates for identification and authentication.
 
@@ -87,9 +87,9 @@ The following agencies lead Government-wide efforts to improve the management an
 
 The Department of Commerce is responsible for implementing the following actions:
 
-1. Develop and issue guidance to promote deployment of technology, including those in open source that address agency digital identity needs such as derived Personal Identity Verification (PIV) and other credentials;
+1. Develop and issue guidance to promote deployment of technologies, including those in open source, that address agency digital identity needs such as derived Personal Identity Verification (PIV) and other credentials;
 
-2. Establish and develop implementation guidance for identity federation protocol(s) for use cases such as Government-to-Business that support various authenticators and identity proofing components in alignment with NIST SP 800-63;
+2. Establish and develop implementation guidance for identity federation protocol(s) for use cases such as Government-to-Business and Government-to-Consumer that support various authenticators and identity proofing components in alignment with NIST SP 800-63;
 
 3. Develop criteria, in coordination with GSA, for approving products that meet the assurance levels outlined in NIST SP 800-63; 
 
@@ -111,7 +111,7 @@ The General Services Administration (GSA) is responsible for implementing the fo
 
 6. Develop and publish, in consultation with NIST, OPM, and DHS, a Physical Access Control System (PACS) security and privacy control overlay<sup id="fnref:13"><a href="#fn:13" class="footnote">13</a></sup> to help agencies identify core controls for PACS; and
 
-7. Determine the feasibility of expanding the USAccess program to include Derived PIV Credentials as a service offering. For those agencies not leveraging a Federal shared service for Derived PIV credentials, the FIPS 201 Evaluation Program shall establish a process so agencies may ensure the credentials they are using meet the technical specifications outlined in NIST SP 800-157.
+7. Determine the feasibility of expanding the USAccess program to include Derived PIV Credentials as a service offering. For those agencies not leveraging a Federal shared service for Derived PIV credentials, the FIPS 201 Evaluation Program shall establish a process so agencies may ensure the credentials they are using meet the technical specifications outlined in NIST SP 800-157 (as revised).
 
 The Office of Personnel Management (OPM) is responsible for the following actions:
 
@@ -167,7 +167,7 @@ Applicability of HSPD-12 requirements to other agency specific categories of ind
 
 #### Interoperability, Reciprocity, and Revocation of Credentials ####
 
-Agencies shall implement processes to determine if an employee or contractor already possesses a valid PIV credential and leverage the existing, valid PIV credential rather than issuing a separate one, where feasible. Agency processes shall accept and electronically verify PIV credentials issued by other agencies. This is equally applicable for local and physical access where another agency’s employee has been provisioned access. Agencies shall also implement processes to revoke or destroy credentials in a timely manner to prevent instances of unauthorized access when the credential has been compromised, the employee or contractor has been terminated, or the credential is lost.
+Agencies should implement processes to determine if an employee or contractor already possesses a valid PIV credential and leverage the existing, valid PIV credential rather than issuing a separate one. Agency processes shall accept and electronically verify PIV credentials issued by other agencies. This is equally applicable for local and physical access where another agency’s employee has been provisioned access. Agencies shall also implement processes to revoke or destroy credentials in a timely manner to prevent instances of unauthorized access when the credential has been compromised, the employee or contractor has been terminated, or the credential is lost.
 
 #### Acquisition of Products and Services ####
 
@@ -202,9 +202,9 @@ This section addresses the management of citizens, business partners, and other 
 
 3. Leverage existing credentials and identity federations at the acceptable AAL, IAL, and FAL rather than standing up processes or capabilities to issue new credentials to these users;
 
-4. Acquire approved products and services that that have been demonstrated to meet Federal policy, standards, and supporting technical specifications by the GSA FIPS 201 Evaluation Program and made available on the Approved Products List; and
+4. Acquire approved products and services that that have been demonstrated to meet Federal policy, standards, and supporting technical specifications by the forthcoming SP 800-63 evaluation criteria and made available on the Approved Products List; and
 
-5. Implement robust practices and technologies for the efficient, secure management of user identity data and minimize the collection and storage of user identity data to only the data necessary to manage access and detect fraud while protecting it using Federally-approved encryption method.
+5. Implement robust practices and technologies for the efficient, secure management of user identity data and minimize the collection and storage of user identity data to only the data necessary to manage access and detect fraud while protecting it using federally-approved encryption method.
 
 _[Return to the Top]()_
 
@@ -218,7 +218,7 @@ _[Return to the Top]()_
 </p>
 </li>
 <li id="fn:2">
-<p>NIST Special Publication 800-63, Digital Identity Guidelines is available at: <a href="http://csrc.nist.gov/publications">http://csrc.nist.gov/publications</a>.
+<p>NIST Special Publication 800-63, *Digital Identity Guidelines* is available at: <a href="http://csrc.nist.gov/publications">http://csrc.nist.gov/publications</a>.
 </p>
 </li>
 <li id="fn:3">
