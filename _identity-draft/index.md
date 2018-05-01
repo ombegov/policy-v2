@@ -123,7 +123,7 @@ The Department of Homeland Security (DHS) is responsible for the following actio
 
 1. Ensure that the *Risk Management Process for Federal Facilities: An Interagency Security Committee Standard*,<sup id="fnref:17"><a href="#fn:17" class="footnote">17</a></sup> and other pertinent Interagency Security Committee (ISC) guidance, are aligned with government-wide policy for the implementation of PIV credentials;
 
-2. Lead R&D coordination with the interagency, private sector, and international partner stakeholders to identify ICAM mission needs with related technology capability gaps, including in particular those that cannot be solved with currently fielded technologies, and that may require additional R&D investment to reach operational deployment maturity.
+2. The DHS S&T Identity Management Program in Cybersecurity Division will specifically lead R&D coordination with the interagency, private sector, and international partner stakeholders to identify ICAM mission needs with related technology capability gaps, including in particular those that cannot be solved with currently fielded technologies, and that may require additional R&D investment to reach operational deployment maturity.
 
 ## Rescissions ##
 
