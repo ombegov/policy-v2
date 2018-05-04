@@ -13,7 +13,17 @@ permalink: /identity-draft/
 
 > The White House Office of Management and Budget (OMB) is proposing a new policy to address Federal agencies’ implementation of Identity, Credential, and Access Management (ICAM) – the security disciplines that enable the right individual to access the right resource, at the right time, for the right reason.
 
-> _Comments may be submitted by creating an issue on the [GitHub page](https://github.com/ombegov/policy-v2/labels/identity-draft) for this draft policy or by emailing the Office of the Federal Chief Information Officer at [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov)_
+## Update as of 05/04/2018 ##
+### Due to technical difficulties, OMB may not have received comments submitted to ofcio@omb.eop.gov on May 3rd (Thursday) or May 4th (Friday). If you submitted a comment on either of these days, or if you would like to submit a new comment via email, please send a message with any attachments to Jordan Burris at [Jordan.C.Burris@omb.eop.gov](Jordan.C.Burris@omb.eop.gov). ###
+
+### Comments may also be submitted by creating an issue on the [GitHub page](https://github.com/ombegov/policy-v2/labels/identity-draft) for this draft policy ###
+
+### We apologize for any inconvenience this may have caused and are extending the submission window for this comment period through 11:59pm Monday, May 7th. ### 
+
+### Thank you, OFCIO ###
+
+
+
 
 Agencies must be able to identify, credential, monitor, and manage user access to information and information systems across their enterprise in order to ensure secure and efficient operations. In particular, how agencies conduct identity proofing,<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> establish digital identities, and adopt sound processes for authentication and access control will significantly impact the security of their digital services. Additionally, as information about individuals becomes more widely available through social media or through breaches of personally identifiable information (PII), it is increasingly important that all agencies adopt identity validation solutions that enhance privacy and mitigate negative impacts to delivery of digital services and maintenance of online trust. It is also essential that agencies’ Identity, Credential, and Access Management (ICAM) strategies and solutions are informed by risk perspectives and driven by targeted outcomes.
 
