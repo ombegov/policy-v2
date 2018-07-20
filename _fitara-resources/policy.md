@@ -12,6 +12,8 @@ Templates, resources and guidance to help agencies implement FITARA
 
 * [FITARA Implementation Guidance](/implementation)
 
+* [Executive Order Enhancing the Effectiveness of Agency Chief Information Officers](https://www.whitehouse.gov/presidential-actions/executive-order-enhancing-effectiveness-agency-chief-information-officers/)
+
 * [Applying FITARA Common Baseline to Statistical Agencies and Units (supplemental implementation guidance)](https://management.cio.gov/assets/docs/FITARA_Guidance_Statistical_Agencies_and_Units_OMB.pdf)
 
 * [Frequently Asked Questions (FAQs)](/faq)
