@@ -9,7 +9,7 @@ description:
 
 Common user interface components and visual styles help create a seamless transition across an agency’s websites and improve the ease with which the public can find information.
 Federal Agencies should ensure a consistent look and feel of their public facing websites and digital services. 
-The U.S. Website Design Standards, found at [https://playbook.cio.gov/designstandards/getting-started/](https://playbook.cio.gov/designstandards/getting-started/), is available to all agencies to assist with this process. 
+The U.S. Website Design Standards, found at [https://standards.usa.gov/getting-started/](https://standards.usa.gov/getting-started/), is available to all agencies to assist with this process. 
 
 
 
