@@ -16,7 +16,19 @@ markdown: kramdown
 # Put the information about your site's GitHub repository if it is public
 repo_url: https://github.com/ombegov/policy-v2
 
-collections: 
+# GitHub information
+# This is used for adding an edit this page link to the footer
+github:
+  organization: ombegov
+  repository: policy-v2
+  default_branch: gh-pages
+
+mail: ofcio@omb.eop.gov
+
+# Set this to false once the policy is no longer a draft, to remove the "draft" banner.
+draft: true
+
+collections:
   overview:
     output: true
     permalink: /:path/
@@ -155,6 +167,13 @@ collections:
     output: true
     permalink: /identity-draft/:path/
     url: /identity-draft/
-    status: draft
+    status: archived
     title: "Identity Policy"
     github-label: _identitydraft
+  tic-draft:
+    output: true
+    permalink: /tic-draft/:path/
+    url: /tic-draft/
+    status: draft
+    title: "Trusted Internet Connections Policy"
+    github-label: tic-draft
