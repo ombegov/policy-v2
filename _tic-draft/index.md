@@ -23,9 +23,9 @@ permalink: /tic-draft/
     <p>
     3. Send your content suggestions or proposed revisions to the OMB Office of the Federal Chief Information Officer via email to <a href="mailto:{{site.mail}}">{{site.mail}}</a>. Please note that all comments received will be posted publicly.
     </p>
-    <!--p>
-    Comments must be received on or before January 14, 2018.
-    </p-->
+    <p>
+    Comments must be received on or before January 18, 2019.
+    </p>
   </div>
 </div>
 {% endif %}
