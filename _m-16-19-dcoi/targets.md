@@ -65,7 +65,7 @@ Within 30 days after publication of this document, OMB OFCIO will share with eac
 
 <a name="29">29</a>  Benchmarked against the sum of all non-cloud data center costs (including data center labor, software, hardware, electricity, and facility) found in physical data center fields of the IT Inventory Summary Table of the IT Dashboard.
 
-<a name="30">30</a> Estimated reduction in gross floor area of data centers is approximate and has been based on the average size, in square feet, of the data centers of each type to be closed.
+<a name="30">30</a> Consistent with OMB Circular A-131, the term "cost savings" refers to "a reduction in actual expenditures below the projected level of costs to achieve a specific objective," and the term "cost avoidance" refers to "an action taken in the immediate time frame that will decrease costs in the future." 
 
 <a name="31">31</a> Excludes print servers.
 
