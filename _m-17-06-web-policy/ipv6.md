@@ -18,5 +18,5 @@ Agencies must remain up to date with major technical changes in internet protoco
 
 <a name="myfootnote12">41</a>: 48 CFR 11.002(g); see 48 CFR 7.105(b)(4)(iii), 12.202(e), and 39.101(e) 
 
-<a name="myfootnote12">42</a>: See NIST SP 500-267, “A Profile for IPv6 in the US Government:” [http://csrc.nist.gov/publications/nistpubs/800-119/sp800-119.pdf](http://csrc.nist.gov/publications/nistpubs/800-119/sp800-119.pdf)
+<a name="myfootnote12">42</a>: See NIST SP 500-267, “A Profile for IPv6 in the US Government:” [https://www.nist.gov/sites/default/files/documents/itl/antd/usgv6-v1.pdf](https://www.nist.gov/sites/default/files/documents/itl/antd/usgv6-v1.pdf)
 

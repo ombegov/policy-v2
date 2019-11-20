@@ -18,7 +18,7 @@ Templates, resources and guidance to help agencies implement FITARA
 
 * [Management.cio.gov Schema](https://management.cio.gov/schema/) 
 
-* [April 30th Update Guidance and Template](/assets/docs/April FITARA Update Guidance and Template.docx)
+* [Self-Assessment Update Instructions - included in the Integrated Data Collection Instructions on MAX](https://community.max.gov/pages/viewpage.action?pageId=658905902)
 
 ## Related Policies
 
