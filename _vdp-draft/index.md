@@ -23,7 +23,7 @@ permalink: /vdp-draft/
     3. Send your content suggestions or proposed revisions to the OMB Office of the Federal Chief Information Officer via email to <a href="mailto:{{site.mail}}">{{site.mail}}</a>. Please note that all comments received will be posted publicly.
     </p>
     <p>
-    The deadline for submitting comments is 5:00 PM EST on December 20, 2019.
+    The deadline for submitting comments is 5:00 PM EST on December 27, 2019.
     </p>
   </div>
 </div>
