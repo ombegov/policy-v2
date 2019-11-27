@@ -104,7 +104,7 @@ To better understand how methods compare, contrast, or complement each other, th
 |---------------------------------------------------|---------------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 |Crowdsourced Vulnerability Disclosure (VDP)||Public|Varies; Typically recognition|Generally broad, accepting anything that could be considered a security risk|
 |Crowdsourced Penetration Testing|Public Bug Bounty Program|Public|Recognition and/or cash or other incentive of relative value to the reporter|Slightly less broad (typically targeting key systems), accepting anything that could be considered a security risk and that requires a fix|
-|Private Bug Bounty Program|Private|Recognition and/or high-value incentive|More specific scope or focus, to encourage testing on a   particular aspect of an attack surface||
+|Crowdsourced Penetration Testing|Private Bug Bounty Program|Private|Recognition and/or high-value incentive|More specific scope or focus, to encourage testing on a   particular aspect of an attack surface|
 |Standard Penetration Testing||Private|Contractual agreement<sup id="fnref:10"><a href="#fn:10" class="footnote">10</a></sup>|More specific scope or focus, to encourage testing on a particular aspect of an attack surface|
 
 #### Endnotes <a id="Endnotes"></a> ####
