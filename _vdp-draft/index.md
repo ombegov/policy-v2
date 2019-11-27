@@ -100,11 +100,11 @@ VDP adoption and integration is sfvimilar to, but distinct from, a bug bounty.  
 
 To better understand how methods compare, contrast, or complement each other, the below table provides a high-level overview of the standard visibility, incentives<sup id="fnref:8"><a href="#fn:8" class="footnote">8</a></sup>, and scope of each method type.
 
-|Method Type||Visibility|Incentive<sup id="fnref:9"><a href="#fn:9" class="footnote">9</a></sup>|Scope|
+|Method Type|Alternate Name(s)|Visibility|Incentive<sup id="fnref:9"><a href="#fn:9" class="footnote">9</a></sup>|Scope|
 |---------------------------------------------------|---------------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 |Crowdsourced Vulnerability Disclosure (VDP)||Public|Varies; Typically recognition|Generally broad, accepting anything that could be considered a security risk|
 |Crowdsourced Penetration Testing|Public Bug Bounty Program|Public|Recognition and/or cash or other incentive of relative value to the reporter|Slightly less broad (typically targeting key systems), accepting anything that could be considered a security risk and that requires a fix|
-|Private Bug Bounty Program|Private|Recognition and/or high-value incentive|More specific scope or focus, to encourage testing on a   particular aspect of an attack surface||
+|Private Bug Bounty Program||Private|Recognition and/or high-value incentive|More specific scope or focus, to encourage testing on a   particular aspect of an attack surface|
 |Standard Penetration Testing||Private|Contractual agreement<sup id="fnref:10"><a href="#fn:10" class="footnote">10</a></sup>|More specific scope or focus, to encourage testing on a particular aspect of an attack surface|
 
 #### Endnotes <a id="Endnotes"></a> ####
